@@ -1,6 +1,0 @@
-for file in /home/theboss/Desktop/step/htmlFiles/*
-
-do
-    python htmlExtract.py "$file"
-done
-

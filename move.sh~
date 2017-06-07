@@ -1,4 +1,0 @@
-
-mkdir -p /home/theboss/Desktop/step/htmlFiles/parsedFiles
-
-mv /home/theboss/Desktop/step/htmlFiles/*Parsed.txt /home/theboss/Desktop/step/htmlFiles/parsedFiles
