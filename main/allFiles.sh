@@ -2,7 +2,8 @@
 #Last modified by Subhan Poudel on 6/7/17
 #Sulav Acharaya, specifically, was not present
 
-for file in /home/theboss/Desktop/step/main/htmlFiles/*
+for file in /home/mw223/Documents/ignData/* 
+
 
 do
     python htmlExtract.py "$file"

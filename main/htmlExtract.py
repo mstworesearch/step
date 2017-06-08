@@ -8,7 +8,13 @@ from bs4 import BeautifulSoup
 import sys
 
 userData = str(sys.argv[1])
-newStr = userData.replace(".txt", "Parsed.txt")
+
+if ".html" in userData:
+	newStr = userData.replace(".html", "Parsed.txt")
+elif ".txt" in userData:
+	newStr = userData.replace(".txt", "Parsed.txt")
+else:
+	newStr = userData + "Parsed.txt"
 
 f = open(newStr, 'w+')
 

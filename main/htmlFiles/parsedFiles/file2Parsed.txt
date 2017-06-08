@@ -1,4 +1,0 @@
- Hello, World! 
-
- This is a norm for some reason I do not know 
- Seriously, I should know this as a CS major 

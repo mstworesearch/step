@@ -2,6 +2,7 @@
 #Last modified by Subhan Poudel on 6/7/17
 #Sulav Acharaya, specifically, was not present
 
-mkdir -p /home/theboss/Desktop/step/main/htmlFiles/parsedFiles
+mkdir -p /home/mw223/Documents/ignData/parsedFiles
 
-mv /home/theboss/Desktop/step/main/htmlFiles/*Parsed.txt /home/theboss/Desktop/step/main/htmlFiles/parsedFiles
+mv /home/mw223/Documents/ignData/*Parsed.txt /home/mw223/Documents/ignData/parsedFiles 
+
