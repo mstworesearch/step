@@ -1,13 +1,12 @@
 #This file contains the rules behind the STEP project
 #Written by Matthew Wallace and Subhan Poudel
 
-import nltk 
+import nltk
 import sys
 from nltk.tokenize import sent_tokenize
-#from nltk.tokenize.punkt    import PunktSentenceTokenizer
+#from nltk.tokenize.punkt import PunktSentenceTokenizer
 
 text_file = str(sys.argv[1])
-
 
 
 '''
@@ -20,9 +19,6 @@ We need the following functions:
 
 
 '''
-   
-
-
 
 def textToString(textFile):
     #Reads in a file and assigns it to a string
@@ -36,11 +32,14 @@ def textToString(textFile):
     return whole_text
 
 def setMaker(text):
-    #Reads in text string and puts each sentence into a list
-    sent_list = []
-    sent_list = tokenize(text,realign_boundaries=True)
+    #Reads in text string and puts each sentence into an element in a list. Returns the list.
+    sent_list = sent_tokenize(text)
     return sent_list
-    
+
+def syntax_classifier(listText):
+    #Reads through a list, add a classification to each element and add the element and classification to a tuple. Returns a list of tuples.
+    for item in listText:
+        
 '''
 def setRules(textFile):
     with open(textFile) as fp:

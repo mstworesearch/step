@@ -1,0 +1,3 @@
+Here are what we want to classify each sentence as:
+     imperative vs declaritive
+     not genre, or topic (another function)
