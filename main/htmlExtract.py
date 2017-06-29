@@ -24,6 +24,8 @@ with open(userData) as fp:
 data = soup.find('title').getText()
 f.write(data + '\n\n')
 
+for a in soup.findAll('a', href = True):
+	f.write("URL: " + a['href'])
 
 for node in soup.findAll('p'):
    f.write(''.join(node.findAll(text=True)) + '\n')
