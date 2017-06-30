@@ -37,10 +37,39 @@ def setMaker(text):
     return sent_list
 
 def syntax_classifier(listText):
-    #Reads through a list, add a classification to each element and add the element and classification to a tuple. Returns a list of tuples.
+    #Reads through a list, add a classification to each element and add the element and classification to a tuple.
+    #Returns a list of tuples.
+    #For specific sentence types, without regard to the content of the given sentence.
+    tokens_list = [] # this is a list of tokens with their pos types, each is a tuple
     for item in listText:
+        #Split each sentence into tokens, and tag them
+        #Then, each tagged item should be checked against our grammars, and label the sentence as the type it
+        #corresponds to
+        tokens = nltk.word_tokenize(item)
+        pos_types = nltk.pos_tag(tokens)
+        tokens_list += pos_types 
+
+
+        
+
+'''
+ Current Approach:Parse the given sentence and check if the given sentence is declarative.
+        If the sentence is not declarative and there is no subject included,
+        then the sentence should be set as imperative
+
+'''
+
+
+       #Possible Approach:Find a corpus with imperative command verbs in it,
+        #train on that corpus with nltk default methods, and use that training to help
+        #the program correctly recognize imperative verbs at the beginning of
+        #sentences so that we can correctly categorize sentences 
+        
+        
+
         
 '''
+
 def setRules(textFile):
     with open(textFile) as fp:
         for line in fp:
