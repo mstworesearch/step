@@ -50,8 +50,7 @@ def syntax_classifier(listText):
         tokens = nltk.word_tokenize(item)
         pos_types = nltk.pos_tag(tokens)
         tokens_list += pos_types 
-        t = treebank.parsed_sents(
-
+        
         
 
 '''
