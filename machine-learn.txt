@@ -13,10 +13,25 @@ If declarative:
    Inverse, verb in the beginning, its 0
 
 
-Input 1: Boolean for "is there a verb"
-Input 2: Position of verb in sentence
-Input 3: Boolean for "is there a noun"
-Input 4: Position of noun in sentence
-Input 5: Relative position of noun with respect to verb
-Input 6: Position of input 5 in sentence
+Input 1: Boolean for "is there a verb" (bool)
+Input 2: Position of verb in sentence	(float)
+Input 3: Boolean for "is there a noun"   (bool)
+Input 4: Position of noun in sentence	(float)
+Input 5: Relative position of noun with respect to verb (float) IT MIGHT BE BETTER IF WE CONSIDER CORRELATION BETWEEN THEM rather than position
+Input 6: Position of input 5 in sentence	(float) This might be unnecessary because input 2 and 4 account for it right?
+
+
+Calculating the output:
+
+Consider the sentence: "Go ahead, make my day." - this is imperative
+The inputs for this sentence will be: [1, 1/7, 1, 6/7, 1/5, 5/7]
+There is a verb, and its at the beginning of the sentence.
+There is a noun, its the word day and its towards the end.
+They are not close so relative position is low.
+We're going to have to think about these inputs and the numbers.
+But the gist is that you multiply the input vector with the weights.
+Get a scalar output.
+So now, error becomes:
+error = 1 - output
+because the closer to 1, the more confident it is that the answer is imperative.
 
