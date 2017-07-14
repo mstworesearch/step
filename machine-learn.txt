@@ -35,3 +35,7 @@ So now, error becomes:
 error = 1 - output
 because the closer to 1, the more confident it is that the answer is imperative.
 
+TODO:
+Add a script that breaks up a text by sentence and allows you to attach a tag of
+sentence type to each sentence, as the script runs through the sentence itself. 
+
