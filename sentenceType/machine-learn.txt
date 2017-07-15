@@ -3,19 +3,19 @@ FIle for making the machine learning to determine sentence type
 1. Consider position in sentence
 2. Consider the part of speech in 
 
-If imperative
+If imperative, the program returns a 1
 
 However far back the verb is in sentence, the lower the weight for result imperative.
 
 Sliders for detection
 
-If declarative:
-   Inverse, verb in the beginning, its 0
 
 
 Input 1: Boolean for "is there a verb" (bool)
-Input 2: Position of verb in sentence	(float)
-Input 3: Boolean for "is there a noun"   (bool)
+Input 2: Is verb at beginning and not gerund (bool)
+Input 3: Boolean for "is there a VBZ"   (bool)
+
+The rest inputs are NOT IMPLEMENTED CURRENTLY
 Input 4: Position of noun in sentence	(float)
 Input 5: Relative position of noun with respect to verb (float) IT MIGHT BE BETTER IF WE CONSIDER CORRELATION BETWEEN THEM rather than position
 Input 6: Position of input 5 in sentence	(float) This might be unnecessary because input 2 and 4 account for it right?
