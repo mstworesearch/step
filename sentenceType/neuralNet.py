@@ -1,4 +1,5 @@
-#This is a neural network that decides whether a sentece is imperative or declarative.
+#Written by Subhan Poudel and Matt Wallace on 7/14/17
+#This is a neural network that decides whether a sentence is imperative or declarative.
 
 import sys
 import nltk
@@ -70,7 +71,7 @@ def input_builder(dataFile):
     return listSent
 
 def output_builder(dataFile):
-    #Reads in the data the data file
+    #Reads in the data file
     #outputs a list of lists of answers. [[0, 1, 1, 0]]
     ansList = []
     with open(dataFile, 'r') as fp:
@@ -117,8 +118,7 @@ class NeuralNetwork():
 		#the below line adds the adjustment to each of the existing synaptic weights
             self.synaptic_weights += adjustment
  
-    def think(self,inputs):
-            # Pass inputs through our neural network (our single neuron).
+    def think(self,inputs):            # Pass inputs through our neural network (our single neuron).
         return self.__sigmoid(dot(inputs, self.synaptic_weights))
  
  
