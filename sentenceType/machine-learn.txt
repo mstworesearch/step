@@ -21,6 +21,19 @@ Input 5: Relative position of noun with respect to verb (float) IT MIGHT BE BETT
 Input 6: Position of input 5 in sentence	(float) This might be unnecessary because input 2 and 4 account for it right?
 
 
+NEW PARAMS TO ADD:
+1. Is the first word a verb
+2. Is there a gerund in the entire sentence
+3. Is the first word a gerund
+4. Is there a question mark in the sentence
+5. Is there an exclamation mark in the sentence
+6. Is there a colon in the sentence
+7. Is there a semi-colon in the sentence
+8. Is a proper-noun in the sentence*
+9. 
+
+
+
 Calculating the output:
 
 Consider the sentence: "Go ahead, make my day." - this is imperative

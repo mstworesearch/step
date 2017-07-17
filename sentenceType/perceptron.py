@@ -1,4 +1,4 @@
-#Written by Subhan Poudel and Matt Wallace on 7/16/17
+#Written by Matt Wallace and Subhan Poudel on 7/16/17
 #This is a neural network that decides whether a sentence is imperative or declarative through a perceptron type model.
 
 import sys
@@ -119,6 +119,11 @@ class Perceptron():
                     
 
 
+    def think_single(self, single_input):
+        return 0
+
+    def calc_ans_single(self,single_input):
+        return 0
 
     def think(self, inputs):
         #Pass inputs through the network
