@@ -1,382 +1,382 @@
-The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light. ~0
-The question came about as a result of a five dollar bet over highballs, and it happened this way:  Alexander Adell and Bertram Lupov were two of the faithful attendants of Multivac. ~0
-As well as any human beings could, they knew what lay behind the cold, clicking, flashing face -- miles and miles of face -- of that giant computer. ~0
-They had at least a vague notion of the general plan of relays and circuits that had long since grown past the point where any single human could possibly have a firm grasp of the whole. ~0
-Multivac was self-adjusting and self-correcting. ~0
-It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough -- so Adell and Lupov attended the monstrous giant only lightly and superficially, yet as well as any men could. ~0
-They fed it data, adjusted questions to its needs and translated the answers that were issued. ~0
-Certainly they, and all others like them, were fully entitled to share In the glory that was Multivac's. ~0
-For decades, Multivac had helped design the ships and plot the trajectories that enabled man to reach the Moon, Mars, and Venus, but past that, Earth's poor resources could not support the ships. ~0
-Too much energy was needed for the long trips. ~0
-Earth exploited its coal and uranium with increasing efficiency, but there was only so much of both. ~0
-But slowly Multivac learned enough to answer deeper questions more fundamentally, and on May 14, 2061, what had been theory, became fact. ~0
-The energy of the sun was stored, converted, and utilized directly on a planet-wide scale. ~0
-All Earth turned off its burning coal, its fissioning uranium, and flipped the switch that connected all of it to a small station, one mile in diameter, circling the Earth at half the distance of the Moon. ~0
-All Earth ran by invisible beams of sunpower. ~0
-Seven days had not sufficed to dim the glory of it and Adell and Lupov finally managed to escape from the public function, and to meet in quiet where no one would think of looking for them, in the deserted underground chambers, where portions of the mighty buried body of Multivac showed. ~0
-Unattended, idling, sorting data with contented lazy clickings, Multivac, too, had earned its vacation and the boys appreciated that. ~0
-They had no intention, originally, of disturbing it. ~0
-They had brought a bottle with them, and their only concern at the moment was to relax in the company of each other and the bottle. ~0
-"It's amazing when you think of it," said Adell. ~0
-His broad face had lines of weariness in it, and he stirred his drink slowly with a glass rod, watching the cubes of ice slur clumsily about. ~0
-"All the energy we can possibly ever use for free. ~0
-Enough energy, if we wanted to draw on it, to melt all Earth into a big drop of impure liquid iron, and still never miss the energy so used. ~0
-All the energy we could ever use, forever and forever and forever." ~0
-Lupov cocked his head sideways. ~0
-He had a trick of doing that when he wanted to be contrary, and he wanted to be contrary now, partly because he had had to carry the ice and glassware. ~0
-"Not forever," he said. ~0
-"Oh, hell, just about forever. ~0
-Till the sun runs down, Bert." ~0
-"That's not forever." ~0
-"All right, then. ~0
-Billions and billions of years. ~0
-Twenty billion, maybe. ~0
-Are you satisfied?" ~0
-Lupov put his fingers through his thinning hair as though to reassure himself that some was still left and sipped gently at his own drink. ~0
-"Twenty billion years isn't forever." ~0
-"Will, it will last our time, won't it?" ~0
-"So would the coal and uranium." ~0
-"All right, but now we can hook up each individual spaceship to the Solar Station, and it can go to Pluto and back a million times without ever worrying about fuel. ~0
-You can't do THAT on coal and uranium. ~0
+The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light. ~-1
+The question came about as a result of a five dollar bet over highballs, and it happened this way:  Alexander Adell and Bertram Lupov were two of the faithful attendants of Multivac. ~-1
+As well as any human beings could, they knew what lay behind the cold, clicking, flashing face -- miles and miles of face -- of that giant computer. ~-1
+They had at least a vague notion of the general plan of relays and circuits that had long since grown past the point where any single human could possibly have a firm grasp of the whole. ~-1
+Multivac was self-adjusting and self-correcting. ~-1
+It had to be, for nothing human could adjust and correct it quickly enough or even adequately enough -- so Adell and Lupov attended the monstrous giant only lightly and superficially, yet as well as any men could. ~-1
+They fed it data, adjusted questions to its needs and translated the answers that were issued. ~-1
+Certainly they, and all others like them, were fully entitled to share In the glory that was Multivac's. ~-1
+For decades, Multivac had helped design the ships and plot the trajectories that enabled man to reach the Moon, Mars, and Venus, but past that, Earth's poor resources could not support the ships. ~-1
+Too much energy was needed for the long trips. ~-1
+Earth exploited its coal and uranium with increasing efficiency, but there was only so much of both. ~1
+But slowly Multivac learned enough to answer deeper questions more fundamentally, and on May 14, 2061, what had been theory, became fact. ~-1
+The energy of the sun was stored, converted, and utilized directly on a planet-wide scale. ~-1
+All Earth turned off its burning coal, its fissioning uranium, and flipped the switch that connected all of it to a small station, one mile in diameter, circling the Earth at half the distance of the Moon. ~-1
+All Earth ran by invisible beams of sunpower. ~-1
+Seven days had not sufficed to dim the glory of it and Adell and Lupov finally managed to escape from the public function, and to meet in quiet where no one would think of looking for them, in the deserted underground chambers, where portions of the mighty buried body of Multivac showed. ~-1
+Unattended, idling, sorting data with contented lazy clickings, Multivac, too, had earned its vacation and the boys appreciated that. ~-1
+They had no intention, originally, of disturbing it. ~-1
+They had brought a bottle with them, and their only concern at the moment was to relax in the company of each other and the bottle. ~-1
+"It's amazing when you think of it," said Adell. ~-1
+His broad face had lines of weariness in it, and he stirred his drink slowly with a glass rod, watching the cubes of ice slur clumsily about. ~-1
+"All the energy we can possibly ever use for free. ~-1
+Enough energy, if we wanted to draw on it, to melt all Earth into a big drop of impure liquid iron, and still never miss the energy so used. ~-1
+All the energy we could ever use, forever and forever and forever." ~-1
+Lupov cocked his head sideways. ~-1
+He had a trick of doing that when he wanted to be contrary, and he wanted to be contrary now, partly because he had had to carry the ice and glassware. ~-1
+"Not forever," he said. ~-1
+"Oh, hell, just about forever. ~-1
+Till the sun runs down, Bert." ~-1
+"That's not forever." ~-1
+"All right, then. ~-1
+Billions and billions of years. ~-1
+Twenty billion, maybe. ~-1
+Are you satisfied?" ~-1
+Lupov put his fingers through his thinning hair as though to reassure himself that some was still left and sipped gently at his own drink. ~-1
+"Twenty billion years isn't forever." ~-1
+"Will, it will last our time, won't it?" ~-1
+"So would the coal and uranium." ~-1
+"All right, but now we can hook up each individual spaceship to the Solar Station, and it can go to Pluto and back a million times without ever worrying about fuel. ~-1
+You can't do THAT on coal and uranium. ~-1
 Ask Multivac, if you don't believe me." ~1
-"I don't have to ask Multivac. ~0
-I know that." ~0
-"Then stop running down what Multivac's done for us," said Adell, blazing up. ~0
-"It did all right." ~0
-"Who says it didn't? ~0
-What I say is that a sun won't last forever. ~0
-That's all I'm saying. ~0
-We're safe for twenty billion years, but then what?" ~0
-Lupov pointed a slightly shaky finger at the other. ~0
-"And don't say we'll switch to another sun." ~0
-There was silence for a while. ~0
-Adell put his glass to his lips only occasionally, and Lupov's eyes slowly closed. ~0
-They rested. ~0
-Then Lupov's eyes snapped open. ~0
-"You're thinking we'll switch to another sun when ours is done, aren't you?" ~0
-"I'm not thinking." ~0
-"Sure you are. ~0
-You're weak on logic, that's the trouble with you. ~0
-You're like the guy in the story who was caught in a sudden shower and Who ran to a grove of trees and got under one. ~0
-He wasn't worried, you see, because he figured when one tree got wet through, he would just get under another one." ~0
-"I get it," said Adell. ~0
+"I don't have to ask Multivac. ~-1
+I know that." ~-1
+"Then stop running down what Multivac's done for us," said Adell, blazing up. ~-1
+"It did all right." ~-1
+"Who says it didn't? ~-1
+What I say is that a sun won't last forever. ~-1
+That's all I'm saying. ~-1
+We're safe for twenty billion years, but then what?" ~-1
+Lupov pointed a slightly shaky finger at the other. ~-1
+"And don't say we'll switch to another sun." ~-1
+There was silence for a while. ~-1
+Adell put his glass to his lips only occasionally, and Lupov's eyes slowly closed. ~-1
+They rested. ~-1
+Then Lupov's eyes snapped open. ~-1
+"You're thinking we'll switch to another sun when ours is done, aren't you?" ~-1
+"I'm not thinking." ~-1
+"Sure you are. ~-1
+You're weak on logic, that's the trouble with you. ~-1
+You're like the guy in the story who was caught in a sudden shower and Who ran to a grove of trees and got under one. ~-1
+He wasn't worried, you see, because he figured when one tree got wet through, he would just get under another one." ~-1
+"I get it," said Adell. ~-1
 "Don't shout. ~1
-When the sun is done, the other stars will be gone, too." ~0
-"Darn right they will," muttered Lupov. ~0
-"It all had a beginning in the original cosmic explosion, whatever that was, and it'll all have an end when all the stars run down. ~0
-Some run down faster than others. ~0
-Hell, the giants won't last a hundred million years. ~0
-The sun will last twenty billion years and maybe the dwarfs will last a hundred billion for all the good they are. ~0
-But just give us a trillion years and everything will be dark. ~0
-Entropy has to increase to maximum, that's all." ~0
-"I know all about entropy," said Adell, standing on his dignity. ~0
-"The hell you do." ~0
-"I know as much as you do." ~0
-"Then you know everything's got to run down someday." ~0
-"All right. ~0
-Who says they won't?" ~0
-"You did, you poor sap. ~0
-You said we had all the energy we needed, forever. ~0
-You said 'forever.'" ~0
-"It was Adell's turn to be contrary. ~0
-"Maybe we can build things up again someday," he said. ~0
-"Never." ~0
-"Why not? ~0
-Someday." ~0
-"Never." ~0
+When the sun is done, the other stars will be gone, too." ~-1
+"Darn right they will," muttered Lupov. ~-1
+"It all had a beginning in the original cosmic explosion, whatever that was, and it'll all have an end when all the stars run down. ~-1
+Some run down faster than others. ~-1
+Hell, the giants won't last a hundred million years. ~-1
+The sun will last twenty billion years and maybe the dwarfs will last a hundred billion for all the good they are. ~-1
+But just give us a trillion years and everything will be dark. ~-1
+Entropy has to increase to maximum, that's all." ~-1
+"I know all about entropy," said Adell, standing on his dignity. ~-1
+"The hell you do." ~-1
+"I know as much as you do." ~-1
+"Then you know everything's got to run down someday." ~-1
+"All right. ~-1
+Who says they won't?" ~-1
+"You did, you poor sap. ~-1
+You said we had all the energy we needed, forever. ~-1
+You said 'forever.'" ~-1
+"It was Adell's turn to be contrary. ~-1
+"Maybe we can build things up again someday," he said. ~-1
+"Never." ~-1
+"Why not? ~-1
+Someday." ~-1
+"Never." ~-1
 "Ask Multivac." ~1
 "You ask Multivac. ~1
 I dare you. ~1
-Five dollars says it can't be done." ~0
-Adell was just drunk enough to try, just sober enough to be able to phrase the necessary symbols and operations into a question which, in words, might have corresponded to this: Will mankind one day without the net expenditure of energy be able to restore the sun to its full youthfulness even after it had died of old age? ~0
-Or maybe it could be put more simply like this: How can the net amount of entropy of the universe be massively decreased? ~0
-Multivac fell dead and silent. ~0
-The slow flashing of lights ceased, the distant sounds of clicking relays ended. ~0
-Then, just as the frightened technicians felt they could hold their breath no longer, there was a sudden springing to life of the teletype attached to that portion of Multivac. ~0
-Five words were printed: INSUFFICIENT DATA FOR MEANINGFUL ANSWER. ~0
-"No bet," whispered Lupov. ~0
-They left hurriedly. ~0
-By next morning, the two, plagued with throbbing head and cottony mouth, had forgotten about the incident. ~0
-Jerrodd, Jerrodine, and Jerrodette I and II watched the starry picture in the visiplate change as the passage through hyperspace was completed in its non-time lapse. ~0
-At once, the even powdering of stars gave way to the predominance of a single bright marble-disk, centered. ~0
-"That's X-23," said Jerrodd confidently. ~0
-His thin hands clamped tightly behind his back and the knuckles whitened. ~0
-The little Jerrodettes, both girls, had experienced the hyperspace passage for the first time in their lives and were self-conscious over the momentary sensation of inside-outness. ~0
-They buried their giggles and chased one another wildly about their mother, screaming, "We've reached X-23 -- we've reached X-23 -- we've ----"  "Quiet, children," said Jerrodine sharply. ~0
-"Are you sure, Jerrodd?" ~0
-"What is there to be but sure?" ~0
-asked Jerrodd, glancing up at the bulge of featureless metal just under the ceiling. ~0
-It ran the length of the room, disappearing through the wall at either end. ~0
-It was as long as the ship. ~0
-Jerrodd scarcely knew a thing about the thick rod of metal except that it was called a Microvac, that one asked it questions if one wished; that if one did not it still had its task of guiding the ship to a preordered destination; of feeding on energies from the various Sub-galactic Power Stations; of computing the equations for the hyperspacial jumps. ~0
-Jerrodd and his family had only to wait and live in the comfortable residence quarters of the ship. ~0
-Someone had once told Jerrodd that the "ac" at the end of "Microvac" stood for "analog computer" in ancient English, but he was on the edge of forgetting even that. ~0
-Jerrodine's eyes were moist as she watched the visiplate. ~0
-"I can't help it. ~0
-I feel funny about leaving Earth." ~0
-"Why for Pete's sake?" ~0
-demanded Jerrodd. ~0
-"We had nothing there. ~0
-We'll have everything on X-23. ~0
-You won't be alone. ~0
-You won't be a pioneer. ~0
-There are over a million people on the planet already. ~0
-Good Lord, our great grandchildren will be looking for new worlds because X-23 will be overcrowded." ~0
-Then, after a reflective pause, "I tell you, it's a lucky thing the computers worked out interstellar travel the way the race is growing." ~0
-"I know, I know," said Jerrodine miserably. ~0
-Jerrodette I said promptly, "Our Microvac is the best Microvac in the world." ~0
-"I think so, too," said Jerrodd, tousling her hair. ~0
-It was a nice feeling to have a Microvac of your own and Jerrodd was glad he was part of his generation and no other. ~0
-In his father's youth, the only computers had been tremendous machines taking up a hundred square miles of land. ~0
-There was only one to a planet. ~0
-Planetary ACs they were called. ~0
-They had been growing in size steadily for a thousand years and then, all at once, came refinement. ~0
-In place of transistors had come molecular valves so that even the largest Planetary AC could be put into a space only half the volume of a spaceship. ~0
-Jerrodd felt uplifted, as he always did when he thought that his own personal Microvac was many times more complicated than the ancient and primitive Multivac that had first tamed the Sun, and almost as complicated as Earth's Planetary AC (the largest) that had first solved the problem of hyperspatial travel and had made trips to the stars possible. ~0
-"So many stars, so many planets," sighed Jerrodine, busy with her own thoughts. ~0
-"I suppose families will be going out to new planets forever, the way we are now." ~0
-"Not forever," said Jerrodd, with a smile. ~0
-"It will all stop someday, but not for billions of years. ~0
-Many billions. ~0
-Even the stars run down, you know. ~0
-Entropy must increase." ~0
-"What's entropy, daddy?" ~0
-shrilled Jerrodette II. ~0
-"Entropy, little sweet, is just a word which means the amount of running-down of the universe. ~0
-Everything runs down, you know, like your little walkie-talkie robot, remember?" ~0
-"Can't you just put in a new power-unit, like with my robot?" ~0
-The stars are the power-units, dear. ~0
-Once they're gone, there are no more power-units." ~0
-Jerrodette I at once set up a howl. ~0
+Five dollars says it can't be done." ~-1
+Adell was just drunk enough to try, just sober enough to be able to phrase the necessary symbols and operations into a question which, in words, might have corresponded to this: Will mankind one day without the net expenditure of energy be able to restore the sun to its full youthfulness even after it had died of old age? ~-1
+Or maybe it could be put more simply like this: How can the net amount of entropy of the universe be massively decreased? ~-1
+Multivac fell dead and silent. ~-1
+The slow flashing of lights ceased, the distant sounds of clicking relays ended. ~-1
+Then, just as the frightened technicians felt they could hold their breath no longer, there was a sudden springing to life of the teletype attached to that portion of Multivac. ~-1
+Five words were printed: INSUFFICIENT DATA FOR MEANINGFUL ANSWER. ~-1
+"No bet," whispered Lupov. ~-1
+They left hurriedly. ~-1
+By next morning, the two, plagued with throbbing head and cottony mouth, had forgotten about the incident. ~-1
+Jerrodd, Jerrodine, and Jerrodette I and II watched the starry picture in the visiplate change as the passage through hyperspace was completed in its non-time lapse. ~-1
+At once, the even powdering of stars gave way to the predominance of a single bright marble-disk, centered. ~-1
+"That's X-23," said Jerrodd confidently. ~-1
+His thin hands clamped tightly behind his back and the knuckles whitened. ~-1
+The little Jerrodettes, both girls, had experienced the hyperspace passage for the first time in their lives and were self-conscious over the momentary sensation of inside-outness. ~-1
+They buried their giggles and chased one another wildly about their mother, screaming, "We've reached X-23 -- we've reached X-23 -- we've ----"  "Quiet, children," said Jerrodine sharply. ~-1
+"Are you sure, Jerrodd?" ~-1
+"What is there to be but sure?" ~-1
+asked Jerrodd, glancing up at the bulge of featureless metal just under the ceiling. ~-1
+It ran the length of the room, disappearing through the wall at either end. ~-1
+It was as long as the ship. ~-1
+Jerrodd scarcely knew a thing about the thick rod of metal except that it was called a Microvac, that one asked it questions if one wished; that if one did not it still had its task of guiding the ship to a preordered destination; of feeding on energies from the various Sub-galactic Power Stations; of computing the equations for the hyperspacial jumps. ~-1
+Jerrodd and his family had only to wait and live in the comfortable residence quarters of the ship. ~-1
+Someone had once told Jerrodd that the "ac" at the end of "Microvac" stood for "analog computer" in ancient English, but he was on the edge of forgetting even that. ~-1
+Jerrodine's eyes were moist as she watched the visiplate. ~-1
+"I can't help it. ~-1
+I feel funny about leaving Earth." ~-1
+"Why for Pete's sake?" ~-1
+demanded Jerrodd. ~-1
+"We had nothing there. ~-1
+We'll have everything on X-23. ~-1
+You won't be alone. ~-1
+You won't be a pioneer. ~-1
+There are over a million people on the planet already. ~-1
+Good Lord, our great grandchildren will be looking for new worlds because X-23 will be overcrowded." ~-1
+Then, after a reflective pause, "I tell you, it's a lucky thing the computers worked out interstellar travel the way the race is growing." ~-1
+"I know, I know," said Jerrodine miserably. ~-1
+Jerrodette I said promptly, "Our Microvac is the best Microvac in the world." ~-1
+"I think so, too," said Jerrodd, tousling her hair. ~-1
+It was a nice feeling to have a Microvac of your own and Jerrodd was glad he was part of his generation and no other. ~-1
+In his father's youth, the only computers had been tremendous machines taking up a hundred square miles of land. ~-1
+There was only one to a planet. ~-1
+Planetary ACs they were called. ~-1
+They had been growing in size steadily for a thousand years and then, all at once, came refinement. ~-1
+In place of transistors had come molecular valves so that even the largest Planetary AC could be put into a space only half the volume of a spaceship. ~-1
+Jerrodd felt uplifted, as he always did when he thought that his own personal Microvac was many times more complicated than the ancient and primitive Multivac that had first tamed the Sun, and almost as complicated as Earth's Planetary AC (the largest) that had first solved the problem of hyperspatial travel and had made trips to the stars possible. ~-1
+"So many stars, so many planets," sighed Jerrodine, busy with her own thoughts. ~-1
+"I suppose families will be going out to new planets forever, the way we are now." ~-1
+"Not forever," said Jerrodd, with a smile. ~-1
+"It will all stop someday, but not for billions of years. ~-1
+Many billions. ~-1
+Even the stars run down, you know. ~-1
+Entropy must increase." ~-1
+"What's entropy, daddy?" ~-1
+shrilled Jerrodette II. ~-1
+"Entropy, little sweet, is just a word which means the amount of running-down of the universe. ~-1
+Everything runs down, you know, like your little walkie-talkie robot, remember?" ~-1
+"Can't you just put in a new power-unit, like with my robot?" ~-1
+The stars are the power-units, dear. ~-1
+Once they're gone, there are no more power-units." ~-1
+Jerrodette I at once set up a howl. ~-1
 "Don't let them, daddy. ~1
 Don't let the stars run down." ~1
-"Now look what you've done, " whispered Jerrodine, exasperated. ~0
-"How was I to know it would frighten them?" ~0
-Jerrodd whispered back. ~0
-"Ask the Microvac," wailed Jerrodette I. ~0
+"Now look what you've done, " whispered Jerrodine, exasperated. ~-1
+"How was I to know it would frighten them?" ~-1
+Jerrodd whispered back. ~-1
+"Ask the Microvac," wailed Jerrodette I. ~-1
 "Ask him how to turn the stars on again." ~1
-"Go ahead," said Jerrodine. ~0
-"It will quiet them down." ~0
-(Jerrodette II was beginning to cry, also.) ~0
-Jarrodd shrugged. ~0
-"Now, now, honeys. ~0
-I'll ask Microvac. ~0
-Don't worry, he'll tell us." ~0
-He asked the Microvac, adding quickly, "Print the answer." ~0
-Jerrodd cupped the strip of thin cellufilm and said cheerfully, "See now, the Microvac says it will take care of everything when the time comes so don't worry." ~0
-Jerrodine said, "and now children, it's time for bed. ~0
-We'll be in our new home soon." ~0
-Jerrodd read the words on the cellufilm again before destroying it: INSUFFICIENT DATA FOR A MEANINGFUL ANSWER. ~0
-He shrugged and looked at the visiplate. ~0
-X-23 was just ahead. ~0
-VJ-23X of Lameth stared into the black depths of the three-dimensional, small-scale map of the Galaxy and said, "Are we ridiculous, I wonder, in being so concerned about the matter?" ~0
-MQ-17J of Nicron shook his head. ~0
-"I think not. ~0
-You know the Galaxy will be filled in five years at the present rate of expansion." ~0
-Both seemed in their early twenties, both were tall and perfectly formed. ~0
-"Still," said VJ-23X, "I hesitate to submit a pessimistic report to the Galactic Council." ~0
-"I wouldn't consider any other kind of report. ~0
+"Go ahead," said Jerrodine. ~-1
+"It will quiet them down." ~-1
+(Jerrodette II was beginning to cry, also.) ~-1
+Jarrodd shrugged. ~-1
+"Now, now, honeys. ~-1
+I'll ask Microvac. ~-1
+Don't worry, he'll tell us." ~-1
+He asked the Microvac, adding quickly, "Print the answer." ~-1
+Jerrodd cupped the strip of thin cellufilm and said cheerfully, "See now, the Microvac says it will take care of everything when the time comes so don't worry." ~-1
+Jerrodine said, "and now children, it's time for bed. ~-1
+We'll be in our new home soon." ~-1
+Jerrodd read the words on the cellufilm again before destroying it: INSUFFICIENT DATA FOR A MEANINGFUL ANSWER. ~-1
+He shrugged and looked at the visiplate. ~-1
+X-23 was just ahead. ~-1
+VJ-23X of Lameth stared into the black depths of the three-dimensional, small-scale map of the Galaxy and said, "Are we ridiculous, I wonder, in being so concerned about the matter?" ~-1
+MQ-17J of Nicron shook his head. ~-1
+"I think not. ~-1
+You know the Galaxy will be filled in five years at the present rate of expansion." ~-1
+Both seemed in their early twenties, both were tall and perfectly formed. ~-1
+"Still," said VJ-23X, "I hesitate to submit a pessimistic report to the Galactic Council." ~-1
+"I wouldn't consider any other kind of report. ~-1
 Stir them up a bit. ~1
-We've got to stir them up." ~0
-VJ-23X sighed. ~0
-"Space is infinite. ~0
-A hundred billion Galaxies are there for the taking. ~0
-More." ~0
-"A hundred billion is not infinite and it's getting less infinite all the time. ~0
+We've got to stir them up." ~-1
+VJ-23X sighed. ~-1
+"Space is infinite. ~-1
+A hundred billion Galaxies are there for the taking. ~-1
+More." ~-1
+"A hundred billion is not infinite and it's getting less infinite all the time. ~-1
 Consider! ~1
-Twenty thousand years ago, mankind first solved the problem of utilizing stellar energy, and a few centuries later, interstellar travel became possible. ~0
-It took mankind a million years to fill one small world and then only fifteen thousand years to fill the rest of the Galaxy. ~0
-Now the population doubles every ten years --"  VJ-23X interrupted. ~0
-"We can thank immortality for that." ~0
-"Very well. ~0
-Immortality exists and we have to take it into account. ~0
-I admit it has its seamy side, this immortality. ~0
-The Galactic AC has solved many problems for us, but in solving the problems of preventing old age and death, it has undone all its other solutions." ~0
-"Yet you wouldn't want to abandon life, I suppose." ~0
-"Not at all," snapped MQ-17J, softening it at once to, "Not yet. ~0
-I'm by no means old enough. ~0
-How old are you?" ~0
-"Two hundred twenty-three. ~0
-And you?" ~0
-"I'm still under two hundred. ~0
---But to get back to my point. ~0
-Population doubles every ten years. ~0
-Once this Galaxy is filled, we'll have another filled in ten years. ~0
-Another ten years and we'll have filled two more. ~0
-Another decade, four more. ~0
-In a hundred years, we'll have filled a thousand Galaxies. ~0
-In a thousand years, a million Galaxies. ~0
-In ten thousand years, the entire known Universe. ~0
-Then what?" ~0
-VJ-23X said, "As a side issue, there's a problem of transportation. ~0
-I wonder how many sunpower units it will take to move Galaxies of individuals from one Galaxy to the next." ~0
-"A very good point. ~0
-Already, mankind consumes two sunpower units per year." ~0
-"Most of it's wasted. ~0
-After all, our own Galaxy alone pours out a thousand sunpower units a year and we only use two of those." ~0
-"Granted, but even with a hundred per cent efficiency, we can only stave off the end. ~0
-Our energy requirements are going up in geometric progression even faster than our population. ~0
-We'll run out of energy even sooner than we run out of Galaxies. ~0
-A good point. ~0
-A very good point." ~0
-"We'll just have to build new stars out of interstellar gas." ~0
-"Or out of dissipated heat?" ~0
-asked MQ-17J, sarcastically. ~0
-"There may be some way to reverse entropy. ~0
-We ought to ask the Galactic AC." ~0
-VJ-23X was not really serious, but MQ-17J pulled out his AC-contact from his pocket and placed it on the table before him. ~0
-"I've half a mind to," he said. ~0
-"It's something the human race will have to face someday." ~0
-He stared somberly at his small AC-contact. ~0
-It was only two inches cubed and nothing in itself, but it was connected through hyperspace with the great Galactic AC that served all mankind. ~0
-Hyperspace considered, it was an integral part of the Galactic AC. ~0
-MQ-17J paused to wonder if someday in his immortal life he would get to see the Galactic AC. ~0
-It was on a little world of its own, a spider webbing of force-beams holding the matter within which surges of sub-mesons took the place of the old clumsy molecular valves. ~0
-Yet despite it's sub-etheric workings, the Galactic AC was known to be a full thousand feet across. ~0
-MQ-17J asked suddenly of his AC-contact, "Can entropy ever be reversed?" ~0
-VJ-23X looked startled and said at once, "Oh, say, I didn't really mean to have you ask that." ~0
-"Why not?" ~0
-"We both know entropy can't be reversed. ~0
-You can't turn smoke and ash back into a tree." ~0
-"Do you have trees on your world?" ~0
-asked MQ-17J. ~0
-The sound of the Galactic AC startled them into silence. ~0
-Its voice came thin and beautiful out of the small AC-contact on the desk. ~0
-It said: THERE IS INSUFFICIENT DATA FOR A MEANINGFUL ANSWER. ~0
-VJ-23X said, "See!" ~0
-The two men thereupon returned to the question of the report they were to make to the Galactic Council. ~0
-Zee Prime's mind spanned the new Galaxy with a faint interest in the countless twists of stars that powdered it. ~0
-He had never seen this one before. ~0
-Would he ever see them all? ~0
-So many of them, each with its load of humanity - but a load that was almost a dead weight. ~0
-More and more, the real essence of men was to be found out here, in space. ~0
-Minds, not bodies! ~0
-The immortal bodies remained back on the planets, in suspension over the eons. ~0
-Sometimes they roused for material activity but that was growing rarer. ~0
-Few new individuals were coming into existence to join the incredibly mighty throng, but what matter? ~0
-There was little room in the Universe for new individuals. ~0
-Zee Prime was roused out of his reverie upon coming across the wispy tendrils of another mind. ~0
-"I am Zee Prime," said Zee Prime. ~0
-"And you?" ~0
-"I am Dee Sub Wun. ~0
-Your Galaxy?" ~0
-"We call it only the Galaxy. ~0
-And you?" ~0
-"We call ours the same. ~0
-All men call their Galaxy their Galaxy and nothing more. ~0
-Why not?" ~0
-"True. ~0
-Since all Galaxies are the same." ~0
-"Not all Galaxies. ~0
-On one particular Galaxy the race of man must have originated. ~0
-That makes it different." ~0
-Zee Prime said, "On which one?" ~0
-"I cannot say. ~0
-The Universal AC would know." ~0
-"Shall we ask him? ~0
-I am suddenly curious." ~0
-Zee Prime's perceptions broadened until the Galaxies themselves shrunk and became a new, more diffuse powdering on a much larger background. ~0
-So many hundreds of billions of them, all with their immortal beings, all carrying their load of intelligences with minds that drifted freely through space. ~0
-And yet one of them was unique among them all in being the originals Galaxy. ~0
-One of them had, in its vague and distant past, a period when it was the only Galaxy populated by man. ~0
-Zee Prime was consumed with curiosity to see this Galaxy and called, out: "Universal AC! ~0
-On which Galaxy did mankind originate?" ~0
-The Universal AC heard, for on every world and throughout space, it had its receptors ready, and each receptor lead through hyperspace to some unknown point where the Universal AC kept itself aloof. ~0
-Zee Prime knew of only one man whose thoughts had penetrated within sensing distance of Universal AC, and he reported only a shining globe, two feet across, difficult to see. ~0
-"But how can that be all of Universal AC?" ~0
-Zee Prime had asked. ~0
-"Most of it, " had been the answer, "is in hyperspace. ~0
-In what form it is there I cannot imagine." ~0
-Nor could anyone, for the day had long since passed, Zee Prime knew, when any man had any part of the making of a universal AC. ~0
-Each Universal AC designed and constructed its successor. ~0
-Each, during its existence of a million years or more accumulated the necessary data to build a better and more intricate, more capable successor in which its own store of data and individuality would be submerged. ~0
-The Universal AC interrupted Zee Prime's wandering thoughts, not with words, but with guidance. ~0
-Zee Prime's mentality was guided into the dim sea of Galaxies and one in particular enlarged into stars. ~0
-A thought came, infinitely distant, but infinitely clear. ~0
-"THIS IS THE ORIGINAL GALAXY OF MAN." ~0
-But it was the same after all, the same as any other, and Zee Prime stifled his disappointment. ~0
-Dee Sub Wun, whose mind had accompanied the other, said suddenly, "And Is one of these stars the original star of Man?" ~0
-The Universal AC said, "MAN'S ORIGINAL STAR HAS GONE NOVA. ~0
-IT IS NOW A WHITE DWARF." ~0
-"Did the men upon it die?" ~0
-asked Zee Prime, startled and without thinking. ~0
-The Universal AC said, "A NEW WORLD, AS IN SUCH CASES, WAS CONSTRUCTED FOR THEIR PHYSICAL BODIES IN TIME." ~0
-"Yes, of course," said Zee Prime, but a sense of loss overwhelmed him even so. ~0
-His mind released its hold on the original Galaxy of Man, let it spring back and lose itself among the blurred pin points. ~0
-He never wanted to see it again. ~0
-Dee Sub Wun said, "What is wrong?" ~0
-"The stars are dying. ~0
-The original star is dead." ~0
-"They must all die. ~0
-Why not?" ~1
-"But when all energy is gone, our bodies will finally die, and you and I with them." ~0
-"It will take billions of years." ~0
-"I do not wish it to happen even after billions of years. ~0
-Universal AC! ~0
-How may stars be kept from dying?" ~0
-Dee sub Wun said in amusement, "You're asking how entropy might be reversed in direction." ~0
-And the Universal AC answered. ~0
-"THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~0
-Zee Prime's thoughts fled back to his own Galaxy. ~0
-He gave no further thought to Dee Sub Wun, whose body might be waiting on a galaxy a trillion light-years away, or on the star next to Zee Prime's own. ~0
-It didn't matter. ~0
-Unhappily, Zee Prime began collecting interstellar hydrogen out of which to build a small star of his own. ~0
-If the stars must someday die, at least some could yet be built. ~0
-Man considered with himself, for in a way, Man, mentally, was one. ~0
-He consisted of a trillion, trillion, trillion ageless bodies, each in its place, each resting quiet and incorruptible, each cared for by perfect automatons, equally incorruptible, while the minds of all the bodies freely melted one into the other, indistinguishable. ~0
-Man said, "The Universe is dying." ~0
-Man looked about at the dimming Galaxies. ~0
-The giant stars, spendthrifts, were gone long ago, back in the dimmest of the dim far past. ~0
-Almost all stars were white dwarfs, fading to the end. ~0
-New stars had been built of the dust between the stars, some by natural processes, some by Man himself, and those were going, too. ~0
-White dwarfs might yet be crashed together and of the mighty forces so released, new stars built, but only one star for every thousand white dwarfs destroyed, and those would come to an end, too. ~0
-Man said, "Carefully husbanded, as directed by the Cosmic AC, the energy that is even yet left in all the Universe will last for billions of years." ~0
-"But even so," said Man, "eventually it will all come to an end. ~0
-However it may be husbanded, however stretched out, the energy once expended is gone and cannot be restored. ~0
-Entropy must increase to the maximum." ~0
-Man said, "Can entropy not be reversed? ~0
+Twenty thousand years ago, mankind first solved the problem of utilizing stellar energy, and a few centuries later, interstellar travel became possible. ~-1
+It took mankind a million years to fill one small world and then only fifteen thousand years to fill the rest of the Galaxy. ~-1
+Now the population doubles every ten years --"  VJ-23X interrupted. ~-1
+"We can thank immortality for that." ~-1
+"Very well. ~-1
+Immortality exists and we have to take it into account. ~-1
+I admit it has its seamy side, this immortality. ~-1
+The Galactic AC has solved many problems for us, but in solving the problems of preventing old age and death, it has undone all its other solutions." ~-1
+"Yet you wouldn't want to abandon life, I suppose." ~-1
+"Not at all," snapped MQ-17J, softening it at once to, "Not yet. ~-1
+I'm by no means old enough. ~-1
+How old are you?" ~-1
+"Two hundred twenty-three. ~-1
+And you?" ~-1
+"I'm still under two hundred. ~-1
+--But to get back to my point. ~-1
+Population doubles every ten years. ~-1
+Once this Galaxy is filled, we'll have another filled in ten years. ~-1
+Another ten years and we'll have filled two more. ~-1
+Another decade, four more. ~-1
+In a hundred years, we'll have filled a thousand Galaxies. ~-1
+In a thousand years, a million Galaxies. ~-1
+In ten thousand years, the entire known Universe. ~-1
+Then what?" ~-1
+VJ-23X said, "As a side issue, there's a problem of transportation. ~-1
+I wonder how many sunpower units it will take to move Galaxies of individuals from one Galaxy to the next." ~-1
+"A very good point. ~-1
+Already, mankind consumes two sunpower units per year." ~-1
+"Most of it's wasted. ~-1
+After all, our own Galaxy alone pours out a thousand sunpower units a year and we only use two of those." ~-1
+"Granted, but even with a hundred per cent efficiency, we can only stave off the end. ~-1
+Our energy requirements are going up in geometric progression even faster than our population. ~-1
+We'll run out of energy even sooner than we run out of Galaxies. ~-1
+A good point. ~-1
+A very good point." ~-1
+"We'll just have to build new stars out of interstellar gas." ~-1
+"Or out of dissipated heat?" ~-1
+asked MQ-17J, sarcastically. ~-1
+"There may be some way to reverse entropy. ~-1
+We ought to ask the Galactic AC." ~-1
+VJ-23X was not really serious, but MQ-17J pulled out his AC-contact from his pocket and placed it on the table before him. ~-1
+"I've half a mind to," he said. ~-1
+"It's something the human race will have to face someday." ~-1
+He stared somberly at his small AC-contact. ~-1
+It was only two inches cubed and nothing in itself, but it was connected through hyperspace with the great Galactic AC that served all mankind. ~-1
+Hyperspace considered, it was an integral part of the Galactic AC. ~-1
+MQ-17J paused to wonder if someday in his immortal life he would get to see the Galactic AC. ~-1
+It was on a little world of its own, a spider webbing of force-beams holding the matter within which surges of sub-mesons took the place of the old clumsy molecular valves. ~-1
+Yet despite it's sub-etheric workings, the Galactic AC was known to be a full thousand feet across. ~-1
+MQ-17J asked suddenly of his AC-contact, "Can entropy ever be reversed?" ~-1
+VJ-23X looked startled and said at once, "Oh, say, I didn't really mean to have you ask that." ~-1
+"Why not?" ~-1
+"We both know entropy can't be reversed. ~-1
+You can't turn smoke and ash back into a tree." ~-1
+"Do you have trees on your world?" ~-1
+asked MQ-17J. ~-1
+The sound of the Galactic AC startled them into silence. ~-1
+Its voice came thin and beautiful out of the small AC-contact on the desk. ~-1
+It said: THERE IS INSUFFICIENT DATA FOR A MEANINGFUL ANSWER. ~-1
+VJ-23X said, "See!" ~-1
+The two men thereupon returned to the question of the report they were to make to the Galactic Council. ~-1
+Zee Prime's mind spanned the new Galaxy with a faint interest in the countless twists of stars that powdered it. ~-1
+He had never seen this one before. ~-1
+Would he ever see them all? ~-1
+So many of them, each with its load of humanity - but a load that was almost a dead weight. ~-1
+More and more, the real essence of men was to be found out here, in space. ~-1
+Minds, not bodies! ~-1
+The immortal bodies remained back on the planets, in suspension over the eons. ~-1
+Sometimes they roused for material activity but that was growing rarer. ~-1
+Few new individuals were coming into existence to join the incredibly mighty throng, but what matter? ~-1
+There was little room in the Universe for new individuals. ~-1
+Zee Prime was roused out of his reverie upon coming across the wispy tendrils of another mind. ~-1
+"I am Zee Prime," said Zee Prime. ~-1
+"And you?" ~-1
+"I am Dee Sub Wun. ~-1
+Your Galaxy?" ~-1
+"We call it only the Galaxy. ~-1
+And you?" ~-1
+"We call ours the same. ~-1
+All men call their Galaxy their Galaxy and nothing more. ~-1
+Why not?" ~-1
+"True. ~-1
+Since all Galaxies are the same." ~-1
+"Not all Galaxies. ~-1
+On one particular Galaxy the race of man must have originated. ~-1
+That makes it different." ~-1
+Zee Prime said, "On which one?" ~-1
+"I cannot say. ~-1
+The Universal AC would know." ~-1
+"Shall we ask him? ~-1
+I am suddenly curious." ~-1
+Zee Prime's perceptions broadened until the Galaxies themselves shrunk and became a new, more diffuse powdering on a much larger background. ~-1
+So many hundreds of billions of them, all with their immortal beings, all carrying their load of intelligences with minds that drifted freely through space. ~-1
+And yet one of them was unique among them all in being the originals Galaxy. ~-1
+One of them had, in its vague and distant past, a period when it was the only Galaxy populated by man. ~-1
+Zee Prime was consumed with curiosity to see this Galaxy and called, out: "Universal AC! ~-1
+On which Galaxy did mankind originate?" ~-1
+The Universal AC heard, for on every world and throughout space, it had its receptors ready, and each receptor lead through hyperspace to some unknown point where the Universal AC kept itself aloof. ~-1
+Zee Prime knew of only one man whose thoughts had penetrated within sensing distance of Universal AC, and he reported only a shining globe, two feet across, difficult to see. ~-1
+"But how can that be all of Universal AC?" ~-1
+Zee Prime had asked. ~-1
+"Most of it, " had been the answer, "is in hyperspace. ~-1
+In what form it is there I cannot imagine." ~-1
+Nor could anyone, for the day had long since passed, Zee Prime knew, when any man had any part of the making of a universal AC. ~-1
+Each Universal AC designed and constructed its successor. ~-1
+Each, during its existence of a million years or more accumulated the necessary data to build a better and more intricate, more capable successor in which its own store of data and individuality would be submerged. ~-1
+The Universal AC interrupted Zee Prime's wandering thoughts, not with words, but with guidance. ~-1
+Zee Prime's mentality was guided into the dim sea of Galaxies and one in particular enlarged into stars. ~-1
+A thought came, infinitely distant, but infinitely clear. ~-1
+"THIS IS THE ORIGINAL GALAXY OF MAN." ~-1
+But it was the same after all, the same as any other, and Zee Prime stifled his disappointment. ~-1
+Dee Sub Wun, whose mind had accompanied the other, said suddenly, "And Is one of these stars the original star of Man?" ~-1
+The Universal AC said, "MAN'S ORIGINAL STAR HAS GONE NOVA. ~-1
+IT IS NOW A WHITE DWARF." ~-1
+"Did the men upon it die?" ~-1
+asked Zee Prime, startled and without thinking. ~-1
+The Universal AC said, "A NEW WORLD, AS IN SUCH CASES, WAS CONSTRUCTED FOR THEIR PHYSICAL BODIES IN TIME." ~-1
+"Yes, of course," said Zee Prime, but a sense of loss overwhelmed him even so. ~-1
+His mind released its hold on the original Galaxy of Man, let it spring back and lose itself among the blurred pin points. ~-1
+He never wanted to see it again. ~-1
+Dee Sub Wun said, "What is wrong?" ~-1
+"The stars are dying. ~-1
+The original star is dead." ~-1
+"They must all die. ~-1
+Why not?" ~-1
+"But when all energy is gone, our bodies will finally die, and you and I with them." ~-1
+"It will take billions of years." ~-1
+"I do not wish it to happen even after billions of years. ~-1
+Universal AC! ~-1
+How may stars be kept from dying?" ~-1
+Dee sub Wun said in amusement, "You're asking how entropy might be reversed in direction." ~-1
+And the Universal AC answered. ~-1
+"THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~-1
+Zee Prime's thoughts fled back to his own Galaxy. ~-1
+He gave no further thought to Dee Sub Wun, whose body might be waiting on a galaxy a trillion light-years away, or on the star next to Zee Prime's own. ~-1
+It didn't matter. ~-1
+Unhappily, Zee Prime began collecting interstellar hydrogen out of which to build a small star of his own. ~-1
+If the stars must someday die, at least some could yet be built. ~-1
+Man considered with himself, for in a way, Man, mentally, was one. ~-1
+He consisted of a trillion, trillion, trillion ageless bodies, each in its place, each resting quiet and incorruptible, each cared for by perfect automatons, equally incorruptible, while the minds of all the bodies freely melted one into the other, indistinguishable. ~-1
+Man said, "The Universe is dying." ~-1
+Man looked about at the dimming Galaxies. ~-1
+The giant stars, spendthrifts, were gone long ago, back in the dimmest of the dim far past. ~-1
+Almost all stars were white dwarfs, fading to the end. ~-1
+New stars had been built of the dust between the stars, some by natural processes, some by Man himself, and those were going, too. ~-1
+White dwarfs might yet be crashed together and of the mighty forces so released, new stars built, but only one star for every thousand white dwarfs destroyed, and those would come to an end, too. ~-1
+Man said, "Carefully husbanded, as directed by the Cosmic AC, the energy that is even yet left in all the Universe will last for billions of years." ~-1
+"But even so," said Man, "eventually it will all come to an end. ~-1
+However it may be husbanded, however stretched out, the energy once expended is gone and cannot be restored. ~-1
+Entropy must increase to the maximum." ~-1
+Man said, "Can entropy not be reversed? ~-1
 Let us ask the Cosmic AC." ~1
-The Cosmic AC surrounded them but not in space. ~0
-Not a fragment of it was in space. ~0
-It was in hyperspace and made of something that was neither matter nor energy. ~0
-The question of its size and Nature no longer had meaning to any terms that Man could comprehend. ~0
-"Cosmic AC," said Man, "How may entropy be reversed?" ~0
-The Cosmic AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~0
-Man said, "Collect additional data." ~0
-The Cosmic AC said, "I WILL DO SO. ~0
-I HAVE BEEN DOING SO FOR A HUNDRED BILLION YEARS. ~0
-MY PREDECESSORS AND I HAVE BEEN ASKED THIS QUESTION MANY TIMES. ~0
-ALL THE DATA I HAVE REMAINS INSUFFICIENT." ~0
-"Will there come a time," said Man, "when data will be sufficient or is the problem insoluble in all conceivable circumstances?" ~0
-The Cosmic AC said, "NO PROBLEM IS INSOLUBLE IN ALL CONCEIVABLE CIRCUMSTANCES." ~0
-Man said, "When will you have enough data to answer the question?" ~0
-"THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~0
-"Will you keep working on it?" ~0
-asked Man. ~0
-The Cosmic AC said, "I WILL." ~0
-Man said, "We shall wait." ~0
-"The stars and Galaxies died and snuffed out, and space grew black after ten trillion years of running down. ~0
-One by one Man fused with AC, each physical body losing its mental identity in a manner that was somehow not a loss but a gain. ~0
-Man's last mind paused before fusion, looking over a space that included nothing but the dregs of one last dark star and nothing besides but incredibly thin matter, agitated randomly by the tag ends of heat wearing out, asymptotically, to the absolute zero. ~0
-Man said, "AC, is this the end? ~0
-Can this chaos not be reversed into the Universe once more? ~0
-Can that not be done?" ~0
-AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~0
-Man's last mind fused and only AC existed -- and that in hyperspace. ~0
-Matter and energy had ended and with it, space and time. ~0
-Even AC existed only for the sake of the one last question that it had never answered from the time a half-drunken computer ten trillion years before had asked the question of a computer that was to AC far less than was a man to Man. ~0
-All other questions had been answered, and until this last question was answered also, AC might not release his consciousness. ~0
-All collected data had come to a final end. ~0
-Nothing was left to be collected. ~0
-But all collected data had yet to be completely correlated and put together in all possible relationships. ~0
-A timeless interval was spent in doing that. ~0
-And it came to pass that AC learned how to reverse the direction of entropy. ~0
-But there was now no man to whom AC might give the answer of the last question. ~0
-No matter. ~0
-The answer -- by demonstration -- would take care of that, too. ~0
-For another timeless interval, AC thought how best to do this. ~0
-Carefully, AC organized the program. ~0
-The consciousness of AC encompassed all of what had once been a Universe and brooded over what was now Chaos. ~0
-Step by step, it must be done. ~0
-And AC said, "LET THERE BE LIGHT!" ~0
-And there was light---- ~0
+The Cosmic AC surrounded them but not in space. ~-1
+Not a fragment of it was in space. ~-1
+It was in hyperspace and made of something that was neither matter nor energy. ~-1
+The question of its size and Nature no longer had meaning to any terms that Man could comprehend. ~-1
+"Cosmic AC," said Man, "How may entropy be reversed?" ~-1
+The Cosmic AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~-1
+Man said, "Collect additional data." ~-1
+The Cosmic AC said, "I WILL DO SO. ~-1
+I HAVE BEEN DOING SO FOR A HUNDRED BILLION YEARS. ~-1
+MY PREDECESSORS AND I HAVE BEEN ASKED THIS QUESTION MANY TIMES. ~-1
+ALL THE DATA I HAVE REMAINS INSUFFICIENT." ~-1
+"Will there come a time," said Man, "when data will be sufficient or is the problem insoluble in all conceivable circumstances?" ~-1
+The Cosmic AC said, "NO PROBLEM IS INSOLUBLE IN ALL CONCEIVABLE CIRCUMSTANCES." ~-1
+Man said, "When will you have enough data to answer the question?" ~-1
+"THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~-1
+"Will you keep working on it?" ~-1
+asked Man. ~-1
+The Cosmic AC said, "I WILL." ~-1
+Man said, "We shall wait." ~-1
+"The stars and Galaxies died and snuffed out, and space grew black after ten trillion years of running down. ~-1
+One by one Man fused with AC, each physical body losing its mental identity in a manner that was somehow not a loss but a gain. ~-1
+Man's last mind paused before fusion, looking over a space that included nothing but the dregs of one last dark star and nothing besides but incredibly thin matter, agitated randomly by the tag ends of heat wearing out, asymptotically, to the absolute zero. ~-1
+Man said, "AC, is this the end? ~-1
+Can this chaos not be reversed into the Universe once more? ~-1
+Can that not be done?" ~-1
+AC said, "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER." ~-1
+Man's last mind fused and only AC existed -- and that in hyperspace. ~-1
+Matter and energy had ended and with it, space and time. ~-1
+Even AC existed only for the sake of the one last question that it had never answered from the time a half-drunken computer ten trillion years before had asked the question of a computer that was to AC far less than was a man to Man. ~-1
+All other questions had been answered, and until this last question was answered also, AC might not release his consciousness. ~-1
+All collected data had come to a final end. ~-1
+Nothing was left to be collected. ~-1
+But all collected data had yet to be completely correlated and put together in all possible relationships. ~-1
+A timeless interval was spent in doing that. ~-1
+And it came to pass that AC learned how to reverse the direction of entropy. ~-1
+But there was now no man to whom AC might give the answer of the last question. ~-1
+No matter. ~-1
+The answer -- by demonstration -- would take care of that, too. ~-1
+For another timeless interval, AC thought how best to do this. ~-1
+Carefully, AC organized the program. ~-1
+The consciousness of AC encompassed all of what had once been a Universe and brooded over what was now Chaos. ~-1
+Step by step, it must be done. ~-1
+And AC said, "LET THERE BE LIGHT!" ~-1
+And there was light---- ~-1

@@ -189,13 +189,13 @@ class Perceptron():
         #A single neuron model with n inputs and 1 output
         #The weights are assigned to a n by 1 matrix, which has
         #n is based on the number of dendrites
-        self.weights = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+        self.weights = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
         #Set the bias to zero
         self.bias = 0.0
         
         #Set the learning rate to one
-        self.learn_rate = 1.0
+        self.learn_rate = 0.15
 
         #Set the bipolar target
         self.target = 0.25
@@ -203,28 +203,32 @@ class Perceptron():
     def train(self, train_inputs, train_outputs):
         #stopping condition sentinel
         stop_cond = 0
-      
+        counter = 0
         while stop_cond == 0:
-            w_check = self.weights
-            for i in xrange(train_inputs):
-                
+            hello = 0
+            for i in xrange(len(train_inputs)):
                 #calculates the output
                 output = self.think_single(train_inputs[i])
                 #calculate the answer now
                 answer = self.calc_ans_single(output)
                 
-                if answer != train_outputs[i]:
-                    for k in xrange(self.weights):
-                        self.weights[k] +=  self.learn_rate* train_outputs[i] * train_inputs[i][k]
-                    self.bias += self.learn_rate*train_outputs[i]
-            if w_check == self.weights:
+                if answer != train_outputs[0][i]:
+                    number = len(self.weights)
+                    for k in xrange(number):
+                        self.weights[k] +=  self.learn_rate * train_outputs[0][i] * train_inputs[i][k]
+                    self.bias += self.learn_rate * train_outputs[0][i]
+                else:
+                    hello += 1
+            counter += 1
+            if hello == len(train_outputs[0]):
                 stop_cond = 1
-                
 
     def think_single(self, single_input):
-        
-        sum =  dot(single_input,self.weights.T) 
-        return self.bias + sum 
+        summa = 0.0
+        num = len(single_input)
+        for i in xrange(num):
+            summa += single_input[i] * self.weights[i]
+        return self.bias + summa 
 
     
     def calc_ans_single(self,single_input):
@@ -259,7 +263,7 @@ def main():
 
     input_set = input_builder(inFile)
     output_set = output_builder(inFile)
-
+    
     print "Bias before training: "
     print perceptron.bias
 
@@ -268,9 +272,11 @@ def main():
     print perceptron.weights
 
     
-    perceptron.think(input_set,output_set)
+    perceptron.train(input_set,output_set)
 
     print "Bias after training: "
     print perceptron.bias
     print "Print the resulting weights after training: "
     print perceptron.weights
+
+main()
