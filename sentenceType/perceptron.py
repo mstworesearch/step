@@ -6,18 +6,17 @@ import nltk
 from nltk.tokenize import sent_tokenize
 from numpy import exp, array, random, dot
 
-inFile = str(sys.argv[1])
+
 
 #Getting the data ready
 def syntax_classifier(sentence):
-    #First input dendrite
     #Reads through a sentece, add a classification to each element and add the element and classification to a tuple.
     #Returns a list of tuples.
     tokens = nltk.word_tokenize(sentence)
     return nltk.pos_tag(tokens)
 
 def bool_verb(sentText):
-    #Second input dendrite
+    #First input dendrite
     #Gets a list of tuples. Each tuple is style: (word, POS)
     #Returns bool for if there is a verb
     sentinel = 0
@@ -27,21 +26,88 @@ def bool_verb(sentText):
     return sentinel
 
 def bool_verbPos(senti):
-    #Third input dendrite
+    #Second input dendrite
     #Gets a list of tuples. Each tuple is style: (word, POS)
     #Returns bool if verb is at beginning and not gerund
     sent = 0
-    if 'V' in senti[0][1] and senti[0][1] != 'VBG':
+    if 'V' in senti[0][1]:
         sent = 1
     return sent
 
 def bool_VBZ(sento):
+    #Third input dendrite
+    #Checks for the presence of a VBZ (verb singular third person) instance in the entire sentence
     senti = 0
     for item in sento:
         if item[1] == "VBZ":
             senti = 1
     return senti
 
+def gerund_bool(sentence):
+    #Fourth input dendrite
+    #Checks for the presence of a gerund in a given sentence.
+    for item in sentence:
+        if item[1] == "VBG":
+            return 1
+        else:
+            return 0
+
+def gerund_first(sentence):
+    #Fifth input dendrite
+    #Checks for the presence of a gerund at the beginning of a sentence.
+    if 'VBG' in sentence[0][1]:
+        return 1
+    else:
+        return 0
+
+def question_bool(sentence):
+    c = len(sentence) -1 
+    #Sixth input dendrite
+    #Checks for the presence of a question mark in a given sentence
+    if '?' in sentence[c][1] or '?' in sentence[c-1][1]:
+        return 1
+    else:
+        return 0
+
+def exclamation_bool(sentence):
+    c = len(sentence) -1 
+    #Seventh input dendrite
+    #Checks for the presence of an exclamation point in a given sentence
+    if '!' in sentence[c][1] or '!' in sentence[c-1][1]:
+        return 1
+    else:
+        return 0
+
+def colon_bool(sentence):
+    #Eighth input dendrite
+    #Checks for the presence of a colon instance in the entire sentence
+    
+    for item in sentence:
+        if item[0] == ":":
+            return 1
+   
+    return 0
+
+def semi_colon_bool(sentence):
+    #Ninth input dendrite
+    #Checks for the presence of a semi-colon instance in the entire sentence
+    
+    for item in sentence:
+        if item[0] == ";":
+            return 1
+   
+    return 0
+
+def proper_noun_bool(sentence):
+    #Tenth input dendrite
+    #Checks for the presence of a proper noun instance in the entire sentence
+    
+    for item in sentence:
+        if item[1] == "NNP" or item[1] == "NNPS":
+            return 1
+   
+    return 0
+    
 def input_builder(dataFile):
     #Reads in the data file.
     #outputs a list of lists that contains boolean values.
@@ -68,6 +134,38 @@ def input_builder(dataFile):
                 verbVBZ = bool_VBZ(tokenTag)
             results.append(verbVBZ)
 
+            #Fourth input dendrite
+            verbGerund = 0
+            if verBool == 1:
+                verbGerund = gerund_bool(tokenTag)
+            results.append(verbGerund)
+
+            #Fifth input dendrite
+            gerundFirst = 0
+            if verbGerund == 1:
+                gerundFirst = gerund_first(tokenTag)
+            results.append(gerundFirst)
+
+            #Sixth input dendrite
+            questionMark = question_bool(tokenTag)
+            results.append(questionMark)
+
+            #Seventh input dendrite
+            exclamationMark = exclamation_bool(tokenTag)
+            results.append(exclamationMark)
+
+            #Eighth input dendrite
+            colonMark = colon_bool(tokenTag)
+            results.append(colonMark)
+
+            #Ninth input dendrite
+            semiColonMark = semi_colon_bool(tokenTag)
+            results.append(semiColonMark)
+
+            #Tenth input dendrite
+            properNoun = proper_noun_bool(tokenTag)
+            results.append(properNoun)
+
             #add results to the overall list
             listSent.append(results)  
     return listSent
@@ -91,46 +189,60 @@ class Perceptron():
         #A single neuron model with n inputs and 1 output
         #The weights are assigned to a n by 1 matrix, which has
         #n is based on the number of dendrites
-        self.weights = [0.0, 0.0, 0.0]
+        self.weights = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
         #Set the bias to zero
-        self.bias = [0.0, 0.0, 0.0]
-
+        self.bias = 0.0
+        
         #Set the learning rate to one
         self.learn_rate = 1.0
 
         #Set the bipolar target
         self.target = 0.25
 
-    def train(self, train_inputs, train_outputs, iterations):
+    def train(self, train_inputs, train_outputs):
         #stopping condition sentinel
         stop_cond = 0
-        for iteration in xrange(iterations):
-            while stop_cond == 0:
-                #calculates the output
-                output = self.think(train_inputs)
-
-                #calculate the answer now
-                answer = self.calc_ans(output)
+      
+        while stop_cond == 0:
+            w_check = self.weights
+            for i in xrange(train_inputs):
                 
-                if answer != train_outputs:
-                    adjustment = 
-                    
-                    
-
+                #calculates the output
+                output = self.think_single(train_inputs[i])
+                #calculate the answer now
+                answer = self.calc_ans_single(output)
+                
+                if answer != train_outputs[i]:
+                    for k in xrange(self.weights):
+                        self.weights[k] +=  self.learn_rate* train_outputs[i] * train_inputs[i][k]
+                    self.bias += self.learn_rate*train_outputs[i]
+            if w_check == self.weights:
+                stop_cond = 1
+                
 
     def think_single(self, single_input):
-        return 0
+        
+        sum =  dot(single_input,self.weights.T) 
+        return self.bias + sum 
 
+    
     def calc_ans_single(self,single_input):
-        return 0
+        if single_input > self.target:
+            return 1
+        elif single_input < (-1 * self.target):
+            return -1
+        else:
+            return 0
 
+        
     def think(self, inputs):
         #Pass inputs through the network
         #This calculates sum of each input dendrite
         #times its weight
         return self.bias + dot(inputs, self.weights)
-        
+
+    
     def calc_ans(self, x):
         #Goes through the logic to generate the answer
         for i in x:
@@ -141,4 +253,24 @@ class Perceptron():
             else:
                 return 0
 
-        
+def main():
+    perceptron = Perceptron()
+    inFile = str(sys.argv[1])
+
+    input_set = input_builder(inFile)
+    output_set = output_builder(inFile)
+
+    print "Bias before training: "
+    print perceptron.bias
+
+
+    print "Perceptron weights before training: "
+    print perceptron.weights
+
+    
+    perceptron.think(input_set,output_set)
+
+    print "Bias after training: "
+    print perceptron.bias
+    print "Print the resulting weights after training: "
+    print perceptron.weights

@@ -11,9 +11,6 @@ Sliders for detection
 
 
 
-Input 1: Boolean for "is there a verb" (bool)
-Input 2: Is verb at beginning and not gerund (bool)
-Input 3: Boolean for "is there a VBZ"   (bool)
 
 The rest inputs are NOT IMPLEMENTED CURRENTLY
 Input 4: Position of noun in sentence	(float)
@@ -21,16 +18,19 @@ Input 5: Relative position of noun with respect to verb (float) IT MIGHT BE BETT
 Input 6: Position of input 5 in sentence	(float) This might be unnecessary because input 2 and 4 account for it right?
 
 
-NEW PARAMS TO ADD:
-1. Is the first word a verb
-2. Is there a gerund in the entire sentence
-3. Is the first word a gerund
-4. Is there a question mark in the sentence
-5. Is there an exclamation mark in the sentence
-6. Is there a colon in the sentence
-7. Is there a semi-colon in the sentence
-8. Is a proper-noun in the sentence*
-9. 
+NEW INPUT PARAMS TO ADD: (DELETE INPUT 2)
+
+1: Boolean for "is there a verb" (bool)
+2. Is the first word a verb
+3: Boolean for "is there a VBZ"   (bool)
+4. Is there a gerund in the entire sentence
+5. Is the first word a gerund
+6. Is there a question mark in the sentence
+7. Is there an exclamation mark in the sentence
+8. Is there a colon in the sentence
+9. Is there a semi-colon in the sentence
+10. Is a proper-noun in the sentence*
+
 
 
 
