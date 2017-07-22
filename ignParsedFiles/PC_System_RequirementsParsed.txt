@@ -1,0 +1,12 @@
+PC System Requirements - Mass Effect Andromeda Wiki Guide - IGN
+
+Big Story
+In order to play Mass Effect: Andromeda on PC you'll need the following minimum system requrements. Below are also recommended system requirements set by EA and BioWare. 
+OS: 64-bit Windows 7, Windows 8.1 and Windows 10PROCESSOR: Intel Core i5 3570 or AMD FX-6350MEMORY: 8 GB RAMVIDEO CARD: NVIDIA GTX 660 2GB, AMD Radeon 7850 2GBHARD DRIVE: At least 55 GB of free spaceDIRECTX: DirectX 11 
+OS: 64-bit Windows 7, Windows 8.1 and Windows 10PROCESSOR: Intel Core i7-4790 or AMD FX-8350MEMORY: 16 GB RAMVIDEO CARD: NVIDIA GTX 1060 3GB, AMD RX 480 4GBHARD DRIVE: At least 55 GB of free spaceDIRECTX: DirectX 11 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

@@ -1,0 +1,13 @@
+How to Source Information - How To Wiki Guide - IGN
+
+Big Story
+Content from other web sites should always be rewritten (or quoted and credited) and properly sourced. Wikis automatically create a footnote and hyperlink to the source of information as long as you have the url. 
+The code should look like: 
+Which will create a footnote link that looks like this: [1] 
+Check out the footnote below in the References & Sources section. How cool is that? 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

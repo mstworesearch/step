@@ -1,0 +1,36 @@
+QR Codes - Watch Dogs Wiki Guide - IGN
+
+Big Story
+There are a total of 16 QR Codes scattered across the 6 regions of Chicago in Watch Dogs. Finding all QR Codes will unlock a bonus mission. Completing the bonus mission will earn you the Read-only Trophy or Achievement, as well as a new weapon, the Gangster Tommy Gun 
+ 
+
+
+To reveal the code locations on your map you must unlock all CtOS Towers. The displayed locations aren't very accurate though and you must find one specific surveillance camera and look at the QR Code from a certain angle. The correct camera is sometimes far away, or can only be activated from an elevated position. 
+Viewing each QR Code also unlocks an audio log. All Codes are saved automatically when you find them. None of them are missable and you can still get them in free roam after beating the story. They are also a requirement for the They Call Him The Vigilante Trophy or Achievement. 
+Located on the southern part of the island in Brandon Docks, climb onto a Racine building to get a view of the camera you need to hack that's attached to a boat storage facility. Look back across the open space to see the QR code. 
+Climb up to the platform of the El station here to find the camera you need to hack. Now look at the smoke stacks to find the QR code you need to scan. 
+Located at the end of the river in Brandon Docks, look for a grey building right next to the bridge that crosses the river. Now look across the river with the camera to find the QR code. 
+Found on the southeast corner of the island in Brandon Docks. Look for a camera on the opposite side of the road from the QR code, and look back across the street with the camera to find the code. 
+Found in the southwest corner of the map, look for a camera on the corner of a brick apartment, at the very top. Hack this then look across the roof tops to find the QR code. 
+This one will require a boat. Sail off to the very western edge of the map, and hop off at the big metal locks. Find a camera over here, and scan the QR code. 
+Located by the baseball stadium, look for a camera on the corner of a brick building with a billboard on top. Focus it on the QR code and scan away. 
+Located to the western side of Parker Square, find a camera that's behind a barbed-wire fence. Hack it, then look at the QR code at the end of the block. 
+Go to the bridge that is under construction to find a camera right along the incomplete edge. Hack this, then look at the road tunnel to find the QR code. 
+Found in an alley in The Loop, look for a camera on the corner of a big building by the QR code, then look up to scan it. 
+To get to the camera, this one will require some climbing and careful lining up of Aiden. First follow the train tracks past a bend near the QR code, afterclimbing up the platform, follow the tracks until you see some metal stairs, then climb onto a big AC unit. Look up to find a camera on the building next to you. From here, find the QR code. 
+Go to the river by where you access The Bunker, and cross the river under the bridge. Find the camera you need to hack under the highway here, then look back over by the hobo camp. 
+Get to the last The Loop El Stop before the train crosses into Brandon Docks. From the platform, look in the opposite direction of the QR code to find the camera on a wall. Look up to scan the QR code. 
+From across the highway along the north edge of Mad Mile, use a lower camera to reach a higher camera. From here, look back across the highway at the QR code. 
+Found right in the middle of Mad Mile, look for a castle-looking building to find the camera you need. From here, look up at the skyscrapers around you. 
+Located on the western side of Mad Mile, find a massive white building. Hack the camera, then look for another big, white building with a camera on an angle. Now look across the street and up for the QR code. 
+ 
+
+
+After you have scanned the 16th QR code, Aiden will get a phone call from DedSec. It looks like the shady hacker group wants to get back at Giggles, the hacker who left all of the QR codes lying around. Go into Mad Mile and find the switch box outside of Giggles' apartment. You will have to solve a very complicated hacking puzzle. Once done with that, you are in control of a video feed in Giggles' apartment. Hack into the mainframe and upload the virus from DedSec. Once done, vacate the area. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Walkthrough | Audio Logs | Progression Rewards | Easter Eggs, Secrets and References | Investigations | Investigation Rewards | Wanted Pages
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

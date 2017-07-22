@@ -1,0 +1,30 @@
+Making Links - How To Wiki Guide - IGN
+
+Big Story
+If you're familiar with editing other wikis (such as Wikipedia), you may be familiar with in-line linking or creating a hyperlink to another wiki or page. For IGN's wikis, there are two types of links: internal hyperlinks (pages in a single wiki) and external hyperlinks (a page or URL that exists outside a wiki - this includes another wiki on IGN). 
+Links from one page to another in the same wiki (not two different wikis) are created by simply entering the exact name (down to capitalization - IGN uses Chicago Style for capitalizing page titles) of the page being linked to. 
+Simply click on the "Link" button (it is right of the three text alignment buttons) and a hyperlink pop-up will appear. Input the destination page and press ENTER or click the OK button. 
+In the wiki-code editor, you create internal link with double-brackets --- 
+. Capitalization and spelling count; additionally, underscores are treated as empty spaces (and vice versa). For IGN, it is preferable to use empty spaces instead of underscores. 
+Remember that when creating internal links to pages (existing pages or placeholders), keep Invalid Page Punctuation in mind. 
+Using this method, you can easily create placeholders for future pages on existing pages. To find these "empty" linked-to pages, you can use the Wanted Pages link in the Wiki Tools section of the navigation box to identify all such pages. 
+External links are created in the same manner, except the entire URL is pasted into the hyperlink pop-up. In the wiki-code editor, single-brackets are used in this syntax --- 
+--- That code creates this link: IGN Entertainment 
+The staff refrains from using this except when citing sources, or linking to a resource that exists outside the current wiki. The reason for this is that a wiki will naturally collect all hyperlinks on a page at the bottom of each page. If there are too many external links, a page will be closely scrutinized and edited. 
+Anchor links allow you to jump between sections all while on a page, or jump to a section on another page. An example for this page would look like this: 
+This would immediately jump you to the section for the Anchor Link Test (below) on the page. Underscores must be included for it to work for sections with multiple words. 
+Try it it out: Jump to Test Link 
+With this, you can build a very nice Table of Contents at the top of long pages to point out the highlights. 
+It is even possible to add links to sections on other pages. To do that, the code would look something like this: 
+If linking to anchor link externally, or from another page, just append the section header, with underscores and a #, to a URL: 
+Try it it out: http://www.ign.com/wikis/how-to/Making_Links#Anchor_Link_Test 
+When direct-linking terms from the nav or within page copy, you may find it necessary to point multiple terms to the same url (eg, plural or singular keyword). To do this, you can create multiple pages and simply redirect the duplicates to the original one. 
+Simply enter that text with the relevant page name as wiki markup on an empty page to redirect it. 
+Well, hi there! Congrats on a successful anchor link test! 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Beginner's Guide to Wikis | Creating Links
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

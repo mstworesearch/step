@@ -1,0 +1,4 @@
+Microsoft Announces Xbox Live Tournament Platform - IGN
+
+Microsoft introduced its Xbox Live Tournaments Program, a new initiative allowing game developers to run "easy to integrate tournaments" through Xbox Live.
+Jason Ronald, head of the Xbox Advanced Technology Group, announced the program today at the Game Developers Conference in San Francisco. According to The Verge, the Xbox Live Tournaments Program will be supported on Xbox One and Windows 10, creating "a cohesive experience" using the Universal Windows Platform.

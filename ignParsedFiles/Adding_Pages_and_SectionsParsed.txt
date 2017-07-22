@@ -1,0 +1,20 @@
+Adding Pages and Sections - How To Wiki Guide - IGN
+
+Big Story
+Because IGN's wiki guides are built on MediaWiki's wiki platform, there are multiple ways to create and add pages, but it is preferable you choose one method you are comfortable with and stick with it. 
+Locate the navigation box (it's to the left of this text) and at the bottom of the box, there should be a link to "Add Page". When you click on it, it will create a blank page. The first thing you want to do is to determine where the page you are creating should be on the navigation. 
+To determine where your page goes on the navigation box, select the left drop-down box. You can place your page "Before" or "After" a particular section in the navigation - note that IGN's style guide mandates alphabetical ordering (numbers and symbols ahead of A to Z) over all else. 
+In some cases, you may not need to add a page to the navigation (an example of this page would be achievements and trophies). That option is present in the second drop-down (where all the sections are), as "Do Not Add to Navigation". For most purposes, the before and after options are probably the ones you will use most. 
+Once you've determined where you page will be located on the navigation, and before doing more, you need to name the page correctly. Please note that certain punctuation and characters should be avoided in page names - refer to this page for Invalid Page Punctuation. 
+The above method is something that let's you add a page to the wiki and update the navigation box all at once. However, you may also add a page after it's created, or put a "place-holder" page first and then edit the page after. To do this, locate the "Edit Nav" link on the navigation box's bottom. 
+Clicking the "Edit Nav" link brings you to a tri-column interface to make changes to the wiki's navigation box. You can add a link to a page (or create a placeholder page) by using the "Add Section", "Add Page", or "Add Sub Page" links on each column. 
+The middle and right column links appear only after you click on a page in the column left of them; this is to make sure pages and placeholders are organized on the wiki navigation. Remember that when naming a page, there are certain punctuation and symbols you should refrain from using. 
+Once you've created the link to an existing page, or the placeholder page, save the navigation. For placeholder pages, you may now find the link on the navigation. Click on it and you should know what to do from there. 
+If you are still having trouble with this process, you may ask the staff for assistance. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Frequently Asked Questions | Adding Pages & Sections
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

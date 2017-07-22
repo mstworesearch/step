@@ -1,0 +1,4 @@
+Samsung TVs to Fix Nintendo Switch HDMI Problem - IGN
+
+An issue on Samsung TVs that saw them automatically switching HDMI channel to a Nintendo Switch console in sleep mode should be fixed soon.
+Samsung's latest TVs include a feature that has them automatically switch to what they perceive to be a newly-active HDMI input, but docked Switch consoles (among other devices) appear to trigger that feature even when notionally turned off.

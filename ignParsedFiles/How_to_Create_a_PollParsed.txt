@@ -1,0 +1,20 @@
+How to Create a Poll - How To Wiki Guide - IGN
+
+Big Story
+If you need to add a poll to a wiki, use Poll Daddy. To embed a poll in a wiki you need a poll ID as well. To get the poll ID, you need to first create a poll on the Poll Daddy website. Create a login here: 
+1 - Select Polls > Create a New Poll from the top menu 
+2 - Enter a poll question, select the appropriate Folder, and enter the answers for users to choose from 
+3 - For the Poll Style, select a Custom Style - IGN (best for short text answers), IGN Wide (best for long answers, or answers with images embedded), or GameSpy or GameSpy Wide for polls on GameSpy 
+4 - Choose the poll options you want. 
+5 - For Comments, make sure "No Comments" is selected. (Enabling comments would create a separate comments page hosted by Poll Daddy; we want users to use the comments on IGN) 
+6 - For Sharing, make sure "Allow Sharing" is enabled. 
+7 - Click "Create poll". 
+8 - Copy the code from the pop-up. 
+To embed a poll in a wiki, use the following code: 
+Enter your poll ID number for #######. Note the slash at the end of the poll ID number -- this is essential or the poll will not embed. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

@@ -1,0 +1,17 @@
+FAQs - How To Wiki Guide - IGN
+
+Big Story
+IGN has moved everything (FAQs included!) to a new publishing system. While the look may be a little bit different, the old adages still hold true -- FAQs are left in plain text (more or less). Ads, as always, are disabled on all "FAQ" submissions. 
+The old webform is no longer supported. However, updates and new guides may be sent by email attachment (faqsign.com) or dropped into the FTP (in a folder with your name and date on it - e.g., sng 2012 june 18) 
+ftp://clubign_guest:sendfaqs@xfer.ign.comUser clubign_guestPass sendfaqs 
+You may view the latest submissions here. IGN thanks you for your patronage. 
+If you do not see your FAQ listed with IGN after a period of 24 hours after your submission, you should immediately contact faqsign.com 
+Remember FAQ submissions received prior to 4 P.M. Pacific Standard Time can be approved the same day, Monday to Friday. No updates occur on Saturdays or Sundays, as well as any widely recognized holidays in the United States. 
+If you have further questions, comments, or suggested improvements for the site or IGN in general, contact the staff at: faqsign.com . Copies of new FAQs and FAQ updates are accepted at this address as well. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Faqs | FAQS | F.a.q.s. | F.A.Q.
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

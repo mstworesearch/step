@@ -1,0 +1,12 @@
+Using Tables and Templates - How To Wiki Guide - IGN
+
+Big Story
+Tables are best created from the Rich Text editor, although users familiar with the wiki-code may create them raw. Note that the reddish color of the first row is preferable for headers (both column and row). 
+The following are templates for different table types (they may be changed as the need for each wiki changes). Copy the code for these into your wiki and go nuts! 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Main Page | Beginner's Guide to Wikis | Formatting Tables | Using Wiki Templates
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

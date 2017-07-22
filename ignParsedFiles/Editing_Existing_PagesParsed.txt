@@ -1,0 +1,27 @@
+Editing Existing Pages - How To Wiki Guide - IGN
+
+Big Story
+If a page is blank, it is waiting for you to provide useful information. All such "blank" pages start off that way (especially if you just add it to the NAV). Any page may be edited using the EDIT button on the top of each page. 
+Additionally, you may edit individual sections topped by a HEADER or SUB-HEADER on the page. When you have those sections, only that section will change, and not the entire page. 
+However, what is "useful information" on a page can vary widely. 
+Writing technical documentation is not the same as playing a videogame. The toughest part is not simply listing tips for beating a game, but organizing all of that content into comprehensible sentences and paragraphs. 
+The best way is to simply start with what you know - if you are a person who didn't know squat about the game and wanted to beat it, what would you look for? Approach it in that manner and you will have a solid start. 
+Different pages on a wiki are judged by different criteria. 
+An introduction of what the game is would be a good start. Many games are recognizable franchises - where does this particular game fit into the franchise's history? 
+This page and its sections cover the controls of the game and other related topics, from describing the various HUD elements or how the game progresses. Other common questions should be answered here, or at least touched on: 
+While it is tempting to answer all questions here, be wary of bloating the section with needless information. This is what a "Frequently Asked Questions" page is for. 
+Remember that while some players may be familiar with videogames, many more are not. The "Basics" page should answer most, if not all, of a new player's questions. 
+The section not only tells players how to beat the game from start to finish, but it should be organized into recognizable chapters, acts or missions which follow the structure used in the game's story mode. 
+Naturally, pages for chapters or acts are not needed in sports games (although conferences and divisions are). A multiplayer only game like Warhawk need only sections for maps and different match types, while fighting games like Mortal Kombat may only require pages for moves lists. 
+If you are at a loss for what structure to adopt for a particular wiki, please consult with IGN's guides editors. 
+The achievements and trophies pages use special templates to display the amount of gamer points for a condition, as well as the trophy type earned. 
+The name of the condition and its criteria should be copied verbatim from the game. Further elaboration on difficult, or "missable" achievements/trophies should be on its own respective page (and linked to from the main achievement & trophy page). 
+This is a collection of frequently asked questions, along with working, valid answers and solutions. While not designed to be a substitute for an in-depth walkthrough, a FAQ can answer urgent questions or issues on a game. 
+These pages are essentially items, collectibles, secret tasks, equipment and the like. Using styled tables to organize your data (alphabetizing helps) will be a huge step in sorting through all the stuff in a game. 
+When you don't have time to locate items in a walkthrough, and only need to locate one thing quickly, a topical Appendix Page is far better tool. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

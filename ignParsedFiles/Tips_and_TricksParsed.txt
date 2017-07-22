@@ -1,0 +1,70 @@
+Tips and Tricks - Horizon: Zero Dawn Wiki Guide - IGN
+
+Big Story
+This page collects tips and tricks, strategies, and secrets you need to succeed in Horizon Zero Dawn, from which weapons you should by to how to kill machines. 
+Here you will find tips, strategies and advice that applies can be used throughout a playthrough of Horizon. 
+This may seem obvious, but sometimes we forget to stop and smell the roses - or, more accurately, stop and collect the life-saving herbs. 
+The woods, deserts, mountains and jungles of Horizon are full of medicinal plants - always be sure to grab a few if your healing satchel is running low! 
+When fighting larger bots, make use of the I-frames that occur in the first second of a dodge/roll. 
+I-frames, or invincibility frames, sometimes occur during the beginning of a quick player motion - they allow a brief moment of time where the player character is invulnerable to damage. 
+When you find a new merchant, navigate to the Treasure Boxes section of their sale menu. Every vendor offers a Free Sample Box with some basic items inside.  
+Larger machines, such as Ravagers or Behemoths, have multiple vulnerable spots that can be removed or damaged. You can see these by clicking the Right Stick and scanning the enemy -- all vulnerable parts are highlighted in yellow. Hit the touch pad to enter the full menu and you can look up elemental vulnerabilities for each part in the Notebook section. 
+Focus on certain types of items - most notably Power Cells or Cryo Cannisters - to do a massive amount of damage to these dangerous robo-beasts. 
+When you reach the end of a Cauldron, there's almost always a formidable machine waiting to be released against you. Before triggering this boss fight, be sure to plant traps and tripwires all around the creature's enclosure. 
+This will either cause it to be stunned or damaged as soon as it breaks free, or it will simply stay inside the makeshift pen, allowing you to pick it off from a distance. 
+Save at a fire before entering a Cauldron. You may be trapped there with a boss stronger than you and forced to revert to your outside save. 
+If you Quicksave before a battle and die, your life will be fully restored along with any weapons you are holding that were dropped by a machine (e.g. Thunderjaw or Ravager). 
+If you die before collecting loot after a big battle, your loot will disappear. 
+If you fight machines for 30 minutes and die without saving, you will be returned to the last fire you saved at. Don't let that happen. Autosaves happen in quests, however. 
+There are three tiers of weapon: Basic (green), Carja (blue), Shadow (purple). You can purchase Shadow weapons in the big, central city Meridian fairly early in the game. Definitely upgrade: This is how you add elemental ammo types like ice arrows. 
+Hunter Bow seeming painfully weak? The Shadow Hunter Bow (see above) has Hardpoint Arrows that do significant damage. 
+If you encounter a machine with a weakness to fire, pelt it with arrows until it catches on fire. Suddenly your arrows will do vastly more damage. 
+ 
+
+
+These are the tips you'll want to know before starting and during the first few hours of your adventure through the post-post-apocalyptic world of Horizon Zero Dawn. 
+After completing the tutorial missions A Gift From the Past and Lessons of the Wild, Aloy will possess three skill points to unlock new abilities with. 
+We recommend purchasing Silent Strike, Concentration and Lure Call as your starting skills. Silent Strike and Lure Call work well in tandem to allow you to eliminate nearby machines without engaging or alarming the ones nearby. Concentration functions similarly, allowing you more time to line up bow shots - this is especially useful for taking out Watchers before they can raise an alarm. 
+One of the first things you'll want to improve is your carrying capacity. We specifically recommend focusing on crafting upgrades for your Resource Satchel first, since this will allow you to carry more items you scavenge from enemies and around the world. 
+You'll spend the first few hours of the game in The Embrace - this is the best location for hunting wildlife in the game, since the Machines in this area are less threatening than anywhere else. After completing the tutorial missions, spend some time hunting boar, turkey, rabbits, foxes and fish - you'll need their pelts and bones to craft more elaborate satchels and pouches. 
+After leveling up a few more times, you'll want to focus your skill points on purchasing abilities in the third column of the Forager skill tree. 
+ 
+
+
+The Gatherer and Scavenger skills are helpful for crafting, and Disarm Traps is helpful, too ( being able to collect unused traps and tripwires is a great relief on resource management). The Tinker ability, however, may be the most important one in the (later) game, as it allows you to keep modifications when removing them from weapons and outfits instead of destroying them. 
+After acquiring a new weapon or ammo type, be sure to enter your Quest menu and set the newly-added Tutorial quest as active, then complete a single final objective. For example: That means that you can kill 2 boars out of three, but you'll need to kill the third one while the quest is active for it to count. 
+This is a great way to earn bonus XP quickly, helping you power through the early levels of the game. 
+It may seem daunting, but being able to recognize a machine's vulnerabilities without your Focus will be a valuable skill during combat. 
+ 
+
+
+Scan every machine you encounter and take note of where their vulnerabilities lie -- and what types of damage will be most effective against them! 
+Outifts, weapons and special items are cheap in the world of Horizon - don't be stingy and hold onto every single item that you scavenge early on. 
+You can trade them to merchants for currency or better items, and if you run out you can always acquire more. 
+ 
+
+
+There are five hidden power cells to be found throughout the main campaign that will trigger a special side quest to unlock some very powerful armor. Keep your eyes peeled during your journey - or find them all here. 
+While you can get through the early stages of the game with only your Hunter Bow and Tripcaster, make sure to purchase a Carja Sharpshot from the traders past the Embrace gate. 
+It's TearBlast arrows will prove invaluable against larger machines - especially Ravagers, Glinthawks and ThunderJaws. 
+If you trust your ability to tackle any foe with merely a bow and some tripwires, don't bother purchasing a Ropecaster from any of the vendors - you'll receive a free one during the quest Maker's End (though it is several hours into the main storyline). 
+For a game that contains so many optional tutorials, there's a surprising amount of information that Horizon Zero Dawn either explains poorly or forgets to tell players entirely. 
+Different weapons all require different ammo types. You may say "Well, DUH," but this also applies to the quality of the various weapons as well. TearBlast arrows, for example, can only be used with the Carja or Shadow Sharpshot Bow, and while the basic Tripcaster can use shock tripwires, only the Shadow version can utilize flaming ones. 
+Be sure you examine what ammo types a weapon is able to fire before purchasing. 
+Much like in other large open world titles, when Aloy overrides a Strider, Broadhead or Charger to use as a mount, they will attempt to follow the path of whatever roadway they're traveling on, without players having to steer them along. 
+All players are responsible for is maintaining speed and defending against / avoiding nearby enemies. 
+When in a quest or activity that requires you to travel on foot with an NPC, you can walk, run or sprint at whatever speed you like - the other characters traveling with you will move at your pace. 
+Aloy can learn to override new, more powerful machines throughout the world by venturing into Cauldrons and hacking into their power core. These dungeon-like subterranean chambers are usually occupied by Watchers (and some larger creatures) and have a more dangerous machine guarding their core. 
+While there is a side quest that leads Aloy to her first Cauldron, it's easy to bypass if you aren't engaging in every optional mission you encounter. 
+Aloy can fast-travel between campsites that she's discovered, but doing so uses 1 Fast-Travel Pack. 
+These resources can be purchased or crafted from resources, and there are vendors in Meridian and other large settlements who possess Golden Fast Travel Packs, which allow for unlimited fast traveling. 
+While exploring caverns, bunkers and abandoned buildings of the Old Ones, Aloy will occasionally encounter doors blocked by rock formations. 
+She can destroy these stalagmites and stalactites with her spear to gain access to these closed-off areas. 
+Depending on how many resources you're carrying, it may not be worth crafting those last few arrows to hit max ammo. 
+Each stack of ammunition, whether you're crafting two or 12 individual arrows, costs the same amount of resources. So if you've got 37/40 arrows, it's not worth wasting the 10 Metal Shards required to craft an ammo pack that will only yield two arrows. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

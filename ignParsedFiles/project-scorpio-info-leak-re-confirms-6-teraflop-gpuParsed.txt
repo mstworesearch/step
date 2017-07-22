@@ -1,0 +1,9 @@
+Project Scorpio Info Leak Re-Confirms 6 Teraflop GPU - IGN
+
+A look at official information from Microsoft about the upcoming Project Scorpio has been analyzed and gives more clues as to the power of the iterative update to the Xbox One.
+Digital Foundry, who made a video sourcing information from a public-facing Microsoft report, says the whitepaper confirms Scorpio is getting a different RAM architecture than Xbox One, four times the L2 cache, and gives more evidence of a six teraflop GPU.
+That means the GPU in Scorpio has around 4.5 times the compute power of the current Xbox One.
+Digital Foundry's analysis also casts doubt the CPU will have AMD's new Zen architecture, and will instead use chips based on the Jaguar family, as is the current case with Xbox One, PS4, and PS4 Pro.
+The whitepaper gives suggestions to developers for hitting that 4K sweet spot the Scorpio aims for with Xbox One games. Efficiency suggestions recommend similar practices seen with the PS4 Pro, including a technique known as "checkerboarding" or "sparse rendering."
+Some parts of an image, such as shadows, can be rendered at half resolution with no real deterioration in quality, allowing for gains in efficiency, according to Digital Foundry.
+Basically, the techniques allow games to render at 4K without needing to also scale up in lockstep with compute power.

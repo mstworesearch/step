@@ -1,0 +1,35 @@
+Skills - Horizon: Zero Dawn Wiki Guide - IGN
+
+Big Story
+This page contains information on all of the skills available in Horizon Zero Dawn. Skill points are gained by leveling up, or completing Main Quests. 
+These are the skills available in the first line of the Prowler skill set. 
+Skill Point Cost: 1 Prerequisite: N/APress [R1] to perform silent takedown on humans and small machines, or deal high damage to medium-size enemies. 
+Skill Point Cost: 2 Prerequisite: Silent StrikePress [R1] to drop into a silent takedown on humans and small machines, or deal high damage to medium-size enemies. 
+Skill Point Cost: 3 Prerequisite: Strike From AbovePress [R1] when hanging below human enemies to perform a silent takedown." 
+Skill Point Cost: 3 Prerequisite: Strike From BelowPress [R1] to perform silent takedown on heavy / elite humans enemies. 
+Skill Point Cost: 3 Prerequisite: Strike From Above15% DMG+ to Strike attacks: Silent Strike, Strike From Above, Strike From Below, Leader Strike. 
+Skill Point Cost: 3 Prerequisite: Strong Strike30% DMG+ to Strike attacks. 
+These are the skills available in the second line of the Prowler skill set. 
+Skill Point Cost: 1 Prerequisite: N/ATime slows while aiming during a jump or a slide 
+Skill Point Cost: 2 Prerequisite: Hunter ReflexesUse ranged weapons while balancing on ropes 
+These are the skills in the third tier of the Prowler skill set. 
+Skill Point Cost: 1 Prerequisite: N/ALanding from a fall or jump is completely silent and will not alert unaware enemies. 
+Skill Point Cost: 2 Prerequisite: Silent Drop Reduces visibility to enemies while crouching. 
+Skill Point Cost: 3 Prerequisite: Low ProfilePerform long Dodge Rolls by holding [O], short ones by pressing it. 
+Skill Point Cost: 3 Prerequisite: Dodge ProwessSprinting is quiet, reducing chance of detection. 
+These are the skills in the first column of the Brave skill set. 
+Skill Point Cost: 1 Prerequisite: None While aiming with a weapon, push R3 to slow down time. 
+Skill Point Cost: 2 Prerequisite: Concentration Move faster while wielding a heavy weapon. 
+Skill Point Cost: 3 Prerequisite: Heavy Lifter Increases the maximum duration of Concentration. 
+Skill Point Cost: 3 Prerequisite: Heavy Lifter Use R1 while aiming to notch an additional arrow on all bow weapons. 
+Skill Point Cost: 3 Prerequisite: Concentration + Faster reload while using Concentration. 
+Skill Point Cost: 3 Prerequisite: Double Shot Use R1 while aiming to notch up to 3 arrows at once on all bow weapons. 
+These are the skills in the second column of the Brave skill set. 
+Skill Point Cost: 1 Prerequisite: None Press R1 for a high damage attack on downed enemies. 
+Skill Point Cost: 2 Prerequisite: Critical Hit Critical Hit deals additional damage. 
+These are the skills in the third column of the Brave skill set. 
+Skill Point Cost: 1 Prerequisite: None Light spear attacks have an increased chance to knock off armor and components. 
+Skill Point Cost: 2 Prerequisite: Precision Light spear attacks have a greatly increased chance to knock off armor and components. 
+Skill Point Cost: 3 Prerequisite: Precision + Heavy spear attacks will knock down machines faster. 
+Skill Point Cost: 3 Prerequisite: Knock Down Heavy spear attacks deal increased damage when Aloy's health is low. 
+These are the skills in the first column of the Forager skill set. 

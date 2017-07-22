@@ -1,0 +1,18 @@
+PC Cheats - The Sims 4 Wiki Guide - IGN
+
+Big Story
+This page contains a list of cheats, codes, Easter eggs, tips, and other secrets for The Sims 4 for PC. If you've discovered a cheat you'd like to add to the page, or have a correction, please click EDIT and add it. 
+With testingcheats true enabled, you can enter the following codes from the console for the corresponding effects in Build Mode. 
+Submitted by: jboo_chillin 
+With testingcheats true enabled, you can enter the following codes from the console for the corresponding effects. 
+Submitted by: young_teen56 
+With testingcheats true enabled, you can enter the following codes from the console for the corresponding effects. 
+Submitted by: young_teen56 
+With testingcheats true enabled, you can enter the following code from the console to set the desired level on a given skill: 
+stats.set_skill_level [skilltype] [1-10] 
+As an example, you might enter stats.set_skill_level Major_Fishing 7 to set your skill level on Major Fishing to 7. The list of available skill types is as follows: 
+Submitted by: somedude1800 
+While in the cheats console, pressing SHIFT+] can also increase the size of objects. If you enable additional cheats using the testinghcheats true code and then type in cas.fulleditmode, you will enable all CAS abilities. Then you can press and hold SHIFT while clicking on the objects listed below to produce a menu that lets you select the corresponding effect. 
+Submitted by: ign_cheats 
+Press CTRL+SHIFT+C on PC or COMMAND+SHIFT+C on Mac to bring up the cheats console. From there, you can enter the commands below to activate the corresponding effects. 
+Submitted by: ign_cheats RELATIONSHIPS === 

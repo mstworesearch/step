@@ -1,0 +1,30 @@
+Hearthstone: Every Journey to Un'Goro Card - IGN
+
+Hearthstone's next expansion, Journey to Un'Goro, will be with us on April 6 (or possibly April 7 depending on where you live), and we've now seen the entire 135 card set. It's a little hard to say how the meta is going to change as a result, but one thing's for sure - Blizzard has introduced some pretty interesting new concepts and mechanics. Every class, for instance, has a legendary Quest card, and if you fulfil the requirements of the quest you'll get a pretty epic - and unique - reward. Crucially, the one mana Quest cards will always be in your opening hand (unless you mulligan it away) so you can build your deck around the quest and get started right away.
+There's also a heap of cards with the new Adapt keyword, which functions a little like Discover. Players are presented with three choices, drawn from a pool of ten, and whatever they choose is then instantly applied to the base card. The idea is that players can adapt to the situation at hand, and it's certainly a pretty awesome concept.
+The last major piece of the puzzle for Un'Goro are Elementals - the new tribe that's being formalised for this expansion. Elementals, after all, have always been in the game (Fire Elemental, Magma Rager, etc) but now they're tagged as such. This then ties into Elemental synergy, and a mechanic that rewards you for playing an Elemental the turn before. It's an intriguing concept, as it theoretically gives your opponent information about what you might do on the following turn, which they can then try to play around. It could also result in some fairly linear deck types, where players try and curve out by chaining Elementals. We'll see!
+I've created slideshows for each of the classes below, as well as for neutral cards and the Adapt options. Each slideshow also includes "reward" cards (if they're not self explanatory), such as the Quest reward cards or the subsequent versions of the Mage legendary minion Pyros. These cards are immediately after the card that spawns them.
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 
+ poilib start 
+ poilib end 

@@ -1,0 +1,16 @@
+Organizing the Navigation - How To Wiki Guide - IGN
+
+Big Story
+The navigation box of a wiki may be edited by using the "Edit Nav" link on the bottom of the wiki's navigation box. From there, you may change the organization of existing pages, link to pages you've created, or make "placeholder" pages for future pages. 
+In terms of organization, IGN staff prefers creating the navigation of a wiki first, then adding content to the sections afterward. After all, good content is useless if readers cannot find it. 
+So for example, if you know the names of all the missions in a wiki's walkthrough, you may create placeholder pages for those missions under a "walkthrough" section on a wiki. Once you've played through the mission, or have your video(s) ready, you can write stuff on the page (or embed your video). 
+Don't forget that after adding a page (placeholder or not) with the navigation editor, save your changes or you won't have the latest changes to the navigation saved. 
+IGN's wikis uses a three-tier hierarchy for ordering pages. The tiers go from "broad" to "specific", from left to right. So an example would be:  
+When editing the navigation box, you must highlight a "broad" topic before you can add "subordinate" pages and sections to the center and right colums. Remember, when you edit a page's name in the navigation, you are creating a placeholder page if the name of that page doesn't exist.  
+Additionally, some symbols and punctuation are disallowed on the wikis. Refer to the Invalid Page Punctuation page for more details. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

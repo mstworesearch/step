@@ -1,0 +1,17 @@
+Common Beginner Mistakes - How To Wiki Guide - IGN
+
+Big Story
+This page will document some mistakes Beginner editors often make, and how to avoid them. 
+This one is very important, and knowing it will save you a lot of time. When adding a link to a page inside the same Wiki, you do not need to paste in the full link. 
+For example, you want to link to the Walkthrough page in the Guacamelee or The Wonderful 101 Wiki(s) from within the Guacamelee or the Wonderful 101 Wiki(s). Instead of clicking the Link button in the Rich Text Editor and writing ' http://ign.com/wikis/guacamelee/Walkthrough ' into the box, you need only write in the name of the page. In this case, simply write 'Walkthrough', or another context-appropriate hyperlink. 
+Alternatively, if you are using the Wiki Markup Editor, you would type: 
+As opposed to this: 
+Often, if a page is light on content, an editor will repeat the name of the page as a Header directly underneath the main Title, as in this page: Animal Crossing Birthday Of Residents 
+This is not a useful edit. The main Title is prominent at the top of the page, and the reader already knows the subject of the page. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Common Begginer Mistakes
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

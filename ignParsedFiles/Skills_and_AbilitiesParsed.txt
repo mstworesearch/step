@@ -1,0 +1,76 @@
+Skills and Abilities - Mass Effect Andromeda Wiki Guide - IGN
+
+Big Story
+Welcome to IGN's list of every skill (also known as powers or abilities) in Mass Effect: Andromeda. Here, you will find out what every skill is and what purpose they serve in the game. 
+Skills are split into three classes: combat, biotics, and tech. Each offer different kinds of utility in combat. Each squad member has a skill that's unique to their combat style. To learn about those, head over to the Characters' page for information on their specializations. Ryder can have three skills equipped at a time. 
+Mass Effect: Andromeda doesn't require players to select one class. Instead, players can choose to upgrade any of the following skills so long as their Ryder meets basic requirements. Putting points into one of the three groups unlocks different Profiles that boost Ryder's abilities and grants bonuses. 
+You can respec Ryder on the Tempest for a small fee if you're unhappy with your chosen skills. 
+If you're looking for the best skills in Mass Effect: Andromeda, here are some tips for finding skills that are right for you and recommendations for any playstyle. 
+Regardless of your loadout preference, you should take advantage of the combo primers and detonators. Primers are things like Pull and Incinerate. Detonators are skills like Concussive Shot and Overload. Pairing any primer and detonator will do a ton more damage on bare enemies, meaning if they're without shields or armor. Even then, you'll still deal more damage. 
+Below is a list of some of our favorite skills to get early: 
+A majority of the combat skills are passives that award advanced proficiency with certain weapon types. Other skills allow Ryder to equip unique tools, like the Flak Cannon and Omni Grenade. 
+Tap Button: Throws a grenade that causes massive area damage after a 2 second fuse. 
+Hold Button: Shortens the grenade's fuse timer before throwing. The grenade will explode if held too long. 
+Activation requires one power cell from Omni Grenade's limited power cell supply. 
+Fires a target-seeking high-impact round that knocks down unarmored, unshielded, normal-sized enemies and detonates combo primers. 
+Deploys a temporary energy barricade that will boost shield regeneration for everyone who takes cover behind it. Upgraded versions provide additional combat bonuses for allies. 
+Activation requires one power cell from Barricade's limited power cell supply. 
+Temporarily vents weapon heat via armor to improve thermal clip efficiency and boost weapon firing rates. 
+Deploys an explosive mine that triggers when an enemy comes within proximity of or crosses a sensor laser. Enemies suffer more damage the closer they are to the mine. 
+Activation requires one power cell from Trip Mine's limited power cell supply. The maximum number of active mines equals the current number of maximum power cells. 
+Fires krogan-designed shells that burst into shrapnel upon impact. Shrapnel damage is reduced against armored enemies. 
+Activation requires one power cell from Flak Cannon's limited power cell supply. 
+Improves sidearm training for pistols (including submachine guns). Pistols are designed largely for short to mid-range combat and shooting on the move. 
+Advanced training improves facility with assault rifles for dedicated combatants. Assault rifles offer moderate accuracy, range, and stopping power. 
+Specialized training for close-quarters combatants. Shotguns deal high damage at short range at the expense of poor accuracy at long distances. 
+Improves specialist sniper training for long-range combatants. Sniper rifles deal high damage at a distance at the cost of slow firing rates and capacities. 
+Intense physical and survival training designed to improve a combatant's stamina and versatility in battle. Improves Max Health and shields by a set percentage. 
+Increases combat power damage with each skill point invested in the Combat Skill Group. 
+Ryder can learn Biotics to better deal with enemy armor and barriers. Biotics include abilities like Pull, Throw, and Shockwave. 
+
+Tap Button: Lifts an unshielded, unarmored enemy helplessly in the air and primes the target for combo detonations. 
+Hold Button: Drags the target enemy or object along with the user. 
+Combine with the Throw power to hurl a held target. 
+Hurls a gravity field projectile to throw unshielded and unarmored targets away and detonate combo primers. Combine with Pull to hurl held targets. 
+Alters the biotic's mass, launching the user at an opponent. Restores some shield strength at the charge's end. Charge detonates combo primers on targets. 
+Requirement - 9 skill points invested in Biotics 
+Channels energy into a point-blank, high-damage explosion around the user. 
+Blasts enemies with a line of explosions that proceeds through walls and other solid objects. Shockwave detonates combo primers. 
+Weaves rapidly shifting mass effect fields to slowly damage nearby enemies. Enemies caught are primed for combo detonations. Other powers activated while Annihilation is in use suffer reduced recharge speed. 
+Requirements - 9 skill points invested in Biotics 
+Hold Button: Generates a frontal biotic aegis barrier that reflects most projectiles and reduces the damage of other enemy attacks. A well-timed initial activation interrupts melee attacks. 
+Tap Button: Deploys a gravity well that lifts and damages unshielded and unarmored enemies. Primes enemies for combo detonations. 
+Tap Again: End the effect early. 
+Requirements - 9 skill points invested in Biotics 
+Devastates a small area with a swiftly thrown shaft of energy. Inflicts bonus damage against enemy weak points (such as heads) and detonates combo primers. 
+Maximum Shield strength scales with each skill point invested in the Biotic Skill Group. 
+Requirements - 9 skill points invested in Biotics. 
+Increases biotic power damage and force with each skill point invested in the Biotic Skill Group. 
+Increases the duration of biotic power effects with each skill point invested in the Biotic Skill Group. 
+Tech skills are helpful for taking down enemy shields and provide for other unique tactical opportunities. 
+
+Tap Button: Unleashes an electronic discharge upon a target. High damage to shields and synthetic enemies. Detonates combo primers. 
+Hold Button: Charges Overload, causing it to "chain" two additional targets. 
+Fires a plasma projectile that does bonus damage to armor and inflicts ongoing burning damage to unshielded foes. Burning enemies are primed for combo detonations. 
+Deploys an automated assault turret that counts as a tech construct. 
+Tap Button: Directs the turret to attack a particular target. 
+Hold Button: Detonates the turret, damaging nearby enemies. 
+Requirements - 9 skill points invested in Tech 
+Hold Button: Directs a continuous stream of super-cooled particles that freezes targets, priming them for combo detonations. Freezing disables unarmored enemies and weakens enemy armor, but has no effect on shielded foes. 
+Restores Shields by sapping electromagnetic energy around a target. Causes bonus damage to shields and synthetic enemies, and detonates combo primers on all primed enemies. 
+Employs light-bending technology to render the user invisible at the cost of shield and health regeneration. Guns, powers, and melee attacks used from cloak gain a damage bonus but break the cloaking effect. 
+Requirements - 9 skill points invested in Tech 
+Hold Button: Unleashes a short-range jet of flame that causes bonus damage to armor and ongoing burn damage. Unshielded enemies held in the jet catch fire, priming them for combo detonations. 
+Investigate Remnant technology to unlock this skill 
+Infects opponents with an invasive VI-controlled machine swarm that weakens defenses and spreads itself to nearby enemies. 
+Improves defenses and support for the whole squad through kinetic barrier generator and hardsuit enhancements. 
+Requirements - 9 skill points invested in Tech 
+Increases tech power damage with each skill point invested in the Tech Skill Group. 
+Increases the effect duration with each skill point invested in the Tech Skill Group. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Abilities | Multiplayer | Tips and Tricks
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

@@ -1,0 +1,8 @@
+Beginner's Guide to Wikis - How To Wiki Guide - IGN
+
+Big Story
+Are you new to IGN's wiki guides? Whether you're looking to create your own wiki or add to others, this page contains five very basic -- and very easy -- lessons you need to get started. 
+Anyone who has an IGN account and is logged in can make an edit to a wiki page. Here are the three basic steps to editing any pages. 
+1) Click on the EDIT button at the top of the page and you will be whisked away to the wiki editor view. Go ahead and try it on this page, if you want! 
+3) Any changes you make will be saved when you hit SAVE in the upper right corner of the edit window. 
+The wiki editor (or editing interface) should look familiar. There are multiple formatting options at the top of the editing window, including extremely handy paragraph headers, bullet points, and hyperlink tools. 

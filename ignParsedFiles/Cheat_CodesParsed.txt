@@ -1,0 +1,12 @@
+Cheat Codes - The Sims 4 Wiki Guide - IGN
+
+Big Story
+ 
+
+
+Cheats Codes return in The Sims 4 allowing you to do all sorts of things, like get infinite money (Simoleons) or turn off death. 
+To enter Cheat Codes in The Sims 4, you must first open the Cheat Console. The Cheat Console can be brought up by pressing CTRL+SHIFT+C on a PC or COMMAND+SHIFT+C on a Mac. Input the following text into the text input field that appears at the top of the screen. Typing help lists all available commands into the command console (this will only list cheats available to the players). 
+Players can make their Sim's dreams come true and complete various life-long goals by entering aspirations.complete_current_milestone. 
+It is also possible to improve (or degrade) a Sim's proficiency for certain skills:stats.set_skill_level [skilltype] 1-10Enter the above command into the console, then replace [skilltype] with one of the following ID's: 
+Testing cheats allow players to edit the attributes of Sims, items, textures and objects. To enable or disable Testing Cheats enter: 
+Entering testingcheats true will open up editing options in-game for Sims, such as changing their age, motivations and goals and emotional states. Once testing cheats are enabled, players can also improve their Create-A-Sim experience by entering cas.fulleditmode into the command console. This will allow them to alter Sims in ways that are normally unavailable, including traits, styles and outfits. 

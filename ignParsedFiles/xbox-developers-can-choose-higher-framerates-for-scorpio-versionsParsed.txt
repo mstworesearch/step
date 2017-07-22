@@ -1,0 +1,6 @@
+Xbox: Developers Can Choose Higher Framerates for Scorpio Versions, Even in Multiplayer - IGN
+
+Microsoft has clarified how it will approach the power disparity between Xbox One and its upcoming Scorpio upgrade when it comes to frame rate and resolution.
+As noted by GameSpot, Xbox corporate vice president Mike Ybarra sparked conversation by tweeting: "Developers are free to choose how they use the power of Project Scorpio for games. We have no requirements limiting framerate or fidelity."
+This led to a question regarding parity of framerates between the same game playing on Xbox One and Scorpio, particularly in multiplayer (where differing framerates can make a definable alteration in quality of play). Ybarra made clear that, if they wanted, developers could allow for different framerates between consoles, even in multiplayer.
+No, there isn't. This is up to the developer to choose, for their games, what they want to do. https://t.co/bFW7gcni7d

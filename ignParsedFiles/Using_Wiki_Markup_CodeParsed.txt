@@ -1,0 +1,21 @@
+Using Wiki Mark Up Code - How To Wiki Guide - IGN
+
+Big Story
+This page describes basic wiki markup code -- use the code below in the WIKI MARKUP tab view of the editor to quickly add headers, bullet points and links. Note that in the WIKI MARKUP view of the editor, there is a quick reference column to the right of the edit window contains much of the information on this page. 
+Some coding exists solely for IGN's wiki, because we are flurking awesome. 
+Yellow Highlight 
+Blue Highlight 
+Green Highlight 
+Red Highlight 
+The above text is a single "equals sign" at the start and finish of a text string, and is used as titles for all pages. This header type allows the editing of all content which follows it, but stops short of a header of the same exact type. Please do not use this Header style on IGN's wiki. 
+The above text is two "equals signs" at the start and finish of a text string, and is used as HEADERS on pages. This header type allows the editing of all content which follows it, but stops short of a header of the same exact type (HEADER). 
+The above text is three "equals signs" at the start and finish of a text string, and is used as SUB-HEADERS on pages. This header type allows the editing of all content which follows it, but stops short of a header of the same exact type (SUB-HEADER). 
+The above text is four "equals signs" at the start and finish of a text string, and while it appears as H4 (or Header 4) in the EDIT window, it is rendered as standard text on IGN's Wiki. Please do not use this Header style on IGN's wiki. 
+The above text is five "equals signs" at the start and finish of a text string, and while it appears as H5 (or Header 5) in the EDIT window, it is rendered as standard text on IGN's Wiki. Please do not use this Header style on IGN's wiki. 
+The above text is six "equals signs" at the start and finish of a text string, and while it appears as H6 (or Header 6) in the EDIT window, it is rendered as standard text on IGN's Wiki. Please do not use this Header style on IGN's wiki. 
+Apostrophe x2 
+The above text is two "apostrophes" at the start and finish of a text string, and is used to create italicized text (I or EM in HTML) on pages. Do not use smart-apostrophes in word processing programs; these will not be recognized as Wiki Mark-Up. 
+Apostrophe x3 
+The above text is three "apostrophes" at the start and finish of a text string, and is used to create bold text (B or STRONG in HTML) on pages. Do not use smart-apostrophes in word processing programs; these will not be recognized as Wiki Mark-Up. 
+Apostrophe x5 
+The above text is five "apostrophes" at the start and finish of a text string, and is used to create bold & italicized text (B and I or STRONG and EM in HTML) on pages. Do not use smart-apostrophes in word processing programs; these will not be recognized as Wiki Mark-Up. 

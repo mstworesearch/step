@@ -1,0 +1,10 @@
+The Best Gaming Router in 2017 - IGN
+
+We know what you're thinking, "Best router for gaming? Any serious gamer is on a hard-wired connection!" We hear you, but everyone still needs WiFi in their home thanks to the proliferation of smartphones, tablets, and other wireless devices. And with the arrival of 80211.ac you can actually game over a modem router connection if you're dealing with cable routing issues or another barrier that prevents you from using a wired connection. Plus, the newest wireless protocol (ac) is much faster than its predecessor, 80211.n, and also offers new performance-boosting features as well such as beamforming and MU-MIMO. This is good news for people who might have wanted to try some wireless gaming in the past but gave up due to insufficient bandwidth.
+To help figure out which is the best wireless router for gaming, we rounded up five of the top models currently available and put them through their paces, testing at both close and long range through walls. We also took a look at their gaming features (if they had any, as not all of them do), and arrived at a conclusion based on both objective and subjective testing. Based on our test results, there were several excellent options but one clear winner:
+ poilib start 
+ poilib end 
+Netgear Nighthawk X4S (R7800)
+Read our review
+See it on Amazon See it on Amazon UK
+The Nighthawk X4s was the fastest dual-band router we tested at 5GHz, and also sports gaming-specific Quality of Service that can prioritize gaming packets "intelligently," making it our top choice. As icing on the cake Netgear also offers a decent mobile app, and it supports MU-MIMO for faster wireless transfers to multiple clients. Its UI looks a bit outdated and its legacy 80211.n performance was sluggish, but we think its 5G performance is more important anyway, so we're willing to cut it some slack. Overall we think it offers the best blend of speed and features at a reasonable price.

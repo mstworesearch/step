@@ -1,0 +1,8 @@
+How to Edit Interactive Maps - How To Wiki Guide - IGN
+
+Big Story
+Anyone can contribute to the Interactive Maps! Here's how to add your very own map points to the map and link them to pages in the wiki. 
+Right-click on the spot where you want to add a map marker. The marker will appear precisely where you clicked on it -- so zoom in really close and click in the right place! You won't be able to move a marker once you save it, but a moderator can. Let a moderator know if you want a marker moved by flagging a page in the wiki (hit FLAG PAGE in the upper left corner and tell us about the mistake). 
+After adding your map marker, you'll need to add some information about the marker and link it to an appropriate wiki page (or another map). 
+First, add the title, or the name of the page. It's ideal for the marker's title to match the page in the wiki. 
+Secondly, you may search for a wiki page to link the map marker to. If the marker marks a collectible location, link to the "index page" for that collectible type (e.g., "Heart Pieces," "Red Coins", "Templar Flags", "Hidden Packages", etc.). 

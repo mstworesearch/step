@@ -1,0 +1,16 @@
+Adding Images - How To Wiki Guide - IGN
+
+Big Story
+Adding images to a wiki guide is simple. While in the edit view of a page, you'll see a media library in the right column in the Rich Text editor (not the mark-up editor). The "Upload" button allows you to choose up to five image files at a time and upload them into the media library. 
+Once an image is uploaded into the media library, it can be placed into the rich text editor by simply clicking on the image thumbnail in the library. The image will appear where you last left your mouse cursor, allowing you to precisely position images within a body of text - the different squares will embed the image as full width or half-width of the page.  
+A single image may be inserted to fit the full width of the wiki column. The wiki column has a width of 468 pixels. To mime the appearance of older IGN guides, you may manually adjust embedded images to 468 pixels wide using this setting: 
+Use this code for neat, double pairs of images on a page: 
+Sometimes you may opt to use three images in a row to detail step-by-step processes. Please use this width/code for placing three images on the same line in our wiki: 
+Anything more than this, and we would recommend using videos to illustrate your instructions or solution. 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Main Page | Beginner's Guide to Wikis | Using Images, Video & Media
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

@@ -1,0 +1,24 @@
+Embedding a Video - How To Wiki Guide - IGN
+
+Big Story
+Adding YouTube videos is very easy. You don't even need to use embed codes -- you just need the video URL from YouTube. 
+Hit the EDIT PAGE button in the top left of the page and make sure you are looking at the RICH TEXT EDITOR view. 
+It the toolbar at the top of the editing window, select the button that resembles a film reel. Paste your URL into the dialog box and your video will be embedded wherever your cursor was. You can copy the little box that says SPECIAL to anywhere you'd like -- that's your embedded video! 
+Subtitle your video with text as needed, and then hit the green SAVE button. 
+ 
+You can embed relevant YouTube and IGN videos into wiki guide pages to better illustrate the point of the page. If the IGN video you want to embed already appears in the wiki guide media library, you can simply click the video thumbnail to add the video to the rich text editor--just like adding an image. 
+If, however, the video you want to add isn't already in the media library, you can still add it with a bit of code. Find the video that you want to embed, grab the URL and wrap that URL with the <ignvideo> tag, like so... 
+...to get this: 
+ 
+
+
+Adding videos from YouTube is very similar, though the code tag is a bit different. Type... 
+...to get this: 
+
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Main Page | Beginner's Guide to Wikis | Adding Video Content
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.

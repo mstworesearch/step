@@ -1,0 +1,16 @@
+How to Redirect a Page - How To Wiki Guide - IGN
+
+Big Story
+A "redirect" page has no content itself, but sends the reader to another article in the same wiki. Redirects are usually set up to forward misspelled pages or synonymous terms to the proper place. 
+For example, an Achievements page may be redirected to an Achievements and Trophies page. Thus, when someone searches for Achievements, or adds double brackets around the word to add a link, the Achievements page one lands on will redirect to the Achievements and Trophies page. 
+This practice, called "creating alias pages", is discussed chiefly with Achievement and Trophy pages in mind. 
+To add a redirect, you must use the Wiki Markup view of the wiki editor. Enter this editing mode in the upper left edge of the editing window. The syntax code must be the first piece of mark-up on the page: 
+This code define the page as a redirect page and indicates the target article. 
+Redirects to pages / URLs "outside" of a wiki (for example to another wiki) is not possible at this time. Please use the standard command for creating a hyperlink to link to a page "outside" of the wiki you are currently on (this includes linking to another wiki on IGN). 
+Need assistance with editing this wiki? 
+Beginner's Guide to Wikis
+Wiki Support Team
+Beginner's Guide to Wikis
+Copyright 1996-2017 Ziff Davis, LLC
+                    An IGN Entertainment Games site 
+We have updated our PRIVACY POLICY and encourage you to read it by clicking here.
