@@ -1,5 +1,6 @@
 #Written by Matt Wallace and Subhan Poudel on 7/16/17
 #This is a neural network that decides whether a sentence is imperative or declarative through a perceptron type model.
+#The program will not stop until it gets all of the training set output correct 
 
 import sys
 import nltk
@@ -85,7 +86,6 @@ def colon_bool(sentence):
     for item in sentence:
         if item[0] == ":":
             return 1
-   
     return 0
 
 def semi_colon_bool(sentence):
@@ -95,7 +95,6 @@ def semi_colon_bool(sentence):
     for item in sentence:
         if item[0] == ";":
             return 1
-   
     return 0
 
 def proper_noun_bool(sentence):
@@ -105,7 +104,6 @@ def proper_noun_bool(sentence):
     for item in sentence:
         if item[1] == "NNP" or item[1] == "NNPS":
             return 1
-   
     return 0
     
 def input_builder(dataFile):
@@ -203,7 +201,6 @@ class Perceptron():
     def train(self, train_inputs, train_outputs):
         #stopping condition sentinel
         stop_cond = 0
-        counter = 0
         while stop_cond == 0:
             hello = 0
             for i in xrange(len(train_inputs)):
@@ -219,8 +216,9 @@ class Perceptron():
                     self.bias += self.learn_rate * train_outputs[0][i]
                 else:
                     hello += 1
-            counter += 1
             if hello == len(train_outputs[0]):
+                print "How many times the while loop ran: "
+                print counter
                 stop_cond = 1
 
     def think_single(self, single_input):

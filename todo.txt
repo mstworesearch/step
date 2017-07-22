@@ -1,9 +1,11 @@
 *Add a stop condition to the perceptron
 
 *Make a script to scrape the text from our
-tutorial data and merge it all together
+tutorial data and merge it all together           DONE
 
 *Tag the merged data
+
+*Change the script tagger to grab random lines
 
 *Train the perceptron on the merged data
 

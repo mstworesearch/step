@@ -1,20 +1,27 @@
 #outputs a file with sentences and their tag
+#randoms the sentences
 
 import sys
 import nltk
+import random
 from nltk.tokenize import sent_tokenize
 
 inFile = str(sys.argv[1])
 outFile = str(sys.argv[2])
+randSeed = int(sys.argv[3])
 
 def textToString(textFile):
     #Reads in a file and assigns it to a string
     #to make it easier to deal with NLTK functions
     whole_text = ""
     with open(textFile) as z:
+        count = 0
         for line in z:
             cleansed_line = line.replace('\n',' ')
             whole_text+=cleansed_line
+            count += 1
+        print "Total number of lines: "
+        print count
     return whole_text
 
 def setMaker(text):
@@ -24,6 +31,8 @@ def setMaker(text):
 
 textItem = textToString(inFile)
 sentList = setMaker(textItem)
+random.seed(randSeed)
+random.shuffle(sentList)
 
 with open(outFile, 'w+') as op:
     counter = 0
@@ -37,7 +46,7 @@ with open(outFile, 'w+') as op:
             print "Line not included"
         else:    
             op.write(item + ' ~' + senType + '\n')
-        counter += 1
-        if counter % 10 == 0:
-            print counter
+            counter += 1
+            if counter % 10 == 0:
+                print counter
         
