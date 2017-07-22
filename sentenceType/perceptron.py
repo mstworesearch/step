@@ -193,16 +193,20 @@ class Perceptron():
         self.bias = 0.0
         
         #Set the learning rate to one
-        self.learn_rate = 0.15
+        self.learn_rate = 0.99
 
         #Set the bipolar target
-        self.target = 0.25
+        self.target = 0.5
 
     def train(self, train_inputs, train_outputs):
         #stopping condition sentinel
         stop_cond = 0
+        hello = 0
+        counter = 0
         while stop_cond == 0:
+            same = hello
             hello = 0
+            
             for i in xrange(len(train_inputs)):
                 #calculates the output
                 output = self.think_single(train_inputs[i])
@@ -216,10 +220,12 @@ class Perceptron():
                     self.bias += self.learn_rate * train_outputs[0][i]
                 else:
                     hello += 1
-            if hello == len(train_outputs[0]):
+            counter += 1
+            if hello == same:
                 print "How many times the while loop ran: "
                 print counter
                 stop_cond = 1
+            
 
     def think_single(self, single_input):
         summa = 0.0
@@ -255,12 +261,37 @@ class Perceptron():
             else:
                 return 0
 
+    def check(self, test_inputs, test_outputs):
+        correct = 0.0
+        total = len(test_outputs[0])
+        print total
+        for i in xrange(len(test_inputs)):
+            #calculates the output
+            output = self.think_single(test_inputs[i])
+            #calculate the answer now
+            answer = self.calc_ans_single(output)
+            print "Algo thinks the answer is: " + str(answer)
+            print "The actual answer is: " + str(test_outputs[0][i])
+            if answer == test_outputs[0][i]:
+                correct += 1
+
+        return 'Percentage correct: ' + str((correct/total)*100) + '%'
+                
+        
+        
+
 def main():
     perceptron = Perceptron()
     inFile = str(sys.argv[1])
+    outFile = str(sys.argv[2])
 
     input_set = input_builder(inFile)
     output_set = output_builder(inFile)
+
+    test_input_set = input_builder(outFile)
+    test_output_set = output_builder(outFile)
+
+    
     
     print "Bias before training: "
     print perceptron.bias
@@ -271,10 +302,12 @@ def main():
 
     
     perceptron.train(input_set,output_set)
+    test_accuracy = perceptron.check(test_input_set,test_output_set)
 
     print "Bias after training: "
     print perceptron.bias
     print "Print the resulting weights after training: "
     print perceptron.weights
 
+    print test_accuracy
 main()

@@ -1,11 +1,11 @@
-*Add a stop condition to the perceptron
+*Add a stop condition to the perceptron   ~DONE
 
 *Make a script to scrape the text from our
-tutorial data and merge it all together           DONE
+tutorial data and merge it all together           ~DONE
 
 *Tag the merged data
 
-*Change the script tagger to grab random lines
+*Change the script tagger to grab random lines   ~DONE
 
 *Train the perceptron on the merged data
 
@@ -14,3 +14,12 @@ tutorial data and merge it all together           DONE
 *Decide what type of conference to target
 
 *Refine the motivation for the project 
+
+______________________
+
+*Rerun the following command and toggle the imperative 
+decision range after looking at the zero output case:
+
+python perceptron.py ign298File.txt ign30out.txt 
+
+*Find a way to improve perceptron accuracy
