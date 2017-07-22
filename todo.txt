@@ -1,0 +1,14 @@
+*Add a stop condition to the perceptron
+
+*Make a script to scrape the text from our
+tutorial data and merge it all together
+
+*Tag the merged data
+
+*Train the perceptron on the merged data
+
+*If results are good, then move on to other rules
+
+*Decide what type of conference to target
+
+*Refine the motivation for the project 
