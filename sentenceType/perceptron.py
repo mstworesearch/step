@@ -291,7 +291,7 @@ def main():
     test_input_set = input_builder(outFile)
     test_output_set = output_builder(outFile)
 
-    
+    print input_set
     
     print "Bias before training: "
     print perceptron.bias
