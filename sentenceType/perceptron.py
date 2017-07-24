@@ -201,11 +201,11 @@ class Perceptron():
     def train(self, train_inputs, train_outputs):
         #stopping condition sentinel
         stop_cond = 0
-        hello = 0
         counter = 0
+        hello = [0,0,0,0,0,0,0,0,0,0]
         while stop_cond == 0:
-            same = hello
-            hello = 0
+            for x in xrange(10):
+                hello[x] = self.weights[x]
             
             for i in xrange(len(train_inputs)):
                 #calculates the output
@@ -218,10 +218,11 @@ class Perceptron():
                     for k in xrange(number):
                         self.weights[k] +=  self.learn_rate * train_outputs[0][i] * train_inputs[i][k]
                     self.bias += self.learn_rate * train_outputs[0][i]
-                else:
-                    hello += 1
+               
             counter += 1
-            if hello == same:
+            print "This is hello: " + str(hello) 
+            print self.weights
+            if hello == self.weights:
                 print "How many times the while loop ran: "
                 print counter
                 stop_cond = 1
@@ -291,7 +292,7 @@ def main():
     test_input_set = input_builder(outFile)
     test_output_set = output_builder(outFile)
 
-    print input_set
+    #print input_set
     
     print "Bias before training: "
     print perceptron.bias
