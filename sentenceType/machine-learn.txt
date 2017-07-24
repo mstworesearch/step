@@ -22,7 +22,7 @@ NEW INPUT PARAMS TO ADD: (DELETE INPUT 2)
 
 1: Boolean for "is there a verb" (bool)
 2. Is the first word a verb
-3: Boolean for "is there a VBZ"   (bool)
+3: Boolean for "is there a VBZ" (VBZ = verb, singular, third-person)   (bool)
 4. Is there a gerund in the entire sentence
 5. Is the first word a gerund
 6. Is there a question mark in the sentence
