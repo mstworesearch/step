@@ -165,7 +165,8 @@ def input_builder(dataFile):
             results.append(properNoun)
 
             #add results to the overall list
-            listSent.append(results)  
+            listSent.append(results)
+            
     return listSent
 
 def output_builder(dataFile):
@@ -265,7 +266,6 @@ class Perceptron():
     def check(self, test_inputs, test_outputs):
         correct = 0.0
         total = len(test_outputs[0])
-        print total
         for i in xrange(len(test_inputs)):
             #calculates the output
             output = self.think_single(test_inputs[i])
