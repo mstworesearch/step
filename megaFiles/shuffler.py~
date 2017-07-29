@@ -1,0 +1,6 @@
+import random
+
+
+lines = open('3mil.txt').readlines()
+random.shuffle(lines)
+open('3mil.txt', 'w').writelines(lines)
