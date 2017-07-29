@@ -7,7 +7,8 @@ from nltk.tokenize import sent_tokenize
 from numpy import exp, array, random, dot
 
 inFile = str(sys.argv[1])
-seedIn = int(sys.argv[2])
+
+#seedIn = int(sys.argv[2])
 
 #Getting the data ready
 def syntax_classifier(sentence):
@@ -26,20 +27,85 @@ def bool_verb(sentText):
     return sentinel
 
 def bool_verbPos(senti):
+    #Second input dendrite
     #Gets a list of tuples. Each tuple is style: (word, POS)
     #Returns bool if verb is at beginning and not gerund
     sent = 0
-    if 'V' in senti[0][1] and senti[0][1] != 'VBG':
+    if 'V' in senti[0][1]:
         sent = 1
     return sent
 
 def bool_VBZ(sento):
+    #Third input dendrite
+    #Checks for the presence of a VBZ (verb singular third person) instance in the entire sentence
     senti = 0
     for item in sento:
         if item[1] == "VBZ":
             senti = 1
     return senti
 
+def gerund_bool(sentence):
+    #Fourth input dendrite
+    #Checks for the presence of a gerund in a given sentence.
+    for item in sentence:
+        if item[1] == "VBG":
+            return 1
+        else:
+            return 0
+
+def gerund_first(sentence):
+    #Fifth input dendrite
+    #Checks for the presence of a gerund at the beginning of a sentence.
+    if 'VBG' in sentence[0][1]:
+        return 1
+    else:
+        return 0
+
+def question_bool(sentence):
+    c = len(sentence) -1 
+    #Sixth input dendrite
+    #Checks for the presence of a question mark in a given sentence
+    if '?' in sentence[c][1] or '?' in sentence[c-1][1]:
+        return 1
+    else:
+        return 0
+
+def exclamation_bool(sentence):
+    c = len(sentence) -1 
+    #Seventh input dendrite
+    #Checks for the presence of an exclamation point in a given sentence
+    if '!' in sentence[c][1] or '!' in sentence[c-1][1]:
+        return 1
+    else:
+        return 0
+
+def colon_bool(sentence):
+    #Eighth input dendrite
+    #Checks for the presence of a colon instance in the entire sentence
+    
+    for item in sentence:
+        if item[0] == ":":
+            return 1
+    return 0
+
+def semi_colon_bool(sentence):
+    #Ninth input dendrite
+    #Checks for the presence of a semi-colon instance in the entire sentence
+    
+    for item in sentence:
+        if item[0] == ";":
+            return 1
+    return 0
+
+def proper_noun_bool(sentence):
+    #Tenth input dendrite
+    #Checks for the presence of a proper noun instance in the entire sentence
+    
+    for item in sentence:
+        if item[1] == "NNP" or item[1] == "NNPS":
+            return 1
+    return 0
+    
 def input_builder(dataFile):
     #Reads in the data file.
     #outputs a list of lists that contains boolean values.
@@ -54,20 +120,53 @@ def input_builder(dataFile):
             verBool = bool_verb(tokenTag)
             results.append(verBool)
 
-            #second input
+            #second input dendrite
             posVerb = 0
             if verBool == 1:
                 posVerb = bool_verbPos(tokenTag)
             results.append(posVerb)
             
-            #third input
+            #third input dendrite
             verbVBZ = 0
             if verBool == 1:
                 verbVBZ = bool_VBZ(tokenTag)
             results.append(verbVBZ)
 
+            #Fourth input dendrite
+            verbGerund = 0
+            if verBool == 1:
+                verbGerund = gerund_bool(tokenTag)
+            results.append(verbGerund)
+
+            #Fifth input dendrite
+            gerundFirst = 0
+            if verbGerund == 1:
+                gerundFirst = gerund_first(tokenTag)
+            results.append(gerundFirst)
+
+            #Sixth input dendrite
+            questionMark = question_bool(tokenTag)
+            results.append(questionMark)
+
+            #Seventh input dendrite
+            exclamationMark = exclamation_bool(tokenTag)
+            results.append(exclamationMark)
+
+            #Eighth input dendrite
+            colonMark = colon_bool(tokenTag)
+            results.append(colonMark)
+
+            #Ninth input dendrite
+            semiColonMark = semi_colon_bool(tokenTag)
+            results.append(semiColonMark)
+
+            #Tenth input dendrite
+            properNoun = proper_noun_bool(tokenTag)
+            results.append(properNoun)
+
             #add results to the overall list
-            listSent.append(results)  
+            listSent.append(results)
+            
     return listSent
 
 def output_builder(dataFile):
@@ -86,12 +185,13 @@ def output_builder(dataFile):
 class NeuralNetwork():
     def __init__(self):
         # Seed random number generator
-        random.seed(seedIn)
+        #random.seed(seedIn)
  
         #A single neuron model with 3 inputs and 1 output
         #random weights are assigned to a 3 by 1 matrix, which
         #has values in the range -1 to 1 and a mean of 0
-        self.synaptic_weights = 2 * random.random((3,1)) - 1
+        #Make it random later
+        self.synaptic_weights = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
  
     def __sigmoid(self,x):
         return 1 / (1 + exp(-x))
@@ -102,53 +202,102 @@ class NeuralNetwork():
        
     def train(self, training_set_inputs, training_set_outputs, number_of_training_iterations):
             #pass the training set through our neural net
+        numOut = len(training_set_outputs[0])
         for iteration in xrange(number_of_training_iterations):
-            output = self.think(training_set_inputs)
- 
+            for i in xrange(numOut):
+                output = self.think(training_set_inputs[i])
+                #print "The output is: " + str(output)
+                #print "The actual answer is: " + str(training_set_outputs[0][i])
                 #calculate the error between the desired output and the predicted output
-            error = training_set_outputs - output
+                if training_set_outputs[0][i] == -1:
+                    error = 0 - output
+                else:
+                    error = training_set_outputs[0][i] - output
+                    
+                #print "The error is: " + str(error)
  
                 #multiply the error by the input and the sigmoid function in order to
                 #adjust it by how far away it is from an ideal value
 		#adjustment is a vector of inputs that are each dotted with the corrections (error*sigmoid)
 
-            adjustment = dot(training_set_inputs.T, error*self.__sigmoid_derivative(output))
- 
+                adjustment = self.adjustCalc(training_set_inputs[i], error, output)
+                #print "The adjust is: " + str(adjustment)
+                
                 #adjust the weights
 		#the below line adds the adjustment to each of the existing synaptic weights
-            self.synaptic_weights += adjustment
+                for n in xrange(10):
+                    self.synaptic_weights[n] += adjustment[n]
  
     def think(self,inputs):            # Pass inputs through our neural network (our single neuron).
-        return self.__sigmoid(dot(inputs, self.synaptic_weights))
+        summation = 0
+        for num in xrange(10):
+            summation += inputs[num] * self.synaptic_weights[num]
+        return self.__sigmoid(summation)
  
- 
- 
+    def adjustCalc(self, value, error, output):
+        vector = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        for i in xrange(10):
+            vector[i] = value[i] * (error * self.__sigmoid_derivative(output))
+        return vector
 
+    def calc_ans_single(self, inputs):
+        if inputs <= 0.5:
+            return -1
+        else:
+            return 1
+
+    def check(self, test_inputs, test_outputs):
+        correct = 0.0
+        total = len(test_outputs[0])
+        for i in xrange(len(test_inputs)):
+            #calculates the output
+            output = self.think(test_inputs[i])
+            #calculate the answer now
+            answer = self.calc_ans_single(output)
+            print "The output is: " + str(output)
+            print "Algo thinks the answer is: " + str(answer)
+            print "The actual answer is: " + str(test_outputs[0][i])
+            if answer == test_outputs[0][i]:
+                correct += 1
+
+        return 'Percentage correct: ' + str((correct/total)*100) + '%'
+
+
+        
 #Intialise a single neuron neural network.
 neural_network = NeuralNetwork()
  
-print "Random starting synaptic weights: "
+print "Non-Random starting synaptic weights: "
 print neural_network.synaptic_weights
 
 inputSet = input_builder(inFile)
-print inputSet
+#print inputSet
 outputSet = output_builder(inFile)
-print outputSet
+#print outputSet
 
 # The training set. We have 4 examples, each consisting of 3 input values
 # and 1 output value.
-training_set_inputs = array(inputSet)
-print training_set_inputs
-training_set_outputs = array(outputSet).T
-print training_set_outputs
+#training_set_inputs = array(inputSet)
+#print training_set_inputs
+#training_set_outputs = array(outputSet).T
+#print training_set_outputs
  
 # Train the neural network using a training set.
 # Do it 10,000 times and make small adjustments each time.
-neural_network.train(training_set_inputs, training_set_outputs, 10000)
- 
+neural_network.train(inputSet, outputSet, 10000)
+
 print "New synaptic weights after training: "
 print neural_network.synaptic_weights
- 
+
+testFile = str(sys.argv[2])
+
+test_input_set = input_builder(testFile)
+test_output_set = output_builder(testFile)
+
+test_accuracy = neural_network.check(test_input_set, test_output_set)
+
+print test_accuracy
+
 # Test the neural network with a new situation.
-print "Considering new situation,  [1, 0, 0] -> ?: "
-print neural_network.think(array([1, 0, 0]))
+#print "Considering new situation,  [1, 0, 0] -> ?: "
+#print neural_network.think(array([1, 0, 0]))
