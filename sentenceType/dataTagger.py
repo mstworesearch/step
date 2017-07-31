@@ -1,4 +1,8 @@
-#outputs a file with sentences and their tag
+#Created by Subhan Poudel and Matthew Wallace for the step project
+#This program takes in the name of a txt file as the first command line arguement and
+#outputs a txt file with the name given of the second txt file.
+#This program will ask you to classify sentences as declaritive(-1) or imperative(1). 
+#The output file has each sentence with their tag
 
 import sys
 import nltk

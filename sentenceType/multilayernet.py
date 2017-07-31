@@ -1,6 +1,7 @@
 #Written by Matt Wallace and Subhan Poudel on 7/28/17
 #This is a neural network that decides whether a sentence is imperative or declarative through a multi-layer back-propogation neural net model.
-#The program will not stop until it gets all of the training set output correct 
+#The program will stop once the number of iterations that you give it is over.
+#The code is similar to neuralNet.py but uses a multi-layer back-propogation model
 
 import sys
 import nltk

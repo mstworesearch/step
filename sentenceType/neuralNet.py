@@ -1,5 +1,11 @@
 #Written by Subhan Poudel and Matt Wallace on 7/14/17
 #This is a neural network that decides whether a sentence is imperative or declarative.
+#This file takes in the name of the tagged file created by dataTagger.py as the first command line arguement
+#as training data. The second command line arguement takes in another file created by dataTagger.py for testing
+#and returns the accuracy of the nerual net. The functions before the class "NeuralNet" create the inputs that 
+#the neural net actually sees to create a file. Each file is translated to a list of n (currently 10) binary inputs
+#that the nueral net uses to calculate one output. "1" is imperative, "0" if unsure and "-1" if declarative.
+#The algorithm for the nerual net was found online but modified for this project.
 
 import sys
 import nltk
@@ -12,12 +18,13 @@ inFile = str(sys.argv[1])
 
 #Getting the data ready
 def syntax_classifier(sentence):
-    #Reads through a sentece, add a classification to each element and add the element and classification to a tuple.
+    #Reads through a sentence, adds a classification to each element and adds the element and classification to a tuple.
     #Returns a list of tuples.
     tokens = nltk.word_tokenize(sentence)
     return nltk.pos_tag(tokens)
 
 def bool_verb(sentText):
+    #First input dendrite
     #Gets a list of tuples. Each tuple is style: (word, POS)
     #Returns bool for if there is a verb
     sentinel = 0
@@ -108,7 +115,7 @@ def proper_noun_bool(sentence):
     
 def input_builder(dataFile):
     #Reads in the data file.
-    #outputs a list of lists that contains boolean values.
+    #outputs a list of lists. Each list are the inputs for each sentence.
     listSent = []
     with open(dataFile, 'r') as op:
         for line in op:
@@ -187,10 +194,7 @@ class NeuralNetwork():
         # Seed random number generator
         #random.seed(seedIn)
  
-        #A single neuron model with 3 inputs and 1 output
-        #random weights are assigned to a 3 by 1 matrix, which
-        #has values in the range -1 to 1 and a mean of 0
-        #Make it random later
+        #Each neural has 10 inputs so there are 10 overall weights that the NN has to keep track of
         self.synaptic_weights = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
  
     def __sigmoid(self,x):
@@ -283,7 +287,6 @@ outputSet = output_builder(inFile)
 #print training_set_outputs
  
 # Train the neural network using a training set.
-# Do it 10,000 times and make small adjustments each time.
 neural_network.train(inputSet, outputSet, 10000)
 
 print "New synaptic weights after training: "
@@ -298,6 +301,3 @@ test_accuracy = neural_network.check(test_input_set, test_output_set)
 
 print test_accuracy
 
-# Test the neural network with a new situation.
-#print "Considering new situation,  [1, 0, 0] -> ?: "
-#print neural_network.think(array([1, 0, 0]))

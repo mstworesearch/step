@@ -1,6 +1,7 @@
 #Written by Matt Wallace and Subhan Poudel on 7/16/17
 #This is a neural network that decides whether a sentence is imperative or declarative through a perceptron type model.
-#The program will not stop until it gets all of the training set output correct 
+#The program will stop once the weights do not change on two iterations of the entire input set.
+#The code is similar to neuralNet.py but uses a perceptron model neural net.
 
 import sys
 import nltk
