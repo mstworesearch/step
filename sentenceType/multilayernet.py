@@ -185,45 +185,76 @@ def output_builder(dataFile):
 class DeepNet():
     def __init__(self):
         self.learn_rate = 1.0
-        self.bias_j = 1.0
-        self.biak_k = 1.0
+        self.bias_j = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+        self.bias_k = 1.0
         #These are the hidden Z values:
         self.z_values = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
-        self.k_values = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+        self.k_values = 0.0
         
         #Creates a random array of 10 length arrays
         random.seed(1)
         self.weights_j = random.rand(10,10)
         #Creates a random array of 10 length arrays
         random.seed(2)
-        self.weights_k = random.rand(10,10)
+        self.weights_k = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
 
     
     def train(self,train_inputs,train_outputs,iterations):
         for num in xrange(iterations):
+            index = 0
             for item in train_inputs:
-                
                 #Currently in a single sentence,
                 #we are calc'ing vals for hidden z unit
                 z_int = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
                 for j in xrange(10):
-                    z_int[j] = self.bias_j
+                    z_int[j] = self.bias_j[j]
                     for i in xrange(10):
                         z_int[j] += item[i]*self.weights_j[i][j]
                 for l in xrange(10):
                     self.z_values[l] = bi_sigmoid(z_int[l])
                     
                 #Calc'ing vals for output k unit
-                y_int = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+                y_int = self.bias_k
                 for k in xrange(10):
-                    y_int[k] = self.bias_k
                     for j in xrange(10):
-                        y_int[k] += self.z_values[j]*self.weights[j][k]
-                for m in xrange(10):
-                    self.k_values[m] = bi_sigmoid(y_int[m])
+                        y_int += self.z_values[j]*self.weights_k[k]
+                self.k_values = bi_sigmoid(y_int)
 
                 #Backpropogation of Error
+                error_k = (train_outputs[0][index] - self.k_values) * derivative(y_int)
+                weight_corr_Y = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+                for i in xrange(10):
+                    weight_corr_Y[i] = self.learn_rate * error_k * self.z_values[i]
+                bias_k_change = self.learn_rate * error_k
+
+                error_In_Z = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+                for k in xrange(10):
+                    error_In_Z[k] = error_k * self.weights_k[0][k]
+                error_Z = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+                for i in xrange(10):
+                    error_Z[i] = error_In_Z[i] * derivative(z_int[i])
+                weight_corr_Z = random.rand(10,10)
+                for i in xrange(10):
+                    for j in xrange(10):
+                        weight_corr_Z[i][j] = self.learn_rate * error_Z[j] * item[i]
+                bias_j_change = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+                for i in xrange(10):
+                    bias_j_change[i] = self.learn_rate * error_Z[i] 
+
+                #Updates weights and biases
+                for x in xrange(10):
+                    self.weights_k[x] += weight_corr_Y[x]
+                self.bias_k += bias_k_change
+
+                for i in xrange(10):
+                    for j in xrange(10):
+                        self.weights_j[i][j] += weight_corr_Z[i][j]
+                for i in xrange(10):
+                    self.bias_j[i] += bias_j_change[i]
+                
+                index += 1
+                
     
     def bi_sigmoid(value):
         return (2.0/(1+exp(-value))) - 1 
