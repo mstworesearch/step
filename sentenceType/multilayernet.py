@@ -189,23 +189,24 @@ class DeepNet():
         self.bias_k = 1.0
         #These are the hidden Z values:
         self.z_values = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
-        self.k_values = 0.0
+        self.k_value = 0.0
         
         #Creates a random array of 10 length arrays
         random.seed(1)
-        self.weights_j = random.rand(10,10)
-        #Creates a random array of 10 length arrays
+        self.weights_j = random.rand(10, 10)
+        #Creates an array of 10 elements
         random.seed(2)
         self.weights_k = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 
 
     
-    def train(self,train_inputs,train_outputs,iterations):
+    def train(self,train_inputs, train_outputs, iterations):
         for num in xrange(iterations):
             index = 0
             for item in train_inputs:
+                
                 #Currently in a single sentence,
-                #we are calc'ing vals for hidden z unit
+                #we are calc'ing vals for the hidden z units
                 z_int = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
                 for j in xrange(10):
                     z_int[j] = self.bias_j[j]
@@ -214,30 +215,34 @@ class DeepNet():
                 for l in xrange(10):
                     self.z_values[l] = self.bi_sigmoid(z_int[l])
                     
-                #Calc'ing vals for output k unit
+                #Calc'ing vals for one output k unit
                 y_int = self.bias_k
                 for k in xrange(10):
-                    for j in xrange(10):
-                        y_int += self.z_values[j]*self.weights_k[k]
-                self.k_values = self.bi_sigmoid(y_int)
+                    '''for j in xrange(10):'''
+                    y_int += self.z_values[k]*self.weights_k[k]
+                self.k_value = self.bi_sigmoid(y_int)
 
                 #Backpropogation of Error
-                error_k = (train_outputs[0][index] - self.k_values) * self.derivative(y_int)
+                error_k = (train_outputs[0][index] - self.k_value) * self.derivative(y_int)
                 weight_corr_Y = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
                 for i in xrange(10):
                     weight_corr_Y[i] = self.learn_rate * error_k * self.z_values[i]
                 bias_k_change = self.learn_rate * error_k
 
+                #For the hidden Z units
                 error_In_Z = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
                 for k in xrange(10):
-                    error_In_Z[k] = error_k * self.weights_k[0][k]
+                    error_In_Z[k] = error_k * self.weights_k[k]
+                    
                 error_Z = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
                 for i in xrange(10):
                     error_Z[i] = error_In_Z[i] * self.derivative(z_int[i])
+                    
                 weight_corr_Z = random.rand(10,10)
                 for i in xrange(10):
                     for j in xrange(10):
                         weight_corr_Z[i][j] = self.learn_rate * error_Z[j] * item[i]
+                        
                 bias_j_change = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
                 for i in xrange(10):
                     bias_j_change[i] = self.learn_rate * error_Z[i] 
@@ -260,30 +265,28 @@ class DeepNet():
         input_l.append(single_input_list)
         output_l = []
         output_l.append(single_output_list)
-        self.train(input_l,output_l,1)
-        return self.k_values
+        self.train(input_l,[output_l],1)
+        return self.k_value
     
     
     def bi_sigmoid(self,value):
         return (2.0/(1+exp(-value))) - 1 
 
     def derivative(self,value):
-        return (0.5)*(1+bi_sigmoid(value))*(1-bi_sigmoid(value))
+        return (0.5)*(1+self.bi_sigmoid(value))*(1-self.bi_sigmoid(value))
 
-    def calc_ans_single(i):
-        if i < -.25:
+    def calc_ans_single(self, i):
+        if i < 0:
             return -1
-        elif i > .25:
-            return 1
         else:
-            return 0
+            return 1
 
     def check(self, test_inputs, test_outputs):
         correct = 0.0
         total = len(test_outputs[0])
         for i in xrange(len(test_inputs)):
             #calculates the output
-            output = self.think_single(test_inputs[i],test_outputs[i])
+            output = self.think_single(test_inputs[i],test_outputs[0][i])
             #calculate the answer now
             answer = self.calc_ans_single(output) 
             print "Algo thinks the answer is: " + str(answer)
@@ -307,11 +310,13 @@ def main():
     test_input_set = input_builder(outFile)
     test_output_set = output_builder(outFile)
 
-    test.train(input_set,output_set,1000)
-    test_acc = test.check(test_input,test_output)
+    test.train(input_set, output_set, 1000)
+    
+    test_acc = test.check(test_input_set, test_output_set)
 
     print test_acc
-    
 
+    print test.weights_k
+    print test.weights_j
 
 main()
