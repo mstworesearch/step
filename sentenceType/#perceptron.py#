@@ -1,7 +1,7 @@
-#Written by Matt Wallace and Subhan Poudel on 7/28/17
-#This is a neural network that decides whether a sentence is imperative or declarative through a multi-layer back-propogation neural net model.
-#The program will stop once the number of iterations that you give it is over.
-#The code is similar to neuralNet.py but uses a multi-layer back-propogation model
+#Written by Matt Wallace and Subhan Poudel on 7/16/17
+#This is a neural network that decides whether a sentence is imperative or declarative through a perceptron type model.
+#The program will stop once the weights do not change on two iterations of the entire input set.
+#The code is similar to neuralNet.py but uses a perceptron model neural net.
 
 import sys
 import nltk
@@ -166,7 +166,8 @@ def input_builder(dataFile):
             results.append(properNoun)
 
             #add results to the overall list
-            listSent.append(results)  
+            listSent.append(results)
+            
     return listSent
 
 def output_builder(dataFile):
@@ -182,110 +183,95 @@ def output_builder(dataFile):
     ansList.append(anotherList)
     return ansList
 
-class DeepNet():
+class Perceptron():
     def __init__(self):
-        self.learn_rate = 1.0
-        self.bias_j = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
-        self.bias_k = 1.0
-        #These are the hidden Z values:
-        self.z_values = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
-        self.k_values = 0.0
+        #Set the weights to zero
+        #A single neuron model with n inputs and 1 output
+        #The weights are assigned to a n by 1 matrix, which has
+        #n is based on the number of dendrites
+        self.weights = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+        #Set the bias to zero
+        self.bias = 0.0
         
-        #Creates a random array of 10 length arrays
-        random.seed(1)
-        self.weights_j = random.rand(10,10)
-        #Creates a random array of 10 length arrays
-        random.seed(2)
-        self.weights_k = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+        #Set the learning rate to one
+        self.learn_rate = 0.99
 
+        #Set the bipolar target
+        self.target = 0.5
 
-    
-    def train(self,train_inputs,train_outputs,iterations):
-        for num in xrange(iterations):
-            index = 0
-            for item in train_inputs:
-                #Currently in a single sentence,
-                #we are calc'ing vals for hidden z unit
-                z_int = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
-                for j in xrange(10):
-                    z_int[j] = self.bias_j[j]
-                    for i in xrange(10):
-                        z_int[j] += item[i]*self.weights_j[i][j]
-                for l in xrange(10):
-                    self.z_values[l] = self.bi_sigmoid(z_int[l])
-                    
-                #Calc'ing vals for output k unit
-                y_int = self.bias_k
-                for k in xrange(10):
-                    for j in xrange(10):
-                        y_int += self.z_values[j]*self.weights_k[k]
-                self.k_values = self.bi_sigmoid(y_int)
-
-                #Backpropogation of Error
-                error_k = (train_outputs[0][index] - self.k_values) * self.derivative(y_int)
-                weight_corr_Y = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-                for i in xrange(10):
-                    weight_corr_Y[i] = self.learn_rate * error_k * self.z_values[i]
-                bias_k_change = self.learn_rate * error_k
-
-                error_In_Z = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-                for k in xrange(10):
-                    error_In_Z[k] = error_k * self.weights_k[0][k]
-                error_Z = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-                for i in xrange(10):
-                    error_Z[i] = error_In_Z[i] * self.derivative(z_int[i])
-                weight_corr_Z = random.rand(10,10)
-                for i in xrange(10):
-                    for j in xrange(10):
-                        weight_corr_Z[i][j] = self.learn_rate * error_Z[j] * item[i]
-                bias_j_change = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-                for i in xrange(10):
-                    bias_j_change[i] = self.learn_rate * error_Z[i] 
-
-                #Updates weights and biases
-                for x in xrange(10):
-                    self.weights_k[x] += weight_corr_Y[x]
-                self.bias_k += bias_k_change
-
-                for i in xrange(10):
-                    for j in xrange(10):
-                        self.weights_j[i][j] += weight_corr_Z[i][j]
-                for i in xrange(10):
-                    self.bias_j[i] += bias_j_change[i]
+    def train(self, train_inputs, train_outputs):
+        #stopping condition sentinel
+        stop_cond = 0
+        counter = 0
+        hello = [0,0,0,0,0,0,0,0,0,0]
+        while stop_cond == 0:
+            for x in xrange(10):
+                hello[x] = self.weights[x]
+            
+            for i in xrange(len(train_inputs)):
+                #calculates the output
+                output = self.think_single(train_inputs[i])
+                #calculate the answer now
+                answer = self.calc_ans_single(output)
                 
-                index += 1
+                if answer != train_outputs[0][i]:
+                    number = len(self.weights)
+                    for k in xrange(number):
+                        self.weights[k] +=  self.learn_rate * train_outputs[0][i] * train_inputs[i][k]
+                    self.bias += self.learn_rate * train_outputs[0][i]
+               
+            counter += 1
+            print "This is hello: " + str(hello) 
+            print self.weights
+            if hello == self.weights:
+                print "How many times the while loop ran: "
+                print counter
+                stop_cond = 1
+            
 
-    def think_single(self, single_input_list,single_output_list):
-        input_l = []
-        input_l.append(single_input_list)
-        output_l = []
-        output_l.append(single_output_list)
-        self.train(input_l,output_l,1)
-        return self.k_values
+    def think_single(self, single_input):
+        summa = 0.0
+        num = len(single_input)
+        for i in xrange(num):
+            summa += single_input[i] * self.weights[i]
+        return self.bias + summa 
+
     
-    
-    def bi_sigmoid(self,value):
-        return (2.0/(1+exp(-value))) - 1 
-
-    def derivative(self,value):
-        return (0.5)*(1+bi_sigmoid(value))*(1-bi_sigmoid(value))
-
-    def calc_ans_single(i):
-        if i < -.25:
-            return -1
-        elif i > .25:
+    def calc_ans_single(self,single_input):
+        if single_input > self.target:
             return 1
+        elif single_input < (-1 * self.target):
+            return -1
         else:
             return 0
+
+        
+    def think(self, inputs):
+        #Pass inputs through the network
+        #This calculates sum of each input dendrite
+        #times its weight
+        return self.bias + dot(inputs, self.weights)
+
+    
+    def calc_ans(self, x):
+        #Goes through the logic to generate the answer
+        for i in x:
+            if i > self.target:
+                return 1
+            elif i < (-1 * self.target):
+                return -1
+            else:
+                return 0
 
     def check(self, test_inputs, test_outputs):
         correct = 0.0
         total = len(test_outputs[0])
         for i in xrange(len(test_inputs)):
             #calculates the output
-            output = self.think_single(test_inputs[i],test_outputs[i])
+            output = self.think_single(test_inputs[i])
             #calculate the answer now
-            answer = self.calc_ans_single(output) 
+            answer = self.calc_ans_single(output)
             print "Algo thinks the answer is: " + str(answer)
             print "The actual answer is: " + str(test_outputs[0][i])
             if answer == test_outputs[0][i]:
@@ -293,11 +279,11 @@ class DeepNet():
 
         return 'Percentage correct: ' + str((correct/total)*100) + '%'
                 
+        
+        
 
-    
 def main():
-    test = DeepNet()
-   
+    perceptron = Perceptron()
     inFile = str(sys.argv[1])
     outFile = str(sys.argv[2])
 
@@ -307,11 +293,23 @@ def main():
     test_input_set = input_builder(outFile)
     test_output_set = output_builder(outFile)
 
-    test.train(input_set,output_set,1000)
-    test_acc = test.check(test_input,test_output)
-
-    print test_acc
+    #print input_set
     
+    print "Bias before training: "
+    print perceptron.bias
 
 
+    print "Perceptron weights before training: "
+    print perceptron.weights
+
+    
+    perceptron.train(input_set,output_set)
+    test_accuracy = perceptron.check(test_input_set,test_output_set)
+
+    print "Bias after training: "
+    print perceptron.bias
+    print "Print the resulting weights after training: "
+    print perceptron.weights
+
+    print test_accuracy
 main()
