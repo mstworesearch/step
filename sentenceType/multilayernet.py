@@ -310,7 +310,7 @@ def main():
     test_input_set = input_builder(outFile)
     test_output_set = output_builder(outFile)
 
-    test.train(input_set, output_set, 1000)
+    test.train(input_set, output_set, 100)
     
     test_acc = test.check(test_input_set, test_output_set)
 

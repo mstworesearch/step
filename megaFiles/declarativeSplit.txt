@@ -1,246 +1,525 @@
-There exists in the game a completion rate that you can increase by completing certain tasks in the game. ~-1
-The only way you can see what your total completion progress is at is by beating the Main Quest Walkthrough. ~-1
-After defeating the final boss you will be allowed to load the last auto-save before the end, and the save file will have a star that denotes you have completed the game on that save file. ~-1
-In this save file, you can look at your map on the Sheikah Slate, and in the bottom left corner alongside the time of day and temperature is a new percentage out of 100% that tracks your total completion. ~-1
-However, this completion percentage ONLY applies to what has been discovered on the map. ~-1
-There is no overall completion percentage for other activities in the game - but you'll also be able to track how many Main Quests, Side Quests, and Shrine Quests you have completed out of the total amount in your Adventure Log. ~-1
-Interestingly enough, not everything in the game counts toward a total completion rate, as the percentage only applies to what is seen on the Sheikah Slate's Map - this means things like quests and the Hyrule Compendium don't count to the 100% completion as it is not an overall indicator. ~-1
-In fact, there are only four main categories that are tracked on the map: Dungeons cleared (and their location appearing on the map), Korok Seeds (and the icon that appears once you have claimed a seed), Shrine Discoveries, and Location Discoveries. ~-1
-Each of these will count towards approximately .08% (sometimes you may get a 0.9% increase) of your completion rating. ~-1
-Based on what we know, this boils down to the following -  While these following categories can be tracked, they are not officially tallied into your completion rating located on the map page. ~-1
-We still recommend you take the time to do them all, if not for the rewards some may have, then for the additional bragging rights and feeling of completion! ~-1
-It's one part of IGN's guide showing you the strategies, Collectibles, and locations you need to know to beat every MGS 5 mission. ~-1
-Hideo Kojima is in the game as a prisoner for rescue in Side Ops #112. ~-1
-A radio recording utilized in the horror demo P.T. ~-1
-(Silent Hills) that was originally directed by Hideo Kojima appears as an Easter Egg in Metal Gear Solid 5. ~-1
-The radio is located inside a CFA tent in Africa at guard post #17 just up the hill leading towards Ngumba Industrial Zone. ~-1
-The news recording details a grisly murder and plays in a radio hidden in a tent just beyond an outpost encampment. ~-1
-This is the same audio recording from the radio in P.T. ~-1
-Obtaining Cassette Tape 204863 will give you access to the music present in P.T. ~-1
-If you listen carefully in Shago Village, the sound of the swinging chandelier in the foyer of P.T. ~-1
-can be heard in the background. ~-1
-If you leave some Skulls alive en route to Code Talker's mansion, a boombox within the mansion will be playing the ending monologue you got upon beating PT and receiving the ending. ~-1
-During the Prologue, the game asks for the player to input their birthdate. ~-1
-On the date of the inputted birthdate, start up the game and then return to Mother Base to trigger a special Birthday cutscene with Miller, Ocelot and some MB soldiers. ~-1
-Depending on how far into the game you've progressed, Huey and Code Talker will also appear in the scene. ~-1
-If Quiet is at Mother Base, a separate scene will occur with her, where she leaves Snake a special birthday message. ~-1
-Currently the game saves only the newest date. ~-1
-So if today is September 5th of 2015 and your birthday is January 1st and you change the date to January 1st of 2016, when you start to play the game again with the date of September 5th 2015, nothing will save because it is a previous date to the last save. ~-1
-Meeting this special character unlocks the "Wandering Mother Base Soldier" Side Ops missions. ~-1
-If Big Boss spends FIVE in-game days out in the field without returning to the ACC, he'll eventually get so filthy that he starts attracting flies. ~-1
-Returning to Mother Base in this condition triggers a special "welcome back" cutscene featuring Ocelot, some MB soldiers, and a bucket of water. ~-1
-There is an alternate cutscene of Snake's dousing that will occur if Quiet is with you in the ACC. ~-1
-If Snake's bond with Quiet is at 60% or higher, there is a special cutscene that can be triggered when returning to Mother Base. ~-1
-To trigger the scene, Quiet must be with Snake in the chopper and return to Mother Base during rainy conditions. ~-1
-When Snake returns to Mother Base, the special scene of Quiet and Snake having some fun in the rain will trigger. ~-1
-There are three cages in the middle of the Quarantine Platform at Mother Base that Snake can use to house all of the Skulls that he extracts plus the Man on Fire. ~-1
-The three types of Skulls that appear are the Mist Skulls (from Mission 1 & 5), the Armor Skulls (from Mission 16 & 29), and the Camouflage Skulls (Mission 28). ~-1
-Two of each Skull will be placed into the cages where they just flail about constantly. ~-1
-As for the Man on Fire, he can be found in the cage behind the Skulls. ~-1
-There are several unlockable items from Metal Gear Solid V: Ground Zeroes that can be used in The Phantom Pain. ~-1
-The full list of transfers and unlockables can be found here. ~-1
-There is a secret way to get Quiet back after Mission 45. ~-1
-Depending on certain conditions during a mission, Snake can trigger a special cutscene that affects the mission:        During the Prologue, you will find a flyer on the bulletin board just outside of Snake's room. ~-1
-The image on the flyer is from the MGS5: Ground Zeroes promo. ~-1
-Although a smaller reference, when picking up Diamonds, Ocelot has a rare chance to say "That'll fetch a high price." ~-1
-This is a direct nod to the merchant from Resident Evil 4, who has since become well known due to his often repeated lines. ~-1
-To further cement this, Ocelot says the line with a funny voice, clearly trying to mimic the merchant. ~-1
-In the opening scenes of the game, the nurse in the hospital can be seen rearranging lilies at Snake's beside. ~-1
-This particular type of lily, called "Star of Bethlehem," are seen in the field where Big Boss has his final confrontation with The Boss at the end of Metal Gear Sold 3: Snake Eater. ~-1
-Located in the courtyard of the Cyprian hospital you are escaping from in the intro is a huge statue of a female figure riding a horse. ~-1
-A closer look reveals that the identity of this figure is almost definitely The Boss from earlier games. ~-1
-During Mission 12 Hellbound or Side Op 143 you can spot photographs hanging on the AI Pod (or on the ground after the AI Pod flies away). ~-1
-One of them shows Strangelove holding a 4-year-old Hal Emmerich, also known as Otacon, Solid Snake's companion during the events of Metal Gear Solid 1, 2 and 4. ~-1
-During Side Op #111, Ocelot talks about Quiet and her abilities. ~-1
-He then makes a quick mention of a man that had the same abilities as Quiet in the GRU's Cobra Unit. ~-1
-The man in question is The End, an elite sniper that Naked Snake battled in Metal Gear Solid 3. ~-1
-You will see a real box appear and fall on your head. ~-1
-When Snake finds Ocelot on Mother Base, shooting him in the head with the tranquilizer gun will make him mutter one of four phrases in sequence. ~-1
-First is, "That won't work on me, I've had drug resistance training." ~-1
-Though he does trail off while trying to say the last word. ~-1
-Then he will say: "La-li-lu-le-lo" a reference to the code word for the Patriots in Metal Gear Solid 3. ~-1
-But for real this time. ~-1
-And wasn't it the greatest? ~-1
-The pay-off was two-fold: one, Cole and Cassie's son isn't evil (whew!) ~-1
-and two, Olivia gets to be the Big Bad she was built to be. ~-1
-We ended up in the same places as we did last year too: the house of cedar and pine in 1959, and Titan in 2163, but everyone was changed, and everything had a different meaning. ~-1
-The chase across history that Cassie, Cole, and Athan engaged in before they finally all ended up in 1959 was great fun, showing how far our time travelers have come since their earlier splinting days. ~-1
-Those nifty vests not only help move the story along more quickly, they have a cool steampunk aesthetic to boot. ~-1
-This entire remarkable season has revolved around Cassie's unconditional mother's love for her and Cole's child. ~-1
-Almost everyone else seems determined to kill him, is betrayed by Cassie's (and eventually Cole's) decision to hide his identity and try to save him, but her instinct that he wasn't born evil and thus could be saved if separated from the crazy cultists were correct. ~-1
-Cole was right too--nothing bad could come from their time oasis or from their love. ~-1
-It was great how, even with the stakes at their highest, the scene in the house played as parents trying to get their kid on the right path while he rolled his eyes at how they just don't get it, man. ~-1
-So, Athan was never the Witness. ~-1
-He was a witness, little w. In a truly insane twist, the real Witness was Olivia. ~-1
-And similar to Ramse's reveal as one of the creators of the time machine, one reason we didn't see it coming was because she didn't see it coming. ~-1
-Olivia has gone from one of the most devoted members of the Army of the 12 Monkeys to it's most disillusioned enemy and now it turns out...she's the god that she was so angry at for not being what she'd hoped. ~-1
-I mean, there's a lot to unpack there but ultimately it suits someone as selfish as Olivia to end up being the source of their own religious devotion. ~-1
-One of the weaker elements of Season 3 seemed to be the too quick "is that all it is?" ~-1
-wrap up of Ramse and Sam's involvement in all this, so it was cool that it was actually intentional. ~-1
-We didn't know it, but this is Olivia's story. ~-1
-Thus Ramse and Sam got short shrift because Olivia didn't care about their story, just how they could be used to further hers. ~-1
-It certainly makes sense that someone bred to be unbreakable and alone and who was raised in a box would be able to unleash a plague and all the other sick stuff the Witness did/is going to do but it's typically mindbending of this show that she's now going to have to ensure her own awful childhood. ~-1
-Alisen Down makes Olivia so terrifying yet surprisingly sympathetic at times. ~-1
-She was frightened when she first saw, ala Luke Skywalker in the cave, her face in the enemy's mask, but clearly embraces it once she has time to think it over, and kill the false Witness, Athan. ~-1
-Oh, and Pallid Man. ~-1
-He probably deserved a bigger send-off, but like I said before, Olivia's telling this story and she's just so completely over her brother after 200 years of his flower-petal nonsense. ~-1
-Our time family was torn apart for the latter part of the season, with Jones having gone all Team Olivia, since killing The Witness was at the top of both their to-do lists. ~-1
-That felt a little forced, though she's teamed-up with former enemies Jen, Ramse and Deacon and those alliances sort of mostly worked out so it's not completely implausible. ~-1
-Like everything on 12 Monkeys that doesn't work 100%, it just could have probably used a little more time to develop more satisfactorily. ~-1
-Jennifer had a great scene to kick off "Witness" but then took a bit of a backseat role as she and Athan prepped for his trip to 2163, and presumably for the final battle that she will fight alongside the others once they're reunited. ~-1
-The way Jen walked Athan through the "Athan is healing" montage like it was Primary stuff as opposed to TV production stuff was very clever. ~-1
-Athan may not have been The Witness, but he clearly has a special relationship to time and his miraculous birth coupled with his ultimate sacrifice definitely gives him that Chosen One cache. ~-1
-I'm sure we'll see many glimpses of the dead next season but is there any chance at all for that "another life" Athan and Cole spoke of when they were saying their goodbyes? ~-1
-It's hard to imagine a way for Cole and Cassie's love to surmount death and destiny to raise a family together, though it's equally hard not to wish for it, too. ~-1
-And Time appears to have a thing for Athan, given that it allowed him to stay conceived, timelines be damned. ~-1
-Some questions I still have after watching the finale that I expect will be answered in Season 4: What's the deal with Cole's mysterious mom? ~-1
-Will Cole master the red tea and save the world through his time tripping? ~-1
-Is Virus Meat Man Cole? ~-1
-When is the Cole who saved Cole in "Mother" from? ~-1
-He seemed more evolved than the Coles we know so far. ~-1
-And when will everyone finally just listen to Jennifer? ~-1
-12 Monkeys ended its stellar Season 3 with an episode that changed our understanding of everything we thought we knew about the story so far. ~-1
-"The Witness" had plenty of action, but it was the emotional story beats of betrayal, redemption and sacrifice that made the episode soar. ~-1
-Now that our heroes know that Olivia is the key to everything, their mission in Season 4 seems fairly straightforward, though we've been told that there are no straight lines when it comes to time travel. ~-1
-Could saving Olivia from herself be the key? ~-1
-The killing people gambit never seems to pay off. ~-1
-Whatever the mission ends up being, it's bound to be made more difficult by the fact that  the Army of the 12 Monkeys no longer has any interest in protecting Cassie and Cole. ~-1
-If you enjoy reading comic books and not having to pay for things, it's pretty much a perfect storm of awesome. ~-1
-As usual, publishers are going all-out to celebrate this year's FCBD. ~-1
-We've broken down the 17 books you should be on the lookout for this year, from Marvel's Secret Empire tie-in to a new Avatar adventure from Dark Horse. ~-1
-Bear in mind that while these comics are free for consumers, store owners still have to pay to order them, so consider throwing your LCS a bone and make a few actual purchases while you're there. ~-1
-Most shops will be running special sales and other promotions to take advantage of the festivities. ~-1
-If you don't know where your nearest comic shop is, Comic Shop Locator has the answer. ~-1
-To help you suss out which movies should be on your list over the coming months, we showcase these 25 must-see flicks opening from the end of April until the end of August. ~-1
-Link returns in the adventure The Legend of Zelda: The Minish Cap! ~-1
-As he searches an unfamiliar land for fragmented relics called Kinstones, Link will have to take a closer look at the ground beneath his feet. ~-1
-Using the power of a mystical hat called The Minish Cap, the Hylian hero will shrink down for a massive quest... on a microscopic scale! ~-1
-The Kinstones have been cracked into fragments and spread across the world, and only by fusing them together can you solve puzzles and unlock secrets. ~-1
-Link will have his work cut out for him as he fights evil in his own land then shrinks to help the Minish people, a miniature race in dire need of a hero. ~-1
-It's a hot mashup of new and old! ~-1
-You play as the eponymous Shovel Knight, a small knight with a huge quest. ~-1
-Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. ~-1
-He wields a ShovelBlade: a multipurpose weapon whose techniques have now been lost to the ages. ~-1
-Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly! ~-1
-But, between Shovel Knight and his beloved stands a cadre of villainous knights. ~-1
-These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. ~-1
-April 1, 2015 - The list of games for download is both long and lovely. ~-1
-September 24, 2014 - To celebrate Nintendo's 125th anniversary, we've compiled a list of the company's 125 greatest and most beloved games. ~-1
-September 10, 2014 - IGN takes a look at Link, the Hero of Hyrule, in all of his interpretations. ~-1
-September 25, 2013 - Everyone knows Miyamoto and Aonuma. ~-1
-May 3, 2013 - Five ways to occupy your time before Animal Crossing: New Leaf takes over your life on June 9. ~-1
-April 17, 2013 - Much-loved Zelda classics coming to 3DS Virtual Console in May. ~-1
-July 21, 2011 - Tickets for The Legend of Zelda 25th Anniversary Symphony Concert Tour go on sale soon. ~-1
-April 17, 2006 - News story about PLAY! ~-1
-These summits will happen throughout the London Games Festival, which will take place from April 1 - 10. ~-1
-For their next collaboration, Bendis and Marquez are delivering a new take on the Defenders, one that clearly shares a few things in common with the upcoming Netflix show. ~-1
-Marvel held one of their "Next Big Thing" press calls on Tuesday to shed more light on the new Defenders comic. ~-1
-Both Bendis and Marquez were in attendance, as was Executive Editor Tom Brevoort. ~-1
-With the team roster being what it is in this series, there's no denying the fact that Defenders is banking on the excitement for Netflix's upcoming Defenders TV series. ~-1
-But Bendis reminded those on the call that he actually set the stage for this series way back in his New Avengers run. ~-1
-All four main characters were included in New Avengers Vol. ~-1
-2, and the series ended in 2012 with a tease for a potential Heroes for Hire spinoff. ~-1
-Five years later, Defenders is basically making good on that promise, albeit with a different team name. ~-1
-Some of those have their own secrets. ~-1
-Consumables exist! ~-1
-Consumables include things like incendiary ammo, cryo ammo, and shield capacitors. ~-1
-Ryder can buy and discover consumables in containers. ~-1
-Enemies occasinally drop them as well. ~-1
-The button that pulls up the Favorites menu is listed on the bottom right corner of that menu. ~-1
-You can access the Favorites in the weapons and consumables quick menu. ~-1
-This is never explained in a pop-up tutorial, but Ryder is able to quick-cycle through their equipped weapons while in combat, instead of constantly having to use the weapon menu. ~-1
-We've got everything you need to deck out your trophy cabinet. ~-1
-Activision Blizzard confirmed the acquisition of eSports organization Major League Gaming back in January. ~-1
-Chairman of Activision Blizzard Media Networks Steve Bornstein said today: "We're building a network dedicated to the thrill of competition and the passion of the fans." ~-1
-MLG.tv showed off its new "Enhanced Viewing Experience" (EVE) at the IAB Digital Content NewFronts today, which has a built-in system that shows match statistics, leaderboards, and insights based on what the viewer is watching. ~-1
-In addition, former pro gamer Chris Puckett has been unveiled as the new host of a daily ESR broadcast, which will show premium highlights, interviews, and news segments. ~-1
-This new content will be launched during the MLG Anaheim Open, a Call of Duty: Black Ops III tournament starting on June 10. ~-1
-The event will also see a deeper collaboration with Facebook to share a number of new formats and programming to a wider audience. ~-1
-In other eSports news, a large announcement is coming from ESL tomorrow. ~-1
-Also, did you know IGN is teaming up with SiriusXM for a brand new eSports show? ~-1
-Make sure to visit what he thinks is the best website in the world, but is actually just his Twitter page. ~-1
-Activities are just one of the many distractions that can yield loot, or more information about the world. ~-1
-Below are all the activities, and what they do for you. ~-1
-These are, as you would expect, camps full of Bandits. ~-1
-You're reward is the loot they drop, and a decent amount of XP. ~-1
-These robotic strongholds are special areas where you must fight and solve puzzles while venturing deeper into a robot production facility. ~-1
-At the core will be a large machine, and once dead, you can unlock new powers. ~-1
-These upgrade your staff, allowing you to Override more machines. ~-1
-Much like Bandit Camps, these are areas marked on the map where Corrupted Machines live. ~-1
-Your reward for doing so will be loot and a lot of XP. ~-1
-There are 5 hunting grounds located around the map. ~-1
-Each one has 3 different puzzles/battles to win. ~-1
-These are also great for XP, offering huge rewards for completion. ~-1
-Scattered around the map are giant machines called Tallnecks. ~-1
-While in the edit view of a page, you'll see a media library in the right column in the Rich Text editor (not the mark-up editor). ~-1
-The "Upload" button allows you to choose up to five image files at a time and upload them into the media library. ~-1
-Once an image is uploaded into the media library, it can be placed into the rich text editor by simply clicking on the image thumbnail in the library. ~-1
-The image will appear where you last left your mouse cursor, allowing you to precisely position images within a body of text - the different squares will embed the image as full width or half-width of the page. ~-1
-A single image may be inserted to fit the full width of the wiki column. ~-1
-The wiki column has a width of 468 pixels. ~-1
-When you click on it, it will create a blank page. ~-1
-The first thing you want to do is to determine where the page you are creating should be on the navigation. ~-1
-You can place your page "Before" or "After" a particular section in the navigation - note that IGN's style guide mandates alphabetical ordering (numbers and symbols ahead of A to Z) over all else. ~-1
-In some cases, you may not need to add a page to the navigation (an example of this page would be achievements and trophies). ~-1
-That option is present in the second drop-down (where all the sections are), as "Do Not Add to Navigation". ~-1
-For most purposes, the before and after options are probably the ones you will use most. ~-1
-Once you've determined where you page will be located on the navigation, and before doing more, you need to name the page correctly. ~-1
-Please note that certain punctuation and characters should be avoided in page names - refer to this page for Invalid Page Punctuation. ~-1
-The above method is something that let's you add a page to the wiki and update the navigation box all at once. ~-1
-However, you may also add a page after it's created, or put a "place-holder" page first and then edit the page after. ~-1
-Clicking the "Edit Nav" link brings you to a tri-column interface to make changes to the wiki's navigation box. ~-1
-You can add a link to a page (or create a placeholder page) by using the "Add Section", "Add Page", or "Add Sub Page" links on each column. ~-1
-The middle and right column links appear only after you click on a page in the column left of them; this is to make sure pages and placeholders are organized on the wiki navigation. ~-1
-Remember that when naming a page, there are certain punctuation and symbols you should refrain from using. ~-1
-For placeholder pages, you may now find the link on the navigation. ~-1
-If you are still having trouble with this process, you may ask the staff for assistance. ~-1
-Spoilers are details that reveal outcomes of stories, plots, events and fates of characters in a television show, movie, book or videogame. ~-1
-Oftentimes, spoilers can be handled with a simple announcement at the top of a page using the "Red Box":  For short, single-sentence spoilers, you may want to use the fancy spoiler tags. ~-1
-If you believe something on our wikis requires the spoiler tag, please use it. ~-1
-Please note that placing the spoiler tag all over a page will result in an ugly page. ~-1
-DJs and makes bad YouTube videos sometimes, too. ~-1
-With the May, 19th release of Alien: Covenant, the franchise now has six films total (no, the AVP films do not count), the four Ripley-centric installments and Scott's two prequels. ~-1
-With that in mind, there are several new home releases on the horizon. ~-1
-The event is being held in Las Vegas, NV on December 2. ~-1
-Amazon to Release eSports Brawler by Killer Instinct Devs - IGN  Amazon Game Studios has announced Breakaway, a four on four "mythological sport brawler," from Double Helix, the team behind Killer Instinct. ~-1
-The game's description says it is "made by streamers, for streamers." ~-1
-Your team builds its composition from legendary warriors, each with their own skills, weapons, and Buildables, structures which will change the way the game plays out. ~-1
-Breakaway's Morgan La Fey In an interview with Eurogamer, head of Amazon Game Studios OC Patrick Gilmore said: "The teams that invest heavily in Buildables invariably control the entire arena, so it's part of the deeper meta of the game. ~-1
-You can be very good at combat, you can be very good at team composition, but the team that's very good with Buildables is going to have an edge on you." ~-1
-The hero roster is comprised of a mix of real, fictional, and mythological people, such as Arthurian enchantress Morgan Le Fay, and famous pirate Anne Bonny. ~-1
-Plus, you'll be fighting across locations such as El Dorado, Atlantis, and the river Styx. ~-1
-Gilmore told Eurogamer the game is very quick to get to the action, which is helped by being able to see the entire playing field at all times. ~-1
-"That made it really effective for strategy as a team sport," he said. ~-1
-"For a broadcaster streaming the game there would never be an opportunity to miss a key action." ~-1
-Breakaway's Spartacus For streamers, you'll be able to customize your broadcast with real-time statistics, plus you'll be able to play with your audience using the Broadcaster Match Builder, and interact with them with integrated polls and loyalty point wagering. ~-1
-If you're looking to get in on the action, you can put yourself on the Alpha waiting list. ~-1
-Amazon's Latest Echo Device Includes a Touchscreen - IGN  Echo Show, the latest device in Amazon's line of Echo devices, has been revealed. ~-1
-Video: What Every Amiibo Does Players can use a variety of both Legend of Zelda themed Amiibo and non-Zelda Amiibo to scan in to perform a variety of features depending on the particular Amiibo. ~-1
-Amiibo can be scanned in using the Sheikah Slate, much like other Runes. ~-1
-Note that by default, the Amiibo Rune is not active and listed on your Runes - you must turn the ability on in the options menu. ~-1
-Amiibo can be scanned once a day - but before you scan one, read about this exploit. ~-1
-Because the rewards are randomly generated each time you scan an Amiibo, it's very easy to take advantage of. ~-1
-Zelda-themed Amiibos will summon special chests, some with exclusive equipment, plus a different variety of items that drop outside of the chest sometimes within barrels and crates. ~-1
-Most weapons will not appear in these chests until the Paraglider is received. ~-1
-Others will not appear until after the Main Quest, Free the Divine Beasts, have been completed. ~-1
-These special, rare items are noted with an *asterisk. ~-1
-The chart below lists what every Zelda Amiibo does. ~-1
-Virtually all Amiibo not affiliated with The Legend of Zelda can also be used to summon a supply drop of ingredients, but the ingredients are always a random assortment anywhere from three to six - but does not include a chest. ~-1
-These Amiibo can be scanned once per day. ~-1
-Like most things, maps can be purchased from various vendors, that mark their relative location on the map. ~-1
-Below you can see additional detailed info on where to find them. ~-1
-This cup is tucked behind a small, ruined wall, just a tiny bit to the South-West of the Sawtooth Site icon. ~-1
-"A cracked and battered vessel once dear to the Old Ones. ~-1
-Bears the legend 'FARO'. ~-1
-Sets of ancient vessels can be traded in Meridian for valuable rewards." ~-1
-Found near the bottom-left area of Devil's Thirst. ~-1
-There is a river running through here. ~-1
-Looking over the river is a pile of trash that will contain the vessel. ~-1
-Seems to show the terrain of the Gatelands. ~-1
-Sets of ancient vessels can be traded in Meridian for valuable rewards." ~-1
-Found near the first Bandit Camp in the Devil's Thirst area. ~-1
-Just north of the camp is a bridge. ~-1
-On the West side of the bridge, just a dozen feet away, is a trash pile containing the cup. ~-1
-Shows a curious flying machine. ~-1
-Found in the Devil's Thirst area. ~-1
-Near the Bandit Camp in Devil's Thirst. ~-1
+The type of mattress you need depends on your body type. ~-1
+If this is the only way you can fall asleep, the Mayo Clinic recommends placing a pillow under your lower abdomen and pelvis to prevent back strain. ~-1
+Caffeine added to pain relievers can make them more effective in treating headaches. ~-1
+Walking is one of the easiest and most effective ways of increasing your activity. ~-1
+Some standards include Icy Hot or Tiger Balm. ~-1
+Folic acid can be found in green, leafy vegetables, citrus fruits, legumes, peanuts and cereal grains. ~-1
+Muscle-strengthening activities that are moderate or vigorous intensity should be included 2 or more days a week. ~-1
+Common triggers such as fatty or fried foods, tomato sauce, alcohol, chocolate, mint, garlic, onion, and caffeine may make heartburn worse. ~-1
+Placing a small pillow between your knees helps keep the back in a good position. ~-1
+Our popular Couch to 5K running plan is designed to get just about anyone running 5km in nine weeks. ~-1
+Its also helpful to limit processed foods, as they are often cooked at high temperatures. ~-1
+To keep your weight in a healthy range, focus on permanent changes to your eating and exercise habits. ~-1
+If it's not possible to elevate your bed, you can insert a wedge between your mattress and box spring to elevate your body from the waist up. ~-1
+Some people find water helps to calm cravings. ~-1
+A good goal is to try to get 30 minutes of moderate activity, such as a brisk walk, most days of the week. ~-1
+carrot sticks and reduced-fat hummus dip) or homemade popcorn (without fat, sugar or salt). ~-1
+Cooked breakfast. ~-1
+It can worsen chronic pain. ~-1
+Trim trails are made up of simple pieces of exercise equipment dotted around parks and recreation areas. ~-1
+Some sources of these oils are: Canola, corn, olive, safflower, sesame, sunflower, and soybean oils, Nuts such as walnuts, almonds, and pine nuts, Nut and seed butters, Salmon and trout. ~-1
+If youre a side sleeper, putting a pillow between your knees can help by allowing your muscles to relax more. ~-1
+Soft margarines (especially squeeze margarines) have less trans fatty acids than stick margarines. ~-1
+These include fresh fruits and vegetables, whole grains, legumes, beans, nuts, seeds and fish. ~-1
+Bring your own Home-cooked food is often lower in calories and fat and cheaper than food bought on the high street. ~-1
+It will also prevent you from overeating on every meal. ~-1
+Whether in front of the TV or using your computer at work, maintaining correct posture is essential in fighting pain. ~-1
+Carrying extra weight on your body means more work for your lower back muscles. ~-1
+But you can minimize the impact by sitting properly. ~-1
+This will help fill you up. ~-1
+Heres an exercise that may help. ~-1
+This means keeping your feet flat on the floor and your computer keyboard within easy reach so youre not leaning forward. ~-1
+It also helps your muscles use glucose. ~-1
+Spending a few nights on the floor with a pillow underneath your feet can really help your back, even if it might be a little trickier to stay sound asleep. ~-1
+Regular exercise can help ease the symptoms of obstructive sleep apnea even without weight loss. ~-1
+Sleep apnea episodes decrease when you get plenty of sleep. ~-1
+Another option is to do a combination of both. ~-1
+Stress intensifies chronic pain. ~-1
+Neck exercises may ease tension headache pain caused by holding your head in one position for too long. ~-1
+Fruits are often packed with fiber, as well as vitamins, minerals, and antioxidants. ~-1
+When you drop those extra pounds, you'll put less stress on your joints. ~-1
+Heat also relieves stiffness, and cold can relieve muscle spasms and pain. ~-1
+They are low in calories and high in water content so they can help you feel full with fewer calories. ~-1
+Homocysteine is an amino acid that builds and maintains tissues. ~-1
+Capsaicin. ~-1
+Many restaurants have special menus or will prepare food with less salt. ~-1
+Raising your head with additional pillows is not effective. ~-1
+Sources of healthy fats include avocados, walnuts, flaxseed, olive oil, sesame oil, and sunflower oil. ~-1
+Lifting children and other heavy objects is a common source of back pain. ~-1
+According to the Mayo Clinic, dehydration may aggravate the symptoms of some chronic conditions, like headaches and back pain. ~-1
+Grains are naturally low in fat. ~-1
+Refined wheat products, like white bread, stimulate your bodys inflammatory response. ~-1
+It may reduce your calorie intake for a brief period, but youll be much hungrier later on and more likely to overeat. ~-1
+Just a short walk around the house or office can help relieve tight joints and muscles. ~-1
+Stretching on a regular basis can help relieve stiff, achy, or painful joints. ~-1
+The heavier you are, the more impact there is on your back with each step. ~-1
+Youll feel satisfied before you feel full and have more chance to take part in the conversation and enjoy the atmosphere. ~-1
+If youve had a back injury or are dealing with certain back conditions, there may be some exercises that you shouldnt do at all until your doctor gives approval. ~-1
+Once your mouth is minty clean and fresh, some people find it helps to get rid of a craving. ~-1
+Wearing cushioned shoes or standing on a thick rubber mat can also help relieve pressure when you have to stand for long hours. ~-1
+Such a diet would be rich in protective antioxidants, essential fatty acids and fiber. ~-1
+You can then swing your legs out of bed to stand up slowly. ~-1
+For most American women, the discretionary calorie allowance is no more than 100 calories and no more than 150 calories for men. ~-1
+Over-the-counter drugs acetaminophen, aspirin, ibuprofen, and naproxen sodium can ease headache pain. ~-1
+These same ingredients can make a filling vegetable or bean-based soups as well. ~-1
+Alcohol and sugary soft drinks can be high in calories. ~-1
+However, not everyone can afford a personal masseuse when back pain kicks in. ~-1
+These are high in fat. ~-1
+Instead, look out for grilled, roasted, poached, steamed or baked dishes. ~-1
+A small glass of cranberry or apple juice racks up nearly 100kcal and a small 250ml yoghurt based smoothie can be about 136kcal. ~-1
+Acupuncture involves inserting thin needles into specific points on your body. ~-1
+Too much homocysteine may promote atherosclerosis. ~-1
+Massage can undo clenched muscles and help you relax, so it can be especially good for stress or tension headaches. ~-1
+This is a really easy way to incorporate them into your meals. ~-1
+Cold and heat may relieve pain and muscle tension that can accompany headaches. ~-1
+Complementary therapies may help you feel better by reducing your pain or stress. ~-1
+This can indicate a much more serious problem, such as a stroke, tumor, or an aneurysm. ~-1
+These therapies include: Acupuncture, Biofeedback, Guided imagery, Healing touch, Massage, Meditation, Yoga. ~-1
+If you're overweight, losing 7 percent of your body weight can reduce the risk of diabetes. ~-1
+They're high in calories, however, so eat them in moderation. ~-1
+Hot drinks can work too. ~-1
+Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve), might relieve acute back pain. ~-1
+Meat cooked at high temperatures makes compounds that can cause inflammation in your body. ~-1
+Smoking decreases the lower esophageal sphincter's ability to function properly. ~-1
+Drugs that combine acetaminophen, aspirin, and caffeine may work better for some people than when each is taken alone. ~-1
+It helps your cells use insulin. ~-1
+Drinking a large amount of alcohol over a short period of time may be significantly worse for your health than frequently drinking small quantities. ~-1
+These may include contact sports, racket sports, golf, weight lifting, dancing, jogging, and sit-ups. ~-1
+Caffeine may help relieve headache symptoms by helping pain relief drugs work better and faster. ~-1
+When taking NSAIDs for long periods of time, your doctor should closely follow how youre doing so she can watch for side effects and change your treatment if needed Stick with foods that are baked without any oil additives. ~-1
+Men shouldnt regularly drink more than 3-4 units of alcohol a day. ~-1
+Low-fat or fat-free frozen yogurt can help you boost the amount of dairy products you eat while offering a sweet treat. ~-1
+That means keeping refined carbohydrates, sweets, and animal fats to a minimum. ~-1
+The tennis ball trick. ~-1
+Some people find chewing sugar-free gum curbs their appetite. ~-1
+It works in much the same way that NSAIDs do. ~-1
+Its perfectly acceptable to have just a  main course. ~-1
+Even a small amount of weight loss can open up your throat and improve sleep apnea symptoms. ~-1
+Other good food choices include: pasta (plain), grains, dried beans, potatoes, and brown rice. ~-1
+People who are overweight have extra tissue in the back of their throat, which can fall down over the airway and block the flow of air into the lungs while they sleep. ~-1
+Thats why eating a lot of refined pastas, cereals, and grain products might make your arthritis pain flare up. ~-1
+Some good options include: broccoli, spinach, peppers, carrots, green beans, tomatoes,  celery, cabbage. ~-1
+Saturated fat is found in foods from animals, such as fatty meats, whole milk, butter, cream, and other dairy foods made with whole milk. ~-1
+Older adults should follow the guidelines for adults, if possible. ~-1
+Meat can be a rich source of protein, B vitamins, iron and zinc. ~-1
+Clothes that fit tightly around your waist put pressure on your abdomen and the lower esophageal sphincter. ~-1
+It may not be noticeably helpful unless consistently applied three to four times a day for several weeks. ~-1
+If your hips and waist already line up straight, a harder mattress might feel better because it will give you more support. ~-1
+Many are loaded with antioxidants -- substances that can help protect your cells from damage. ~-1
+Creams and gels available at drugstores may provide temporary relief from osteoarthritis pain. ~-1
+This is one part of proper office ergonomics. ~-1
+There are plenty of pain rubs and ointments on the shelves. ~-1
+Trans fats are found in processed foods with hydrogenated or partially hydrogenated oil (boxed crackers, cookies, & cakes). ~-1
+Cushioned soles reduce the impact when youre walking on hard surfaces. ~-1
+Chances are, your urge will pass once the times up. ~-1
+Getting a caffeine fix could give you 193kcal or more in one hit if you opt for cappuccino or mocha. ~-1
+Choosing a lightweight stroller or vacuum can also help. ~-1
+Topical capsaicin  an active component in hot chili peppers  applied over an arthrititic joint may be an alternative for people who can't take NSAIDs. ~-1
+Liquid or soft tub margarines are also fine. ~-1
+As well as helping you lose weight, regular exercise can have a major effect on the duration and quality of sleep. ~-1
+Foods high in cholesterol include egg yolks, fatty meats, shrimp, and dairy foods. ~-1
+Over-the-counter NSAIDs are effective pain relievers, but they are intended for short-term use. ~-1
+Sometimes back pain can be so severe that it might require use of painkillers. ~-1
+This will help take the pressure off your lower back. ~-1
+Walking has been shown to provide health benefits and a low risk of injury. ~-1
+Both heat and cold can relieve pain in your joint. ~-1
+It is also in tropical oils (palm, palm kernel, and coconut). ~-1
+These types of fat can raise the low-density lipoprotein, or LDL (bad), cholesterol in your blood. ~-1
+Gently massaging a sore or tense muscle is one of the most effective ways to loosen it up and relieve pain. ~-1
+Sleeping on your back can cause your tongue and soft palate to rest against the back of your throat and block your airway. ~-1
+Standing for long periods can be stressful on your lower back. ~-1
+Drinking water regularly may help keep hunger pangs in check. ~-1
+A soft mattress can be good if your hips are wider than your waist because it will let your spine stay straight while you sleep. ~-1
+Sleeping on your stomach can be bad for your back. ~-1
+But sleep apnea will likely come back if you regain the weight. ~-1
+Smoking increases your risk of various diabetes complications. ~-1
+Adequate folic acid intake in your diet may reduce the amount of homocysteine in your blood. ~-1
+Everyone has specific triggers. ~-1
+Wholemeal pitta bread and bagels are alternatives to brown loaf bread. ~-1
+Aquatic therapy is a low-impact activity that helps ease back pain. ~-1
+One study shows that a compound in olive oil, called oleocanthal, helps prevent inflammation. ~-1
+Omega-3s may help relieve your joint pain and decrease morning stiffness. ~-1
+Unhealthy snacking High-calorie snacks will do your waistline no favors, but healthier snacks can help you control hunger and keep your energy levels up. ~-1
+Some typical turn-offs with these ointments are the smell and difficulty of putting it on your own back. ~-1
+It may be in fried foods, crackers, chips, and foods made with shortening or stick margarine. ~-1
+Lean meats, such as chicken, turkey, fish, and seafood, are low fat and reduce symptoms of acid reflux. ~-1
+The natural resistance from the water promotes muscle strength and reduces pressure on your bones and joints. ~-1
+Exercise helps to control blood glucose, too. ~-1
+This will help you keep your blood sugar under control. ~-1
+One popular product is Biofreeze, a natural compound with a cooling sensation without the greasy texture. ~-1
+These relax the muscles in the back of your throat, interfering with breathing. ~-1
+Theyre convenient, easy to pack in handy portions and they require very little preparation. ~-1
+A healthier breakfast will set you up for the day and stop you becoming hungry before lunch. ~-1
+Gluten-containing whole grains and yeast additives may also impact arthritis pain. ~-1
+They are not only bad for our teeth but also can provide 140kcal in just one can. ~-1
+A lot of tasty foods can give you this nutrient. ~-1
+The AHA recommends consuming less than 1500 mg of sodium a day. ~-1
+Smoking contributes to sleep apnea by increasing inflammation and fluid retention in your throat and upper airway. ~-1
+Wedges are available at drugstores and medical supply stores. ~-1
+Your doctor will tell you how often you should do that and what your target range should be. ~-1
+Sleep apnea may go into complete remission in some cases if you return to a healthy weight. ~-1
+The following foods have a high fat content. ~-1
+Skipping breakfast can lead to unplanned and unhealthy mid-morning snacking or bingeing at lunchtime. ~-1
+Limited evidence suggests it may help people with heartburn, but major studies have not proved a benefit. ~-1
+Fresh, frozen, tinned and juiced fruit and veg all count towards your 5 A DAY. ~-1
+You can reduce your levels of AGEs if you cut back on grilled, fried, broiled, and microwaved meats. ~-1
+They work by reducing inflammation in your body. ~-1
+Even if youre not swimming, you can walk in waist-high water or perform arm and leg exercises against the resistance of the water. ~-1
+To effectively treat your pain, your doctor needs to know how you've been feeling between visits. ~-1
+Eating fruits, vegetables, and whole grains will help keep your blood glucose levels steady. ~-1
+Because water is filling, it can trick your body into thinking its satisfied. ~-1
+Knee taping. ~-1
+Some sauces and dressings can push up a dishs calorie content. ~-1
+Theyre a cheap, low-fat source of fibre, protein, vitamins and minerals. ~-1
+here are many over-the-counter medicines for pain, even some targeted for back pain, such as Tylenol or Advil. ~-1
+These fish provide omega-3 fats, which are heart-healthy. ~-1
+Bending forward at your waist or making quick and jerking motions can cause you more back pain. ~-1
+Trans fat is found in all foods made with hydrogenated oils. ~-1
+Even a slight loss in excess weight may help relieve constriction of your throat. ~-1
+But using any headache medicine for more than three days a week may cause medication overuse headaches. ~-1
+The more skin on the fruit, the more fiber it contains. ~-1
+Your weight can fluctuate from day to day, so weighing yourself daily may not give a true picture of your weight loss. ~-1
+These will help you get the calcium and potassium that your body needs. ~-1
+Avoiding partially hydrogenated oils will reduce trans fats. ~-1
+The effectiveness of these medications can vary from user to user, so go with what feels best and suits your needs. ~-1
+Stress also adds to how your body reacts to pain, so the calmer and more relaxed you are, the more your back will thank you. ~-1
+Losing weight can also help protect the muscles and joints in your knees and hips. ~-1
+A general rule is that 2 minutes of moderate-intensity activity counts the same as 1 minute of vigorous-intensity activity. ~-1
+Techniques to calm stress and anxiety may reduce signs and symptoms of GERD. ~-1
+Relieving tense muscles may help calm tension headaches, the most common type of headache. ~-1
+They are just outside of the thick muscle that runs down the middle (about 2 inches from the center). ~-1
+Driving long distances can put a strain on your low back. ~-1
+But that much oil also gives you about 400 calories. ~-1
+Depending on the location and cause of your back pain, certain stretches can reduce back pain, while others can cause more pain. ~-1
+They're called advanced glycation end products (AGEs), and they're linked to diseases such as arthritis, heart disease, and diabetes. ~-1
+Other creams contain medications, such as aspirin-like compounds, that are absorbed into your skin. ~-1
+Protein can also help you feel fuller for longer. ~-1
+These types of fish are high in omega-3 fatty acids, which can help lower your total cholesterol. ~-1
+You can also get chocolate with coffee and chocolate with malt varieties. ~-1
+You can also try doing some gentle stretches. ~-1
+This helps protect your back, hips, and knees. ~-1
+Pain creams work best on joints that are close to the surface of your skin, such as your knees and fingers. ~-1
+Mayonnaise is about 80% fat, and a just few dollops will turn a healthier meal into an unhealthy one. ~-1
+Herbal remedies can have serious side effects, and they may interfere with medications. ~-1
+You can break up your workout into three 10-minute sessions of aerobic exercise and get the same benefit as one 30-minute session. ~-1
+Smoking worsens obstructive sleep apnea. ~-1
+Activities that require pushing, such as vacuuming, using a stroller, and mowing the lawn can strain your lower back. ~-1
+Some antioxidants, found in fruits and veggies like apples, onions, shallots, and strawberries, may also help reduce joint inflammation and pain Add Omega-3 Fatty Acids. ~-1
+Nuts sometimes get a bad rap because of their fat content, but they contain healthy types of fat  monounsaturated fat and omega-3 fatty acids. ~-1
+Olive oils with the strongest flavor have the highest amount. ~-1
+Alcohol, as well as drink mixers, can cause either high or low blood sugar, depending on how much you drink and if you eat at the same time. ~-1
+A portion of fruit or veg is 80g. ~-1
+Exercise can increase your endurance and strengthen the muscles around your joint, making your joint more stable. ~-1
+If you force a stretch, you could do more damage than good. ~-1
+Some creams numb the pain by creating a hot or cool sensation. ~-1
+Air-popped, plain popcorn. ~-1
+Your workplace may have a gym or you may have access to a swimming pool or squash courts. ~-1
+If sandwiches arent your thing, you could cook extra in the evenings and take the leftovers to work, saving you money. ~-1
+Also, spices add flavor to food and serve as a good substitute for salt. ~-1
+Assistive devices can make it easier to go about your day without stressing your painful joint. ~-1
+The AHA recommends that no more than half of your discretionary calories should come from added sugars. ~-1
+Excess pounds put pressure on your abdomen, pushing up your stomach and causing acid to back up into your esophagus. ~-1
+Physical activity -- from working out to doing chores -- lowers your blood sugar. ~-1
+Veg such as kale or swiss chard are loaded with calcium and iron. ~-1
+This is especially true if the extra pounds are around your waist. ~-1
+A cane may take weight off your knee or hip as you walk. ~-1
+Theres an increasing range of lower alcohol choices available and most also have fewer calories. ~-1
+Examples include lifting weights, working with resistance bands, and doing situps and pushups, yoga, and heavy gardening. ~-1
+Losing track of your calories or mindless munching can easily sabotage an otherwise well-planned diet. ~-1
+Strapping tape may help ease the pain of knee osteoarthritis. ~-1
+One drink is 12 ounces (oz) of beer, 5 oz of wine, or 1 oz of liquor. ~-1
+Correct posture in a chair means having all the bones in your spine lined up neatly, like a stack of perfectly aligned blocks. ~-1
+These activities should work all of the major muscle groups (legs, hips, back, chest, abdomen, shoulders, and arms). ~-1
+Too often, the bodys aches and pains arent caused by physical injury but because we push ourselves too hard. ~-1
+Some people only experience sleep apnea when sleeping on their back. ~-1
+Even a small amount of weight loss can relieve some pressure and reduce your pain. ~-1
+Obesity or even being somewhat overweight increases the stress on your weight-bearing joints, such as your knees and your hips. ~-1
+Deep breathing exercises and mental imagery may reduce stress and ease headache pain. ~-1
+Theyre quick and easy to prepare in the microwave or on the hob. ~-1
+Your doctor may also advise against doing leg lifts while lying on your stomach. ~-1
+Acupressure may help ease headache pain. ~-1
+Herbal remedies sometimes used for GERD symptoms include licorice, slippery elm, chamomile, marshmallow and others. ~-1
+Aerobic and resistance training can help reduce sleep apnea symptoms, while yoga is also good for strengthening the muscles in your airways and improving breathing. ~-1
+Thai food is great as it tends to feature lots of steamed or stir-fried vegetables. ~-1
+The peels of apples, pears and most fruits with pits add interesting texture to recipes and contain healthy nutrients and fiber. ~-1
+Stretching serves two main purposes: It loosens up tense muscles and strengthens those that need some help. ~-1
+Once you get the hang of it, regular stretching can ease back pain quickly and effectively. ~-1
+Thats why caffeine is often an ingredient in medications. ~-1
+It comes in menthol and unscented varieties as well as a spray form. ~-1
+A hot shower or moist heat applied to the back of the neck may ease symptoms of infrequent tension headaches. ~-1
+This way, you can feel full while eating fewer calories. ~-1
+You can choose single vegetables  such as peas, carrots, green beans or cauliflower  or mixed veg. ~-1
+Too much sedentary time can contribute to many health conditions. ~-1
+Homemade is best, to avoid the high fat, sugar or salt content in some commercial brands. ~-1
+People who have tension headaches may also feel overly sensitive to either light or sound. ~-1
+These plant foods are also high in omega-3 fats. ~-1
+Some fancy coffees, sweet fizzy drinks, smoothies and alcoholic drinks can pack a calorie punch. ~-1
+Lean meats, such as chicken, turkey, fish, and seafood, are low fat and reduce symptoms of acid reflux. ~-1
+Sources of healthy fats include avocados, walnuts, flaxseed, olive oil, sesame oil, and sunflower oil. ~-1
+The following foods have a high fat content. ~-1
+If you have a clotting disorder, blood thinners, such as warfarin (Coumadin, Jantoven), may be recommended to prevent clots in the vessels feeding your bones. ~-1
+Heavy drinking is one of the top risk factors for developing avascular necrosis. ~-1
+Tiny bits of fat are the most common substance blocking blood supply to bones. ~-1
+Steroid-related bone damage appears to worsen with repeated courses of high-dose steroids. ~-1
+Some forms of hypothyroidism are caused by a lack of sufficient iodine. ~-1
+In such cases, using iodized salt or iodine-enriched foodscan be beneficial. ~-1
+But eating too much iodine can have the opposite effect and suppress thyroid gland activity. ~-1
+Although a high-fiber diet is usually recommended, too much fiber eaten right after taking thyroid medicines may interfere with their absorption. ~-1
+Caffeine, tobacco, and alcohol can also influence the effectiveness of thyroid medicine. ~-1
+If left untreated, having low levels of thyroid hormones can reduce cardiac fitness. ~-1
+Those with hypothyroidism are also at a greater risk of ventricular arrhythmias, or a rapid heart beat. ~-1
+In addition to medications, exercise also plays a key role in strengthening the cardiovascular system. ~-1
+It's also important to note that too much dietary fiber can impair the absorption of synthetic thyroid hormone. ~-1
+Certain foods, supplements and medications can have the same effect. ~-1
+From strawberries to blueberries to raspberriesthe choice is yours. ~-1
+Berries pack a powerful punch because theyre bursting with antioxidants, which keep your immune system strong. ~-1
+Broccoli is part of the goitrogen familyfoods that can decrease the amount of thyroid hormone your thyroid gland produces. ~-1
+Foods that belong to this group are known as cruciferous foods. ~-1
+Not a broccoli fan? ~-1
+Other cruciferous veggies include cauliflower, kale, and cabbage. ~-1
+Turkey is an excellent source of proteinimportant because your body needs protein for energy and to build and maintain muscle. ~-1
+Weight loss is a common hyperthyroidism symptom, so eating enough protein can help ensure you stay at a healthy weight. ~-1
+Dont eat meat? ~-1
+No problemyou can get protein from beans and nuts. ~-1
+Just try to eat protein at every meal. ~-1
+If you have hypothyroidism, you probably feel tired throughout the day. ~-1
+What helps? ~-1
+Establishing a sleep schedule and sticking to it helps. ~-1
+In general, the sweet spot for sleep is between 7 and 9 hours. ~-1
+Exercise in general will help you feel better and improve your muscle tone and cardiovascular system. ~-1
+Weight-bearing exercise is important for people with Graves' disease because it helps maintain bone density. ~-1
+Exercise also can help reduce your appetite and increase your energy level. ~-1
+Many relaxation techniques can help you maintain a positive outlook, especially when coping with illness. ~-1
+It is well-documented that in Graves' disease stress is a risk factor, so learning to relax and achieve balance in your life can help maintain physical and mental well-being. ~-1
+The Institute of Medicine recommends 1,000 milligrams (mg) of calcium a day for adults ages 19 to 50 and men ages 51 to 70. ~-1
+That calcium recommendation increases to 1,200 mg a day if you're a woman age 51 or older or a man age 71 or older. ~-1
+The Institute of Medicine also recommends 600 international units (IUs) of vitamin D a day for adults ages 19 to 70 and 800 IUs a day for adults age 71 and older. ~-1
+Certain essential oils like frankincense and myrrh reduce stress on the body and can improve thyroid function. ~-1
+People with thyroid problems can also benefit from a A1 casein free diet. ~-1
+These can influence thyroid function, therefore it is best to avoid them. ~-1
+Fresh green juices from nutrient dense vegetables such as kale, spinach and spirulina can help provide vital nutrients. ~-1
+Many herbs such as basil, rosemary, and oregano can be anti-inflammatory and help improve thyroid function. ~-1
+Bone broth supports detoxification and aids in healing of leaky gut issues that can make hyperthyroidism worse. ~-1
+These items can irritate the bladder and aggravate a frequent or urgent need to urinate. ~-1
+Drinking lots of fluids is especially important if you're getting chemotherapy or radiation therapy, particularly on treatment days. ~-1
+This prevents bacteria in the anal region from spreading to the vagina and urethra. ~-1
+If you're susceptible to infections, showering rather than bathing may help prevent them. ~-1
+The delicate skin around these areas can become irritated. ~-1
+These products can irritate the urethra and bladder. ~-1
+The potassium in canned goods leaches into the water or juice in the can. ~-1
+If you use this juice in your meal or drink it, it can cause a spike in your potassium levels. ~-1
+If you have CKD, you should have your potassium checked once a month by your doctor. ~-1
+Theyll do this with a simple blood test. ~-1
+The blood test will determine your monthly level of potassium millimoles per liter of blood (mmol/L). ~-1
+You should decrease the fat, salt, protein, and potassium in your diet. ~-1
+Reducing salt and fluid intake can help control blood pressure and prevent fluid overload. ~-1
+Quitting smoking if you smoke can also help. ~-1
+DASH stands for Dietary Approaches to Stop Hypertension. ~-1
+Its a diet rich in fruits, veggies, low-fat dairy products, whole grains, fish, poultry, beans, seeds, and nuts. ~-1
+Its low in salt and sodium, sugars and sweets, fats, and red meats. ~-1
+This mineral is found naturally in many foods. ~-1
+Its most common in table salt. ~-1
+There are many fats which are actually good for you and can aid you reduce cholesterol and triglyceride levels. ~-1
+Good sources of healthy fats which can be included in your diet include fatty fish such as salmon, tuna, olive oils, canola oils seeds, nuts, avocados etc. ~-1
+You must take low carbohydrate vegetables like spinach, broccoli, leafy greens, peppers, onions etc in your diet to manage dyslipidemia. ~-1
+Apart from this, it is essential to add whole fruits instead of dried fruits. ~-1
+It is also essential to watch your intake of refined carbohydrates like white bread and sugary foods and beverages. ~-1
+Saturated fat and trans fat raise your total cholesterol and LDL cholesterol. ~-1
+The most common sources of saturated fat in the diet are red meat, processed meats and dairy products that are not fat-free. ~-1
+Monounsaturated fat  found in olive and canola oils  is a healthier option. ~-1
+Avocados, almonds, pecans and walnuts are other sources of healthy fat. ~-1
+Trans fats, which are often found in margarines and commercially baked cookies, crackers and snack cakes, are particularly bad for your cholesterol levels. ~-1
+Not only do trans fats increase your total LDL ("bad") cholesterol, but they also lower your HDL ("good") cholesterol. ~-1
+Foods listing "partially hydrogenated oils" in the ingredients contain trans fats. ~-1
+The most concentrated sources of cholesterol include organ meats, egg yolks and whole milk products. ~-1
+Various nutrients found in whole grains promote heart health. ~-1
+Oatmeal and oat bran are other good choices. ~-1
+Some types of fish  such as cod, tuna and halibut  have less total fat, saturated fat and cholesterol than do meat and poultry. ~-1
+Salmon, mackerel and herring are rich in omega-3 fatty acids, which help promote heart health. ~-1
+Moderate use of alcohol may increase your levels of HDL cholesterol  but the benefits aren't strong enough to recommend alcohol for anyone who doesn't drink already. ~-1
+This means no more than one drink a day for women and one to two drinks a day for men. ~-1
+Excess weight contributes to high cholesterol. ~-1
+Losing even 5 to 10 pounds can help lower total cholesterol levels. ~-1
+Regular exercise can help improve your cholesterol levels. ~-1
+And you don't need to get all 30 to 60 minutes in one exercise session. ~-1
+If you can squeeze in three to six 10-minute intervals of exercise, you'll still get some benefits. ~-1
+Some exercise is much better than no exercise. ~-1
+Cigarette smoking increases your risk of heart disease because it damages your blood vessels and speeds up the accumulation of plaque within arteries. ~-1
+And remember that duration is more important than intensity. ~-1
+One drink per day for women; two per day for men. ~-1
+Mainly vegetarian diet with soy and other vegetable proteins, plant sterols, almonds, and soluble fiber. ~-1
+At least 120 minutes per week. ~-1
+The extra bonus of activities like these? ~-1
+Social connections also help your brain. ~-1
+You can reduce the chance that you will get a migraine by avoiding the foods and drinks that may trigger them. ~-1
+Keeping a food diary can help you identify something that upsets your body and leads to an episode. ~-1
+Consider switching your workout time to the early morning when its generally cooler, especially during hot summer months. ~-1
+This will allow your body to get used to the lower oxygen levels. ~-1
+If youve recently moved to or are visiting a location at high altitude, drinking more fluids and staying away from alcohol can also help. ~-1
+Dehydration may be a trigger for migraines. ~-1
+If youre over 65 and/or have numerous health conditions, youre more at risk for delirium. ~-1
+Setting boundaries in your professional and personal life can help you feel better. ~-1
+This includes getting plenty of sleep, eating a healthy diet, avoiding negative people, and participating in enjoyable activities. ~-1
+You can set reminders on your phone when you have events or other cant-miss responsibilities. ~-1
+This can be a healthy outlet for you to openly and honestly divulge feelings of sadness, anger, or fear. ~-1
+Your employer or church may have an assistance program that can help. ~-1
+You can also check out the National Alliance on Mental Illness and the Depression and Bipolar Support Alliance. ~-1
+Although this can be difficult when youre feeling low, having a support network around you has a number of benefits. ~-1
+If youre interested in this potential therapy and live in an area where medicinal marijuana is legal, consider discussing this with your doctor. ~-1
+They can work with you to determine whether this is an option for you. ~-1
+Attending social events when you can and finding new hobbies that could help you meet new people can all help you build new relationships too. ~-1
+If youre exercising regularly, getting enough sleep, and eating well, maintaining a healthy weight should fall into place. ~-1
+A number of different prescription medications can cause depression as a side effect. ~-1
+You can talk to your doctor and see if other medications or treatments can resolve your condition without depression as a side effect. ~-1
+If you are experiencing anxiety, its important to reduce stress in your life. ~-1
+In addition to exercise, you might want to take breaks from your routine or plan a vacation. ~-1
+Remember that you can practice healthy habits at home to reduce fatigue-related symptoms if you experience lethargy. ~-1
+Examples include: drinking plenty of fluids, eating a healthy diet, getting plenty of sleep, reducing stress levels. ~-1
+Slow, gentle activity in the morning can help wake up tired muscles and stiff joints. ~-1
+Deep, relaxed breathing when you wake up may also be helpful. ~-1
+Some people prefer more lumbar support than others. ~-1
+Resting your feet on a low stool can also help ease back pain when sitting. ~-1
+If you spend most of your day at a computer, your work station can affect your backs health. ~-1
+You shouldnt have to lean forward to reach your keyboard or see your monitor. ~-1
+You should also adjust your computer screen so it is just at or below eye level. ~-1
+Your shoulder may make a great phone rest when you need to multitask in a pinch. ~-1
+But this posture is a common cause of neck pain and can also contribute to poor alignment in the back. ~-1
+When you need to make a hands-free call, use a shoulder support, headset, or the speaker function on your phone instead. ~-1
+Taking the stairs is often suggested as a way to fit more exercise into your day. ~-1
+But walking up stairs may not be the best exercise for some people with low back pain, especially older adults and those with knee problems. ~-1
+Its also important to get urgent care if your headache is accompanied by fever, stiff neck, seizures, numbness, double vision, dizziness, severe nausea, shortness of breath, or confusion. ~-1
+Potassium is found in a lot of fruits and veggies, like bananas, potatoes, avocados, and melons. ~-1
+These foods can affect potassium levels in your blood. ~-1
+Your doctor will let you know if you need to limit this mineral in your diet. ~-1
+If so, he may recommend you try low-potassium foods, like: Apples and apple juice, Cranberries and cranberry juice, Strawberries, blueberries, raspberries, Plums, Pineapples, Cabbage, Boiled cauliflower. ~-1
+Good sources of healthy fats include fatty fish like salmon and tuna, nuts, seeds, olive oil, canola oil and avocados. ~-1
+Fruits and vegetables are rich in dietary fiber, which can help lower cholesterol. ~-1
+Olive oil is main dietary fat; moderate wine consumption; limited amounts of red meat, dairy products, eggs, and poultry; increased amounts of vegetables, whole grains, fish, and tree nuts. ~-1
+Too much caffeine can increase cholesterol levels. ~-1
+They can help you quit drinking in a safe environment and prevent serious symptoms of alcohol withdrawal. ~-1
+Some herbal supplements are also used to treat depression, such as St. Johns Wort, SAMe, and fish oil. ~-1
+But in the long run, these substances can worsen depression and anxiety symptoms. ~-1
+It could be as simple as taking a daily walk, striking some yoga poses, or trying meditation. ~-1
+If someone spreads rumors or talks badly about someone as soon as they leave the room, theyre likely to do the same for you. ~-1
+Taking two doses at once to catch up on missed doses can be bad for you and others. ~-1
+Usually the impulse will pass as quickly as it appeared. ~-1
+You may need a way to get rid of some energy if youre hyperactive or feel restless. ~-1
+We all need help from time to time, and it's important to not be afraid to ask for it. ~-1
+For some children, being pulled out of a stressful or overstimulating situation can help them learn how to react more appropriately the next time a similar situation comes up. ~-1
+During this time together, you can look for opportunities to point out what your child does well and praise their strengths and abilities. ~-1
+Striving for success: Structure situations in a way that allows your child to find success. ~-1
+For instance, you might allow them to have only one or two playmates at a time so they dont get overstimulated. ~-1
+Then they start to expect it. ~-1
+If they get only negative feedback without ever hearing positive things about themselves, they'll start to think of themselves as bad. ~-1
+This lets them know what behavior you prefer, while letting them know that they can be good. ~-1
+They may help you to relax and focus your thoughts in the short-term but interferes with your medication and is very harmful to your body in the long-term. ~-1
+This medication may rarely make your blood sugar level rise, which can cause or worsen diabetes. ~-1
+Rarely, very serious conditions such as diabetic coma may occur. ~-1
+This drug may make you dizzy or drowsy or cause blurred vision. ~-1
+This medication may make you sweat less, making you more likely to get heat stroke. ~-1
+This medication passes into breast milk. ~-1
+Breast-feeding while using this drug is not recommended. ~-1
+WARNING:  Taking too much acetaminophen may cause serious (possibly fatal) liver disease. ~-1
+Adults should not take more than 4000 milligrams (4 grams) of acetaminophen a day. ~-1
+People with liver problems and children should take less acetaminophen. ~-1
+Do not take this medication for fever for more than 3 days unless directed by your doctor. ~-1
+This medication should be used only when clearly needed during pregnancy. ~-1
+Your doctor may substitute insulin for this drug during your pregnancy. ~-1
+It is not known whether this drug passes into breast milk. ~-1
+If you have to wake up before that, you may have some memory loss and may have trouble safely doing any activity that requires alertness, such as driving or operating machinery. ~-1
+5 milligrams a day. ~-1
+You may feel alert, but this medication may continue to affect your thinking, making such activities unsafe. ~-1
+A small amount of this medication passes into breast milk. ~-1
+Doing so can release all of the drug at once, increasing the risk of side effects. ~-1
+This medication may interfere with certain laboratory tests (including certain urine sugar tests), possibly causing false test results. ~-1
+You may mix the measured dose with a small amount of juice, water, soda, applesauce or pudding. ~-1
+This drug passes into breast milk. ~-1
+This medication may make you more sensitive to the sun. ~-1
+If you have diabetes, this product may affect your blood sugar levels. ~-1
+While there have been no reports of harm to healthy infants, this drug may have undesirable effects on infants who are ill or premature or have certain disorders (jaundice, high blood levels of bilirubin, G6PD deficiency). ~-1
+Therefore, breast-feeding is not recommended for infants with these conditions. ~-1
+This product may interfere with certain laboratory tests, possibly causing false test results. ~-1
+This medication may rarely cause a severe intestinal condition (Clostridium difficile-associated diarrhea) due to a type of resistant bacteria. ~-1
+This condition may occur during treatment or weeks to months after treatment has stopped. ~-1
+This drug passes into breast milk and may have undesirable effects on a nursing infant. ~-1
+Most MAO inhibitors should also not be taken for two weeks before and after treatment with this medication. ~-1
+Taking MAO inhibitors with this medication may cause a serious (possibly fatal) drug interaction. ~-1
+It is not known if this drug passes into breast milk. ~-1
+Very small amounts of this medication may pass into breast milk but is unlikely to harm a nursing infant. ~-1
+WARNING:  This drug can cause serious (possibly fatal) harm to an unborn baby if used during pregnancy. ~-1
+Therefore, it is important to prevent pregnancy while taking this medication. ~-1
+It is unknown if this drug passes into breast milk. ~-1
+If you are taking 2 doses each day, it may help to take 1 of the doses at bedtime. ~-1
+This medication passes into breast milk. ~-1
+Taking MAO inhibitors with this medication may cause a serious (possibly fatal) drug interaction. ~-1
+Most MAO inhibitors should also not be taken for two weeks before and after treatment with this medication. ~-1
+Certain drugs such as "water pills" (diuretics) may affect the normal balance of these minerals. ~-1
+Some products have ingredients that could worsen your heart failure. ~-1
+It is important to prevent pregnancy while taking this medication. ~-1
+It is unknown if this drug passes into breast milk. ~-1
+Some products have ingredients that could raise your blood pressure or worsen your heart failure. ~-1
+It is unknown if this medication passes into breast milk. ~-1
+However, similar drugs pass into breast milk. ~-1
+The effects on a nursing infant are unknown. ~-1
+This drug may make you dizzy or drowsy. ~-1
+This medication may make you more sensitive to the sun. ~-1
+This medication passes into breast milk. ~-1
+These drugs are similar to piroxicam and may increase your risk of side effects if taken together. ~-1
+Children have found patches that have fallen off or removed patches on sleeping adults and put them in their mouths or on their bodies with fatal results. ~-1
+(such as doing strenuous work/exercise in hot weather). ~-1
+Some patches may contain metals that can cause serious burns during an MRI. ~-1
+This drug passes into breast milk and may rarely have undesirable effects on a nursing infant. ~-1
+Taking MAO inhibitors with this medication may cause a serious (possibly fatal) drug interaction. ~-1
+Drinking alcohol while using this medication may cause stomach cramps, flushing, nausea, vomiting, and headache. ~-1
+The medication in this product may pass into breast milk in small amounts. ~-1
+It is unknown if this medication passes into breast milk. ~-1
+If you are also taking a drug to treat erectile dysfunction-ED or pulmonary hypertension (such as sildenafil, tadalafil), your blood pressure may get too low which can lead to dizziness or fainting. ~-1
+If you have diabetes, fluoxetine may affect your blood sugar levels. ~-1
+This drug may pass into breast milk and could have undesirable effects on a nursing infant. ~-1
+Taking MAO inhibitors with his medication may cause a serious (possibly fatal) drug interaction. ~-1
+Most MAO inhibitors should also not be taken for 2 weeks before and at least 5 weeks after treatment with this medication. ~-1
+Gabapentin passes into breast milk. ~-1
+Pregnancy may cause or worsen diabetes. ~-1
+You may experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar levels. ~-1
+Alcohol can rarely interact with glipizide and cause a serious reaction (disulfiram-like reaction) with symptoms such as facial flushing, nausea, vomiting, dizziness, or stomach pain. ~-1
+It is unknown if this medication passes into breast milk. ~-1
+However, similar drugs pass into breast milk. ~-1
+You may experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar levels. ~-1
+Alcohol can rarely interact with glipizide and cause a serious reaction (disulfiram-like reaction) with symptoms such as facial flushing, nausea, vomiting, dizziness, or stomach pain. ~-1
+This medication may make you more sensitive to the sun. ~-1
+During pregnancy, this medication should be used only when clearly needed. ~-1
+Pregnancy may cause or worsen diabetes. ~-1
+Your doctor may change your diabetes treatment during your pregnancy (such as diet and medications including insulin). ~-1
+Daily use of alcohol while using this medicine will increase your risk for stomach bleeding. ~-1
+This medication does not pass into breast milk. ~-1
+This drug may make you dizzy. ~-1
+If you have diabetes, hydrochlorothiazide may affect your blood sugar levels. ~-1
+During pregnancy, this medication should be used only when clearly needed. ~-1
+This drug passes into breast milk, but is unlikely to harm a nursing infant. ~-1
+During pregnancy, this medication should be used only when clearly needed. ~-1
+It is unknown if this medication passes into breast milk. ~-1
+This drug may make you dizzy. ~-1
+It is unknown if this medication passes into breast milk. ~-1
+This drug may make you dizzy or drowsy. ~-1
+This drug passes into breast milk and may have undesirable effects on a nursing infant. ~-1
+Current information shows that this drug may be used during pregnancy. ~-1
+Levothyroxine passes into breast milk but is unlikely to harm a nursing infant. ~-1
+You may experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar levels. ~-1
+This medication passes into breast milk, but is unlikely to harm a nursing infant. ~-1
+Your insulin needs may change while breast-feeding. ~-1
+This medication may make you more sensitive to the sun. ~-1
+This drug may make you dizzy or drowsy or cause blurred vision. ~-1
+This drug passes into breast milk and may affect milk production. ~-1
+Current information shows that this drug may be used during pregnancy. ~-1
+Levothyroxine passes into breast milk but is unlikely to harm a nursing infant. ~-1
+This drug may make you dizzy or drowsy. ~-1
+If you are planning pregnancy, become pregnant, or think you may be pregnant, immediately discuss with your doctor the benefits and risks of using this medication during pregnancy. ~-1
+This medication passes into breast milk and may have undesirable effects on a nursing infant. ~-1
+Grapefruit can increase the amount of this medication in your bloodstream. ~-1
+These products can react with atorvastatin, preventing its full absorption. ~-1
+Daily use of alcohol may increase your risk for liver problems, especially when combined with atorvastatin. ~-1
+Taking atorvastatin and red yeast rice products together can increase your risk of serious muscle and liver problems. ~-1
+This drug may make you dizzy. ~-1
+It is unknown if this medication passes into breast milk. ~-1
+Large changes in the amount of salt in your diet may change your lithium blood levels. ~-1
+Carefully follow the medication treatment plan, meal plan, and exercise program your doctor has recommended. ~-1
