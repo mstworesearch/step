@@ -283,6 +283,8 @@ class DeepNet():
 
     def check(self, test_inputs, test_outputs):
         correct = 0.0
+	false_pos_num = 0.0
+	false_neg_num = 0.0
         total = len(test_outputs[0])
         for i in xrange(len(test_inputs)):
             #calculates the output
@@ -291,11 +293,16 @@ class DeepNet():
             answer = self.calc_ans_single(output) 
             print "Algo thinks the answer is: " + str(answer)
             print "The actual answer is: " + str(test_outputs[0][i])
+	    if answer == -1 and test_outputs[0][i] == 1:
+		false_neg_num += 1
+	    if answer == 1 and test_outputs[0][i] == -1:
+		false_pos_num += 1 
             if answer == test_outputs[0][i]:
                 correct += 1
 
-        return 'Percentage correct: ' + str((correct/total)*100) + '%'
-                
+        return 'Percentage correct: ' + str((correct/total)*100) + '%' + '\n' + 'False Positive %: ' + str(false_pos_num/(1.0*total)) + '\n' + 'False Negative %: ' + str(false_neg_num/(1.0*total)) 
+   
+    
 
     
 def main():
