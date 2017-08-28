@@ -173,12 +173,15 @@ def output_builder(dataFile):
     #Reads in the data file
     #outputs a list of lists of answers. [[0, 1, 1, 0]]
     ansList = []
+    count = 0
     with open(dataFile, 'r') as fp:
         anotherList = []
         for line in fp:
             i = line.split(' ~')
             i[1] = i[1].replace('\n', '')
             anotherList.append(int(i[1]))
+	    count +=1
+	    print count
     ansList.append(anotherList)
     return ansList
 
