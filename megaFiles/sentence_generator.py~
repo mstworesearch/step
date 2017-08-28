@@ -1,7 +1,0 @@
-#Written by Matthew Wallace and Subhan Poudel on July 24, 2017
-
-import sys
-
-imperative_num = int(sys.argv[1])
-declarative_num = int(sys.argv[2])
-
